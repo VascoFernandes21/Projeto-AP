@@ -1,0 +1,2216 @@
+NOME	REGIME	ANO	NÚMERO	CURSO
+Erick Barros	normal	1	3378	EE
+Alexandre Araujo	normal	3	7505	EM
+Ana Beatriz Silva	normal	2	2741	CONT
+Alana Sales	normal	3	3129	GI
+Emanuella Pires	normal	2	4134	EC
+Carolina Viana	normal	3	7629	TDMO
+Nicolas da Rosa	normal	2	7432	EI
+Lais Lima	normal	1	3473	CONT
+Lara Souza	normal	1	4863	TDMO
+Sabrina Souza	normal	2	6894	TDM
+Ana Clara Costa	normal	1	1595	MKT
+Elisa Silva	normal	2	6653	EC
+Ana Julia Caldeira	normal	1	7054	TUR
+Caua Cardoso	normal	3	6506	CONT
+Julia Barbosa	normal	3	7556	GI
+Ana Julia Santos	normal	3	1012	CONT
+Yasmin das Neves	normal	3	3622	GE
+Marcelo Carvalho	normal	1	2123	CONT
+Caroline Fogaca	normal	2	4534	GI
+Gabrielly da Luz	normal	3	2168	GI
+Luiz Gustavo Dias	normal	2	2204	EC
+Melissa da Rocha	normal	2	6312	GI
+Maria Alice Jesus	normal	1	6375	EE
+Thales Aragao	normal	1	3340	TDMO
+Leandro Ribeiro	normal	1	2363	TDM
+Helena da Mata	normal	3	2145	TUR
+Bernardo Barbosa	normal	1	5082	MKT
+Andre Almeida	normal	2	7751	EM
+Eloah Alves	normal	3	7665	EI
+Lucca Martins	normal	2	5817	GI
+Fernanda Lima	normal	2	3336	EI
+Ana Sophia Gomes	normal	2	7060	EC
+Breno Melo	normal	2	7245	EA
+Ana Julia Cunha	normal	2	3038	TDMO
+Noah da Luz	normal	3	2755	EA
+Pedro Henrique Novaes	normal	2	7864	EI
+Catarina Rezende	normal	3	7378	TUR
+Joao Lucas da Cunha	normal	1	1299	EM
+Alexandre Rocha	normal	3	6326	EM
+Pedro Henrique Lima	normal	1	2136	EM
+Davi Lucas Castro	normal	2	2031	CONT
+Emanuelly da Cruz	normal	1	6795	EA
+Helena Lopes	normal	1	7134	MKT
+Alana Correia	normal	3	2919	TDMO
+Lorena Cardoso	normal	3	4456	TUR
+Luiz Otavio Castro	normal	2	3395	MKT
+Davi Lucas da Mata	normal	1	4483	GI
+Joao Teixeira	normal	3	6447	EA
+Kamilly Duarte	normal	3	6031	GI
+Emanuella Barbosa	normal	1	7737	MKT
+Maysa Ferreira	normal	1	4558	TDM
+Maria Fernanda da Costa	normal	1	1791	MKT
+Alicia Freitas	normal	2	4679	EI
+Luana Farias	normal	3	4304	CONT
+Rafael Correia	normal	2	7045	EA
+Manuela da Luz	normal	1	4524	EA
+Caue Farias	normal	1	3530	TDM
+Joao Lucas Peixoto	normal	2	4520	TDM
+Joao Freitas	normal	2	1957	EC
+Lara Melo	normal	3	4932	TDMO
+Renan Peixoto	normal	2	1582	EA
+Raquel Azevedo	normal	2	3819	TDM
+Marcela Rodrigues	normal	2	3186	TUR
+Joao Guilherme Fernandes	normal	2	3093	EC
+Marcos Vinicius Azevedo	normal	1	6873	TDM
+Cecilia da Cruz	normal	3	1800	MKT
+Luna Silveira	normal	1	4864	EE
+Fernanda Pinto	normal	3	3678	EE
+Vitor Hugo Oliveira	normal	2	2921	CONT
+Joana Rezende	normal	1	6135	EE
+Ana Clara Mendes	normal	2	3014	CONT
+Mariana Costela	normal	1	5925	EM
+Eloah Alves	normal	1	6183	TDM
+Julia da Mota	normal	2	7955	EA
+ Natalia Viana	normal	1	3153	TDM
+Marcela Carvalho	normal	2	3885	TDMO
+Anthony Pires	normal	2	5240	EI
+Leandro Novaes	normal	1	7799	EA
+Kevin Nascimento	normal	1	5899	CONT
+Pedro Henrique da Paz	normal	1	7291	MKT
+Gabriel Costela	normal	3	7881	GE
+Davi Lucca Dias	normal	2	4504	GI
+Amanda Goncalves	normal	1	1456	EE
+Emanuel Barros	normal	1	5497	EC
+Anthony Alves	normal	1	6012	EC
+Gabrielly Mendes	normal	1	3549	EC
+Marcelo da Luz	normal	1	4900	GI
+Ana Julia Nogueira	normal	2	4353	MKT
+Maria Fernanda das Neves	normal	1	2620	EM
+Maria Fernanda Rezende	normal	3	2591	EE
+ Gustavo Henrique da Mota	normal	3	5709	EC
+Luna Moreira	normal	2	6058	GE
+ Daniel das Neves	normal	1	3442	EI
+Yasmin da Cruz	normal	1	7157	EI
+ Joao Gabriel Dias	trabalhador-estudante	1	3236	EC
+Ana Julia Porto	trabalhador-estudante	1	4805	TDM
+ Sarah Cardoso	trabalhador-estudante	1	6406	TDMO
+Isabel Costa	trabalhador-estudante	1	5180	CONT
+Bianca Duarte	trabalhador-estudante	3	6463	EC
+Joao Vitor Costela	trabalhador-estudante	3	2358	EI
+Julia Almeida	trabalhador-estudante	1	3390	CONT
+Pedro Lucas Araujo	trabalhador-estudante	3	1821	CONT
+Francisco da Cruz	trabalhador-estudante	1	1277	MKT
+Nathan Peixoto	trabalhador-estudante	1	1117	EI
+Maria Alice Caldeira	trabalhador-estudante	3	5321	TUR
+Alexandre da Cruz	trabalhador-estudante	3	1933	EA
+Vicente Gomes	trabalhador-estudante	1	1500	TDM
+Julia Fernandes	trabalhador-estudante	3	3698	EE
+Gabriela Almeida	trabalhador-estudante	2	6465	TUR
+Ana Julia Nogueira	trabalhador-estudante	3	7349	EM
+Valentina Moraes	trabalhador-estudante	2	7545	GI
+Luiz Otavio Moreira	trabalhador-estudante	1	3429	EI
+Nicole Duarte	trabalhador-estudante	1	6517	CONT
+Sarah Melo	trabalhador-estudante	1	6656	TDM
+Barbara da Paz	trabalhador-estudante	1	3673	EE
+Francisco Ferreira	trabalhador-estudante	2	1280	EM
+Cecilia Pereira	trabalhador-estudante	2	2785	GI
+Stella Rodrigues	trabalhador-estudante	3	1087	EE
+Leandro Lima	normal	1	6808	EM
+Thiago Correia	normal	3	3119	MKT
+Ana Luiza Costa	normal	2	7636	CONT
+Lais da Luz	normal	1	2421	EC
+Giovanna Ribeiro	trabalhador-estudante	2	3738	EM
+Gabriela da Luz	trabalhador-estudante	3	2608	EE
+ Eduarda Mendes	trabalhador-estudante	2	1046	MKT
+Lucas Gabriel Novaes	trabalhador-estudante	2	7597	TDM
+Diogo Peixoto	trabalhador-estudante	2	6813	GI
+Agatha Farias	trabalhador-estudante	3	1615	EM
+Antonio Correia	trabalhador-estudante	1	1941	GE
+Rodrigo da Rocha	trabalhador-estudante	1	4378	EE
+Catarina Azevedo	normal	2	5729	TDMO
+Juliana Castro	normal	2	4460	EI
+Maria Sophia Sales	normal	2	3579	EI
+Eduarda Nunes	normal	3	7697	TDM
+Agatha Jesus	trabalhador-estudante	1	7088	GI
+Joana Araujo	dirigente-associativo	1	1891	EM
+ Maria Vitoria Moura	normal	2	2915	CONT
+Kamilly Alves	normal	3	7477	TUR
+Diego da Mota	normal	2	7286	EA
+Maria Vitoria Moura	normal	1	6591	EI
+Ana Vitoria Cardoso	normal	1	1639	GE
+Eduardo Mendes	normal	2	1363	EA
+Lucas Gabriel da Paz	normal	2	7443	GI
+Erick Ramos	normal	2	7496	CONT
+Vitor Hugo Silva	normal	2	1243	EM
+Lucas Gabriel Silva	normal	1	2328	EC
+Daniela da Mota	normal	2	2561	GI
+Joao Pedro Mendes	normal	3	1189	TUR
+Ana Carolina Fogaca	normal	1	3903	TDMO
+Davi Lucas Monteiro	normal	1	3436	TUR
+Valentina Monteiro	normal	1	7004	TUR
+Enzo Gabriel da Rocha	normal	2	1335	TUR
+Andre Jesus	normal	1	5474	GI
+Amanda da Rocha	normal	1	6665	EE
+Caue da Luz	normal	2	5941	EA
+Marcelo Goncalves	normal	3	3880	EE
+Barbara da Rosa	normal	1	6895	MKT
+Luiz Gustavo Jesus	normal	3	1804	GE
+Ana Martins	normal	1	4894	TUR
+Davi Lucca das Neves	normal	3	1996	EA
+ Yasmin Costa	normal	3	6568	EE
+Emanuella Fogaca	normal	3	5942	EE
+Danilo Porto	normal	3	4616	GE
+Carolina Fernandes	normal	2	5129	GE
+Maria Clara Cunha	normal	1	4536	EM
+Pedro Miguel Rezende	normal	1	7842	GE
+Lorenzo Dias	normal	2	2559	EA
+Eduardo da Cunha	normal	2	3306	MKT
+Melissa Fogaca	normal	3	5586	EM
+Sophie Rezende	normal	3	4984	TDM
+Otavio Alves	normal	2	2396	TDM
+Ana Carolina Novaes	normal	2	1943	EC
+Luiz Gustavo Nunes	normal	2	2832	TDMO
+Diego Ribeiro	normal	1	1408	MKT
+ Enrico Aragao	normal	1	2653	TDMO
+Alicia Correia	normal	3	1748	EI
+Marcelo Nascimento	normal	1	3924	MKT
+Maria Eduarda Dias	normal	1	7966	EC
+Gabriela Rezende	normal	3	1974	EA
+Paulo Jesus	normal	3	4990	GI
+Diogo Mendes	normal	2	3315	EE
+Pietra da Rosa	normal	2	1496	EE
+Guilherme Jesus	normal	2	1210	EE
+Fernando Correia	normal	2	7993	EA
+Joao Vitor Lima	normal	3	7974	EI
+ Ana Clara da Rocha	normal	1	6294	EM
+Raquel Caldeira	normal	1	2045	MKT
+Luna Souza	normal	3	4011	GI
+Murilo Pereira	normal	1	2283	EC
+Levi Jesus	normal	2	2910	MKT
+Alexandre Novaes	normal	1	2786	GE
+Laura Lopes	normal	1	3515	TDMO
+Rafael Duarte	normal	2	7156	MKT
+Daniela Correia	normal	3	7609	TDMO
+Emanuelly Nascimento	normal	1	2626	EM
+Davi Lucca Rocha	normal	3	6641	GE
+Maria Cecilia Gomes	normal	1	4479	TDMO
+Igor Novaes	normal	1	3407	TDMO
+Clarice da Mata	normal	1	5319	TDMO
+ Enzo das Neves	normal	2	7027	EC
+Raul Jesus	normal	3	4153	GE
+Lucca Carvalho	normal	1	7765	TDMO
+Juliana Rezende	normal	1	7680	EA
+Calebe da Rocha	normal	1	4474	TDM
+Clarice Ramos	normal	2	2824	CONT
+Sarah Costa	normal	1	7269	EA
+Ana Julia Nunes	normal	1	5144	CONT
+ Laura da Conceicao	normal	3	1856	TUR
+Igor da Costa	normal	1	6200	TDM
+Joao Miguel Rezende	normal	1	3329	EM
+Joao Guilherme Pereira	normal	3	1565	EA
+ Mariane Monteiro	normal	3	5029	MKT
+Raul da Paz	normal	2	1386	EE
+ Joaquim da Luz	normal	2	6766	GI
+Diogo Cardoso	normal	1	2217	EC
+Maria Eduarda Monteiro	normal	2	3362	GI
+Ana Laura Dias	normal	3	3500	GI
+Emanuelly Carvalho	normal	1	7970	EE
+Lucca Alves	normal	1	6987	GI
+Thales Barbosa	normal	3	6957	GE
+ Enzo Gabriel Pires	normal	2	3879	GE
+ Maria Julia Araujo	normal	3	3370	MKT
+Marcelo Gomes	normal	3	2859	EE
+Maria Luiza Fogaca	normal	2	6400	TUR
+Vitoria Moura	normal	1	5076	CONT
+Yasmin Rodrigues	normal	2	1319	TUR
+Diogo Goncalves	normal	2	7839	EM
+Carlos Eduardo Freitas	normal	2	2022	MKT
+ Bernardo Gomes	normal	2	6025	TDMO
+Maria Eduarda Caldeira	normal	3	7901	EE
+Rebeca Lopes	normal	2	6687	MKT
+ Heitor Barbosa	normal	2	3774	TUR
+Levi Ribeiro	normal	1	2965	EC
+ Maria Eduarda da Cruz	normal	2	2977	MKT
+Ana Sophia da Mata	normal	3	1544	CONT
+Joao Lucas Rezende	normal	3	6566	EA
+Otavio Costela	normal	3	5032	EE
+Renan Costela	normal	1	5706	EA
+Miguel Pires	normal	2	3430	TUR
+ Rafael Caldeira	normal	2	6160	EC
+Isadora Barbosa	normal	1	4398	TDMO
+Heloisa Pereira	trabalhador-estudante	3	3626	TDM
+Carlos Eduardo Mendes	trabalhador-estudante	3	7321	EA
+Isis da Conceicao	trabalhador-estudante	3	2758	EM
+Danilo Aragao	trabalhador-estudante	3	3079	CONT
+Maria Fernanda Silva	trabalhador-estudante	1	3160	GE
+Isabella Ramos	trabalhador-estudante	3	4535	TUR
+Maria Luiza Rocha	trabalhador-estudante	3	7186	EM
+Isadora Costela	trabalhador-estudante	3	2811	GI
+Amanda Ribeiro	trabalhador-estudante	2	3421	TDM
+ Alana Cardoso	trabalhador-estudante	3	3820	EM
+Maria Sophia Dias	trabalhador-estudante	3	1604	EE
+Stella Souza	trabalhador-estudante	1	7720	EC
+Fernando Pires	trabalhador-estudante	1	7783	EM
+Beatriz Barros	trabalhador-estudante	2	4973	EI
+Davi Porto	trabalhador-estudante	1	6874	EE
+ Kevin Novaes	trabalhador-estudante	1	4725	MKT
+Joao Lucas Novaes	trabalhador-estudante	3	7832	TDMO
+Larissa Costa	fdsgd	1	3620	MKT
+Lucca Fogaca	Erasmus	2	7092	EM
+Maysa Monteiro	Erasmus	3	6768	GI
+ Amanda Pinto	Erasmus	2	7034	TDMO
+ Kaique Dias	normal	1	3332	GE
+ Joao Felipe Araujo	normal	3	7475	TDM
+Davi Luiz da Luz	normal	3	1884	MKT
+Juan Santos	normal	3	5008	GE
+ Marina Barros	normal	2	5215	TDMO
+Luiz Felipe Rocha	normal	2	5057	TUR
+Alana Pereira	normal	3	3472	EE
+Danilo Fogaca	normal	2	1792	TDM
+Danilo da Rocha	normal	3	1530	EA
+Marina da Rosa	normal	1	6239	CONT
+Marcos Vinicius Novaes	normal	2	3485	EA
+Vicente Costa	Erasmus	1	1118	EM
+Lais Carvalho	normal	2	2972	TDMO
+Caue Rezende	normal	3	4860	EE
+Luna Peixoto	normal	3	1922	CONT
+Alexandre Mendes	normal	3	4183	EM
+Ana Sophia Melo	normal	3	3535	GI
+Yuri Cardoso	normal	2	3373	GI
+ Eduarda Lopes	normal	3	6436	MKT
+Rafaela da Cruz	normal	1	1660	TDM
+ Marcela da Rosa	normal	3	2119	TUR
+Pietra Goncalves	normal	3	5155	CONT
+Maria Fernanda Lopes	normal	1	6217	TDMO
+ Camila da Costa	normal	2	5692	EM
+Nathan Novaes	normal	1	1313	GE
+Maria Alice Teixeira	normal	1	6649	EC
+ Enrico Monteiro	normal	1	1976	EI
+Alicia Viana	normal	1	1071	CONT
+ Elisa Lima	normal	2	3685	EE
+Paulo Novaes	normal	2	1940	TDM
+ Thiago da Cruz	normal	1	4007	TDM
+Lavinia Barbosa	normal	1	5146	EE
+Eduarda Lima	normal	3	7939	GI
+ Rodrigo Campos	normal	1	4101	TDMO
+Maysa da Luz	normal	1	5385	CONT
+Pietra da Luz	normal	3	3146	CONT
+Maria Vitoria da Luz	normal	2	6487	TUR
+Ana Sophia Rezende	normal	2	6056	EM
+Kaique da Rocha	normal	3	7715	MKT
+Vitor Gabriel Peixoto	normal	1	3425	TDMO
+Sabrina Peixoto	normal	1	1143	CONT
+Thomas Novaes	normal	1	2042	TDMO
+Luiz Fernando da Luz	normal	1	5881	EI
+Vinicius Caldeira	normal	1	6187	EC
+Davi Duarte	normal	1	4614	TDM
+Bryan Rocha	normal	1	2422	EC
+Alice Correia	normal	3	1466	GI
+Esther Costa	normal	2	6731	EM
+ Clara Sales	normal	2	1497	TDMO
+Pietra Cunha	normal	2	1376	TUR
+Noah Pires	normal	2	2166	TUR
+Luana Lima	normal	2	1766	EA
+Diego Fogaca	normal	1	1827	TDM
+Raquel Silva	normal	2	6509	TUR
+Theo Peixoto	normal	3	1836	EI
+ Mariane Mendes	normal	2	3969	EI
+ Julia Costa	normal	3	6245	MKT
+ Fernanda da Rosa	normal	3	1449	EI
+Isaac Fogaca	normal	2	7372	EE
+Lara Campos	normal	3	2515	GI
+ Caue Sales	normal	2	7828	EE
+ Vitor Gabriel Nogueira	normal	3	1631	TUR
+Ana Julia Goncalves	normal	2	7776	GE
+Clara Costa	normal	2	3993	EM
+Ana da Cunha	normal	2	6860	EI
+Maysa da Mota	normal	2	4332	GI
+ Eduardo Souza	normal	2	1952	MKT
+ Maysa Nogueira	normal	1	7905	EM
+Isaac da Rocha	normal	1	5798	EE
+Lavinia Monteiro	normal	2	2083	GI
+Diego Pereira	normal	1	4825	EA
+Ana Luiza Almeida	normal	2	7293	TDMO
+Levi Caldeira	normal	2	5621	EI
+Elisa Lopes	normal	2	5358	EC
+Davi Luiz da Cruz	normal	1	3631	CONT
+Isabel Goncalves	normal	1	6884	EC
+Maria Fernanda Duarte	normal	1	1278	CONT
+Joaquim Nogueira	normal	1	2124	EE
+Gabriela da Luz	normal	1	4628	CONT
+Larissa Moura	normal	3	1527	GI
+Joao Miguel da Luz	normal	3	5467	TDMO
+Isadora Silveira	normal	1	7926	GE
+Diego Caldeira	normal	2	2897	TDMO
+Maria Eduarda Santos	normal	1	4720	EI
+Natalia Ramos	normal	2	5893	GE
+Anthony Barbosa	normal	3	3132	TUR
+ Enzo Gabriel Ribeiro	normal	1	2982	EC
+Arthur Cavalcanti	normal	2	5285	GI
+Murilo Cardoso	normal	3	6780	TDMO
+Manuela Costela	normal	2	3525	EC
+Pietro Cavalcanti	normal	2	5387	CONT
+Beatriz Monteiro	normal	2	7989	GE
+Sophie Teixeira	normal	1	3034	GE
+Renan Nogueira	normal	2	7777	GI
+Leandro da Mata	normal	2	5116	CONT
+ Caue da Paz	normal	2	2652	TDM
+Isaac Almeida	normal	1	5397	TDM
+Rodrigo da Conceicao	normal	1	7528	GE
+Matheus Dias	normal	1	2093	MKT
+ Vinicius Moraes	normal	2	2109	MKT
+Lucas Gabriel Costela	normal	3	3458	TDM
+ Ana Julia Silveira	normal	3	2535	CONT
+Renan Vieira	normal	2	3176	EI
+Lorena Nunes	normal	1	4571	EE
+Isaac Teixeira	normal	3	2218	EA
+Pedro Miguel da Mota	normal	1	2568	CONT
+Luiz Gustavo Costa	normal	2	4526	CONT
+Diogo Silva	normal	2	6290	GE
+Stephany Moreira	normal	2	1290	TUR
+Maria Vitoria Farias	normal	2	3608	TUR
+Luna da Cunha	normal	2	1200	MKT
+ Marina Pinto	normal	1	6365	TDM
+Livia da Paz	normal	1	7445	EA
+Bruno Freitas	normal	2	1267	EM
+Amanda Barros	normal	3	5959	TDM
+Emanuel Cavalcanti	normal	3	3862	TDMO
+Lavinia Silveira	normal	1	7201	EA
+Fernando Rocha	normal	3	7225	TDMO
+ Paulo Santos	normal	1	4987	EA
+Ana Laura Cunha	normal	2	7500	TDM
+ Arthur Fernandes	normal	3	2913	TDMO
+Amanda Nunes	normal	3	2638	CONT
+ Pietra da Rosa	normal	1	3357	MKT
+Enrico Barros	normal	3	7987	MKT
+Joao Miguel Lopes	normal	3	7611	GE
+Lavinia Lopes	normal	3	1948	TDMO
+Pedro Henrique Sales	normal	1	7631	EE
+Pietro Pires	normal	1	4923	MKT
+Bianca Moraes	normal	1	2076	EI
+Davi Lucca Farias	normal	3	7451	EC
+Maria Sophia Pereira	normal	2	4671	TDMO
+Eduarda Cardoso	normal	3	7587	CONT
+Isabella Moura	normal	1	6730	TDMO
+Antonio Sales	normal	2	5108	EC
+Levi Silveira	normal	2	2239	CONT
+ Melissa Fogaca	normal	3	2526	TDMO
+Maria Jesus	normal	1	5619	GE
+Ian Pires	normal	1	7415	EI
+Maria Vitoria da Mata	normal	2	6698	TUR
+Bruna Silveira	normal	2	5030	EC
+Joao Felipe Pinto	normal	3	4921	TDM
+Guilherme Nunes	normal	3	7337	EC
+Igor da Mata	normal	3	2604	GI
+ Carolina Freitas	normal	1	6342	GI
+Bianca Silveira	normal	1	7619	TDMO
+ Sarah Alves	normal	2	6724	EI
+Larissa Azevedo	normal	2	3381	TUR
+Natalia da Conceicao	normal	3	4015	GI
+Bernardo Lima	normal	1	1034	EI
+Enrico Cardoso	normal	2	7143	TDM
+Agatha Ferreira	normal	3	6178	MKT
+Anthony Martins	normal	1	4335	EI
+ Gustavo Porto	normal	2	4698	EA
+Olivia Freitas	normal	1	4569	EM
+Julia Pires	normal	3	6638	EE
+Joana Porto	normal	3	6537	EI
+Ian Novaes	normal	3	2092	EC
+Elisa Moura	normal	2	7855	EM
+ Vitor Gabriel Rodrigues	normal	3	5907	TDM
+Bruna Teixeira	normal	2	1102	EE
+Gustavo Henrique Farias	normal	3	7280	EM
+ Giovanna da Mota	normal	1	6015	GI
+ Kaique Costa	normal	2	1115	MKT
+Livia Correia	normal	3	6764	EA
+Kamilly Porto	normal	1	5556	EC
+Erick Nogueira	normal	1	1185	GE
+Fernando Campos	normal	1	3934	GI
+Yuri Azevedo	normal	1	1903	EI
+Luigi Pires	normal	3	5019	GI
+Stella da Cunha	normal	1	3008	EM
+Davi Luiz Duarte	normal	3	1083	TDMO
+ Ana Clara Azevedo	normal	1	7064	GI
+ Guilherme das Neves	normal	2	4118	EA
+Gabrielly Dias	normal	1	6823	TDM
+Raquel Nogueira	normal	3	5960	EI
+Maria Cecilia Nascimento	normal	3	6503	CONT
+Julia da Mata	normal	3	6828	EI
+Calebe das Neves	normal	3	3586	EC
+Rebeca Alves	normal	2	5861	EM
+Thiago Viana	normal	3	1153	TUR
+Bianca Ferreira	normal	2	2078	EA
+ Lavinia Sales	normal	3	7375	TDM
+Maria Clara Farias	normal	3	2216	TUR
+Vitor Cardoso	normal	2	5286	EC
+Isis Silva	normal	1	6541	TUR
+Luna Cardoso	normal	1	6531	CONT
+Livia Silveira	normal	1	6935	TUR
+Arthur Peixoto	normal	3	6057	EM
+Emanuelly Melo	normal	1	5918	EA
+Pedro Lucas Fernandes	normal	3	1092	GI
+Samuel Barros	normal	1	5061	TDMO
+Augusto Souza	normal	1	5797	TDM
+Francisco Silva	normal	2	2440	EA
+Nicolas Porto	normal	1	5218	CONT
+Lorenzo da Conceicao	normal	3	4931	EI
+Ian Moura	normal	1	4737	CONT
+Maria Clara Freitas	normal	2	6036	CONT
+Joao Guilherme Farias	normal	1	2816	EE
+Maria Eduarda Oliveira	normal	2	2820	TDMO
+Erick Rezende	normal	2	7065	TDM
+Lorena Pinto	normal	2	3865	TDMO
+Marcos Vinicius da Rocha	normal	2	4035	GI
+Valentina Fogaca	normal	3	3642	MKT
+Cecilia Rezende	normal	2	4012	TUR
+Juliana Moreira	normal	2	4379	TUR
+Bernardo Pires	normal	1	1812	GE
+Ana Teixeira	normal	1	2835	EA
+Isaac Cardoso	normal	3	2764	EC
+Benjamin da Mata	normal	1	1928	GE
+Levi Moura	normal	3	3817	EM
+ Luiz Felipe da Conceicao	normal	3	5958	TDMO
+Sarah Carvalho	normal	2	3765	TDM
+Marcelo Rocha	normal	3	6095	EI
+Isis da Mata	normal	1	5211	EC
+Rodrigo Silva	normal	1	4468	MKT
+Maria Eduarda Cardoso	normal	2	1900	TDM
+Leticia Rocha	normal	3	4584	MKT
+Davi Lucca Rodrigues	normal	3	3930	EC
+Pietra Nascimento	normal	3	5928	EI
+Erick Fernandes	normal	2	5961	EA
+Joao Gabriel Gomes	normal	3	1085	EI
+Matheus da Rocha	normal	2	4338	TUR
+Caua Vieira	normal	2	3206	MKT
+Joao Miguel Campos	normal	2	5615	TDM
+Raul Mendes	normal	3	2066	EC
+Bruna Fogaca	normal	3	3173	MKT
+Ana Livia Alves	normal	3	7794	CONT
+Lucas da Rosa	normal	1	7630	GE
+Isabella Peixoto	normal	1	3469	TDM
+Marina Costa	normal	3	5671	EA
+Lucas Alves	normal	3	4514	TUR
+Larissa Pereira	normal	1	3218	EA
+ Augusto da Luz	normal	2	1454	TDM
+Lais Cardoso	normal	1	7057	GE
+Yasmin da Paz	normal	2	6792	EA
+Danilo Gomes	normal	1	1709	GI
+ Gustavo Henrique Rocha	normal	3	6248	CONT
+Clarice da Cruz	normal	3	7009	TUR
+Gabriela Cavalcanti	normal	1	4564	TUR
+Samuel Martins	normal	1	7497	GE
+Antonio Alves	normal	2	7183	EI
+Fernando Viana	normal	2	3513	TUR
+Vitor da Cunha	normal	1	4751	EA
+Vinicius Pereira	normal	3	2381	EC
+Mariana da Mota	normal	3	7357	TDM
+Samuel da Mata	normal	2	4171	GI
+ Vitoria da Conceicao	normal	1	2323	EI
+Nina Dias	normal	1	5590	CONT
+Thomas Pinto	normal	1	5530	MKT
+Caroline Alves	normal	2	6995	EM
+Larissa Alves	normal	2	5085	TDM
+ Leticia Cunha	normal	3	4137	GE
+Ana Clara Cardoso	normal	2	4375	MKT
+Guilherme Sales	normal	2	3445	MKT
+Alexia Fogaca	normal	3	3254	TDM
+Francisco Fernandes	normal	1	6550	EC
+Bianca Ramos	normal	3	7444	MKT
+ Fernanda Farias	normal	1	2038	GE
+ Ana Julia Souza	normal	3	7465	EA
+Ana Costela	normal	2	1878	MKT
+Caio Teixeira	normal	1	7739	GE
+ Kevin das Neves	normal	3	3359	TUR
+Emanuella Santos	normal	3	6193	EE
+ Vinicius Correia	normal	1	5145	EC
+ Davi Luiz Fogaca	normal	3	4951	TUR
+Paulo Carvalho	normal	1	5545	EM
+Maysa Moreira	normal	3	1148	GI
+Agatha Azevedo	normal	3	3572	EA
+Carlos Eduardo das Neves	normal	1	4606	GI
+Alice Lima	normal	3	7343	GE
+Enrico Lima	normal	3	2908	MKT
+ Mariana Santos	normal	3	7122	EC
+Erick da Cunha	normal	1	5678	TUR
+Enzo Gabriel Silva	normal	1	3592	EE
+Lara Correia	normal	2	6190	EE
+Emanuel Nunes	normal	1	3772	MKT
+ Fernando Costela	normal	2	6735	EM
+ Pietro Mendes	normal	3	6131	MKT
+Ana Teixeira	normal	2	6758	MKT
+Vinicius Porto	normal	1	6350	GI
+ Stella Araujo	normal	1	3766	TDMO
+Joao Gabriel da Rosa	normal	2	7904	GE
+ Isabella da Rosa	normal	1	4127	TDMO
+ Maite Moura	normal	1	4748	TUR
+Milena da Paz	normal	1	4971	EI
+Amanda Santos	normal	1	1000	EI
+Esther Silva	normal	1	4950	GE
+Joao Lucas Cardoso	normal	2	5413	EC
+Sarah Duarte	normal	3	7581	TDMO
+Gustavo Henrique Porto	normal	3	7686	CONT
+Ana Julia Nunes	normal	2	4848	GI
+ Lucas Gabriel Araujo	normal	2	4623	MKT
+ Kamilly Pires	normal	1	6026	GE
+Bruno Lopes	normal	3	2660	CONT
+Marcela Novaes	normal	3	5944	TDMO
+Joao Pedro Pires	normal	2	3808	EA
+Benjamin da Rosa	normal	1	1610	GE
+Augusto Freitas	normal	2	1079	EA
+Ana Sophia Nogueira	normal	1	7719	GI
+Henrique Pinto	normal	3	5330	TUR
+ Luiz Felipe da Costa	normal	1	6133	MKT
+Matheus Nogueira	normal	3	4935	GI
+Leonardo Cardoso	normal	1	4351	EA
+Isaac Ferreira	normal	1	3177	GI
+Marcelo Martins	normal	2	2669	EA
+Thomas Barros	normal	3	5504	TDM
+Elisa da Costa	normal	1	4126	MKT
+Catarina Rezende	normal	2	1326	TDM
+Daniel Nogueira	normal	1	6431	GI
+Joao Guilherme da Paz	normal	1	4355	TUR
+Catarina da Rosa	normal	2	3945	EA
+Erick Dias	normal	1	4909	EE
+ Lorenzo das Neves	normal	1	2634	MKT
+Joao Guilherme Pinto	normal	1	1371	EM
+Sarah Costela	normal	2	7568	EE
+Davi Luiz Moreira	normal	1	2958	EM
+Stephany Cavalcanti	normal	3	6701	GI
+Isabelly Martins	normal	3	5837	TDMO
+Lucca Fernandes	normal	3	6597	EA
+Joana Campos	normal	1	5897	MKT
+Thiago Souza	normal	2	2077	EC
+ Calebe Costa	normal	3	7973	EA
+ Alexandre da Mata	normal	1	7522	CONT
+Gustavo Henrique Barbosa	normal	3	4365	TDMO
+Eduarda Gomes	normal	2	5708	TDM
+Heloisa Pinto	normal	3	5905	EI
+Diogo Martins	normal	1	5547	TUR
+Lais Monteiro	normal	2	3257	EC
+Rodrigo Ribeiro	normal	1	3222	CONT
+Pedro Moraes	normal	3	4024	GE
+Maria Eduarda Ramos	normal	1	2030	TDM
+Joaquim Moraes	normal	2	4403	TUR
+Joaquim das Neves	normal	3	2789	EI
+Brenda da Mata	normal	1	7061	CONT
+Ana Julia Viana	normal	1	1329	MKT
+Nina Pereira	normal	3	3674	MKT
+ Joana Correia	normal	3	2848	EI
+Leticia da Cunha	normal	1	7954	CONT
+Luna Correia	normal	3	3273	MKT
+Luiza Correia	normal	3	1486	EE
+ Sofia Fogaca	normal	1	3081	GE
+Luna Moura	normal	1	6772	MKT
+Joao Pedro Ferreira	normal	2	6611	EM
+ Yago da Paz	normal	2	6473	GE
+Lucas Moreira	normal	3	2533	EM
+Pietro Pereira	normal	2	1141	TUR
+Henrique da Costa	normal	1	4139	TDM
+Lucca Nogueira	normal	3	5800	MKT
+ Gustavo Porto	normal	2	7094	TDM
+Danilo Caldeira	normal	3	2184	EM
+Benjamin Silveira	normal	1	6325	EI
+Emanuel da Cunha	normal	3	2983	TDMO
+ Nicolas Teixeira	normal	3	6500	TDM
+Nicole Melo	normal	1	3249	TDM
+Caua Caldeira	normal	3	2655	MKT
+Nicolas Costela	normal	1	4369	EC
+ Vitor Gabriel Goncalves	normal	1	7112	EI
+Antonio Souza	normal	1	2798	GI
+Fernando Silva	normal	1	2325	CONT
+Maria Clara Freitas	normal	1	3128	GI
+Samuel Araujo	normal	2	5695	TDM
+Bruna Pereira	normal	3	7922	EE
+Camila Carvalho	normal	1	2404	TUR
+Daniel Costa	normal	2	5805	TDM
+ Stephany Moura	normal	1	6271	MKT
+Ana Julia Almeida	normal	1	2698	EE
+ Guilherme Teixeira	normal	1	1854	EA
+ Murilo Fogaca	normal	3	5272	MKT
+Diogo Araujo	normal	3	4683	EI
+Joao Lucas Souza	normal	2	5477	GI
+Alice Monteiro	normal	3	2985	GE
+Isabel Ramos	normal	2	3637	EE
+Nathan Cavalcanti	normal	3	6396	MKT
+ Daniela Castro	normal	1	2744	EE
+Joao Lucas da Mota	normal	2	3847	GI
+Marina Castro	normal	2	2033	EI
+Camila Rodrigues	normal	3	3953	EI
+Otavio Duarte	normal	1	6723	EC
+Nathan Cardoso	normal	2	5843	EC
+Gustavo Teixeira	normal	2	1352	GE
+Levi Cardoso	normal	1	7489	GI
+ Thales Souza	normal	1	1127	CONT
+Davi Luiz Carvalho	normal	3	2424	GI
+Enrico Santos	normal	1	2932	TDMO
+Sophie Fernandes	normal	1	2135	GE
+Pedro Henrique da Luz	normal	2	6888	EC
+Diego Ribeiro	normal	3	7957	EE
+Joao Vitor Nascimento	normal	3	1114	EM
+Ana Clara Vieira	normal	1	7246	CONT
+ Daniel Dias	normal	1	3361	TDM
+Larissa Silva	normal	2	3795	EE
+Sophia Costa	normal	3	7865	GE
+Brenda Campos	normal	2	2964	TUR
+Murilo Santos	normal	2	5419	EE
+Luiz Felipe Santos	normal	2	2300	EA
+Camila Pires	normal	1	7283	EE
+Caua Rodrigues	normal	3	4577	TDM
+Ana Luiza Lima	normal	3	2107	EI
+Julia Jesus	normal	3	7111	TUR
+Leticia Pinto	normal	1	1721	GE
+ Luiza Santos	normal	1	5089	EA
+Sofia Goncalves	normal	2	6086	EA
+Davi Lucca Porto	normal	3	4119	MKT
+Sarah Ferreira	normal	2	7455	GI
+Anthony Ramos	normal	1	1284	EA
+Caroline Novaes	normal	3	6481	GI
+Henrique Ribeiro	normal	3	7373	EI
+ Ana Laura Aragao	normal	3	2625	TDMO
+Leonardo Nascimento	normal	1	6955	GI
+Maria Julia Pereira	normal	1	4123	CONT
+Clarice Campos	normal	1	2041	EI
+Gabriel Barbosa	normal	1	5036	TDMO
+Maria Vitoria Martins	normal	3	3908	EM
+Pedro Caldeira	normal	3	3897	MKT
+Julia Costela	normal	2	3984	GE
+ Alicia Teixeira	normal	1	1413	EC
+Larissa Moraes	normal	1	6543	TUR
+Joana Silveira	normal	3	1247	GI
+ Camila Cunha	normal	3	5213	EA
+Valentina da Luz	normal	1	6619	EE
+Maria Luiza Rocha	normal	1	3523	EI
+Melissa Rodrigues	normal	1	7123	EI
+Maria Julia Oliveira	normal	1	5505	TDMO
+Maria Luiza Dias	normal	3	3201	EA
+Ana Beatriz Barros	normal	1	3234	EC
+Otavio Pires	normal	3	7203	EI
+Isis Lopes	normal	3	7365	EI
+ Lucca Caldeira	normal	3	5206	GE
+Carlos Eduardo Porto	normal	2	3712	EA
+ Ian da Paz	normal	2	6261	TDM
+Joao Miguel Porto	normal	2	2229	GE
+Gabriel Cardoso	normal	2	2446	TUR
+Larissa Ramos	normal	1	3788	EA
+Guilherme Novaes	normal	3	1226	EA
+Clara Carvalho	normal	2	1552	EE
+Lucas Gabriel Aragao	normal	1	3047	CONT
+Rafael Pereira	normal	3	7526	EI
+Camila Costa	normal	1	1499	TUR
+Evelyn da Costa	normal	1	4847	EE
+Pietro Goncalves	normal	2	4551	GI
+ Ana Beatriz Moura	normal	2	7095	EM
+Pedro Lucas Carvalho	normal	1	1063	TUR
+Luiz Otavio Porto	normal	2	3454	GI
+Gabrielly Campos	normal	1	7109	GI
+Bruna Sales	normal	3	6457	EM
+Isis Costela	normal	1	4346	EE
+Miguel Rodrigues	normal	1	4188	TDM
+Rebeca Silveira	normal	1	5322	MKT
+Eduarda Nascimento	normal	2	4656	EA
+ Anthony Nogueira	normal	2	6080	GE
+Luiz Gustavo Rodrigues	normal	2	2304	TDM
+ Gabriel Costela	normal	1	1498	EM
+Davi Lucca Duarte	normal	2	6014	MKT
+Rafaela Pires	normal	3	3260	EI
+Luna Martins	normal	1	5154	EC
+Maria Alice Barbosa	normal	1	4452	GI
+Samuel Barros	normal	2	4529	EA
+Melissa Nunes	normal	2	7126	GI
+ Augusto Oliveira	normal	2	7956	CONT
+Marcelo Nunes	normal	2	7538	EA
+Theo da Mota	normal	1	7041	EE
+Larissa Dias	normal	3	6475	TDMO
+Caua Lima	normal	1	7819	GI
+Mariane Martins	normal	3	3584	TDMO
+Stephany Almeida	normal	1	4124	EM
+Ian Porto	normal	1	5511	EI
+Joao Miguel Vieira	normal	3	3739	EA
+Igor da Mata	normal	2	2854	EM
+Rebeca Rocha	normal	2	6497	TDM
+Alicia Dias	normal	1	1816	CONT
+Lavinia Duarte	normal	3	2495	EI
+Luiz Felipe Dias	normal	3	1966	TDM
+ Alana Correia	normal	2	7456	EE
+Davi Lucca Barros	normal	1	3614	EI
+Maria Vitoria Sales	normal	2	7647	CONT
+ Pedro Henrique Azevedo	normal	1	4196	EA
+Daniela Santos	normal	3	6222	GE
+Gabrielly Araujo	normal	1	7588	CONT
+Fernanda Nascimento	normal	1	4697	GE
+ Marcos Vinicius Martins	normal	2	1208	MKT
+ Milena Sales	normal	3	5378	EC
+Joao Guilherme da Rosa	normal	1	6097	EM
+Joao Miguel da Luz	normal	3	6270	EE
+Yasmin Viana	normal	2	1730	GE
+Gabriel Pires	normal	3	6105	TDMO
+Leandro Silva	normal	1	7856	EI
+ Juan Ferreira	normal	3	1113	MKT
+Giovanna Pinto	normal	2	6285	MKT
+ Marcela Teixeira	normal	2	4796	TDM
+ Joao Felipe Lopes	normal	2	5037	GI
+Carolina Cunha	normal	1	4605	CONT
+ Milena Fogaca	normal	3	5443	EI
+ Otavio Martins	normal	3	7154	CONT
+Heitor Cavalcanti	normal	2	4590	GI
+Lorena Pinto	normal	2	7891	TUR
+Julia Moraes	normal	3	3423	GI
+Isabella Oliveira	normal	1	4532	EI
+Rafael Silveira	normal	2	3408	MKT
+ Luiz Otavio Correia	normal	2	5446	EM
+Yago Dias	normal	1	5438	MKT
+Luiz Miguel Nunes	normal	3	1463	EA
+Maria Vitoria da Rocha	normal	2	2557	GE
+Joao Lucas Duarte	normal	3	4785	EI
+Nicole Martins	normal	1	2356	EM
+Leonardo da Rocha	normal	2	1811	EA
+ Isadora Rocha	normal	1	2504	EA
+Theo Correia	normal	2	3752	GI
+Gustavo Henrique Martins	normal	1	3777	TDMO
+Caue Costela	normal	2	6606	TDMO
+Thales Campos	normal	2	7426	GE
+Vitor Gabriel Farias	normal	1	6304	EA
+ Bianca Cardoso	normal	1	3753	EE
+Alexia Moura	normal	3	1125	TUR
+Augusto Caldeira	normal	1	4849	TDMO
+Andre Viana	normal	1	5955	EM
+ Isaac Teixeira	normal	3	2436	EM
+Yasmin Melo	normal	3	3377	MKT
+Maria Clara Farias	normal	2	3080	EM
+Carolina Porto	normal	1	7947	EC
+Carlos Eduardo Ramos	normal	1	7913	EE
+Gabriel Costa	normal	3	2131	EC
+Larissa Silveira	normal	1	3294	MKT
+Calebe Silveira	normal	3	7258	TDMO
+Luiz Henrique Cavalcanti	normal	3	5753	TDMO
+Livia Pereira	normal	3	3468	TDM
+Antonio Caldeira	normal	2	4135	GI
+Ana Sophia Ramos	normal	1	5098	MKT
+Eduardo Rodrigues	normal	3	4994	MKT
+Leonardo Lima	normal	2	4676	MKT
+Olivia Rocha	normal	1	7644	EA
+Luiz Felipe das Neves	normal	2	6733	EC
+Diogo Viana	normal	2	1502	EM
+Marcos Vinicius Almeida	normal	2	5090	MKT
+Lorenzo Carvalho	normal	3	4730	TUR
+Esther Nunes	normal	2	6775	TDMO
+Lucas Barros	normal	1	4670	TUR
+Maria Cecilia Lopes	normal	2	3784	GE
+Matheus Pereira	normal	3	7923	GE
+Luiz Felipe Barros	normal	3	6899	EI
+Amanda Pereira	normal	3	7866	TDMO
+Luigi Azevedo	normal	3	6847	EM
+Heloisa Pereira	normal	3	6920	TDMO
+Catarina da Rocha	normal	1	5287	EI
+Ana Vitoria Sales	normal	3	7559	TUR
+ Maysa Nunes	normal	2	3742	MKT
+Emanuella da Paz	normal	2	1698	GI
+Matheus Viana	normal	3	1184	TDMO
+Yasmin Novaes	normal	1	3676	TDM
+Caua Nogueira	normal	3	2114	EA
+Esther Teixeira	normal	1	1637	TDM
+Nathan Novaes	normal	3	2945	GI
+Ana Beatriz Dias	normal	1	2429	EM
+Carlos Eduardo Oliveira	normal	1	6777	GI
+Luiz Felipe Nunes	normal	2	4030	EC
+Davi da Mata	normal	1	3573	GI
+Ian Lopes	normal	3	3842	EI
+Benjamin Novaes	normal	1	4133	GE
+Benicio Farias	normal	3	2255	EI
+ Catarina Fernandes	normal	1	6302	GE
+Leandro da Mata	normal	1	7886	TDMO
+Maria Fernanda Pires	normal	2	6536	TDMO
+ Maria Alice Cardoso	normal	2	6970	TDM
+Davi Lucca Fernandes	normal	2	3887	GI
+Lucca Moura	normal	2	1562	GI
+ Renan Porto	normal	1	5140	EE
+ Laura Novaes	normal	1	1774	EM
+Daniela Lima	normal	1	4845	GE
+ Larissa Costela	normal	2	6260	CONT
+Yasmin Fogaca	normal	3	1581	MKT
+Joao Guilherme Barros	normal	1	1761	EA
+ Maria Eduarda Almeida	normal	1	2173	EA
+Marcos Vinicius Rocha	normal	1	7883	GE
+ Sophie Costa	normal	2	3492	TDMO
+Gustavo Pires	normal	2	4836	EI
+Joao Mendes	normal	2	4342	EI
+Rafaela Alves	normal	3	4485	TDMO
+Valentina Mendes	normal	3	1062	EC
+Livia Vieira	normal	3	2270	EE
+Emanuella Silveira	normal	2	7019	EC
+Vinicius Rocha	normal	1	2893	EM
+ Bianca da Paz	normal	3	6091	CONT
+Nina Fogaca	normal	1	6372	EI
+Maysa Dias	normal	3	1112	GI
+Maria Sophia Carvalho	normal	1	2460	EE
+Luna Farias	normal	2	5073	EM
+Ana Clara Castro	normal	2	7466	EI
+Renan Castro	normal	1	7608	EA
+ Maria Luiza Goncalves	normal	3	3759	CONT
+Joao Gabriel Rezende	normal	1	1910	TUR
+Noah Mendes	normal	3	7427	TDMO
+Sabrina Lima	normal	3	7281	TDMO
+Joao Lucas Ramos	normal	1	2819	TDMO
+Antonio Castro	normal	1	4360	GI
+Arthur Mendes	normal	3	5509	GI
+Pedro Jesus	trabalhador-estudante	2	5871	EE
+Clara Cavalcanti	trabalhador-estudante	3	7614	TUR
+Sofia Lima	trabalhador-estudante	2	6757	GE
+Heloisa Barbosa	trabalhador-estudante	1	2075	MKT
+Rodrigo Barbosa	trabalhador-estudante	1	3050	EI
+Vitoria da Conceicao	trabalhador-estudante	3	4486	EM
+ Marina Oliveira	trabalhador-estudante	1	7560	TDM
+Pietro da Paz	trabalhador-estudante	1	5136	EE
+Juliana Rodrigues	trabalhador-estudante	1	5785	EM
+Leonardo Ferreira	trabalhador-estudante	1	3985	EI
+Raul Ferreira	trabalhador-estudante	3	5986	GI
+ Caue Cunha	trabalhador-estudante	3	5003	TUR
+Amanda Silveira	trabalhador-estudante	3	1459	GE
+Leticia da Costa	trabalhador-estudante	3	7897	EE
+Heloisa da Cruz	trabalhador-estudante	1	3981	EC
+Diego Correia	trabalhador-estudante	3	7740	EI
+Ana Mendes	trabalhador-estudante	1	7416	EA
+Rodrigo Barros	trabalhador-estudante	1	1495	EI
+Renan Melo	trabalhador-estudante	1	4906	EC
+ Vitoria Castro	trabalhador-estudante	2	6267	TDM
+ Manuela Lima	trabalhador-estudante	3	4572	GI
+Stella da Rosa	trabalhador-estudante	1	1475	GI
+Luiza das Neves	trabalhador-estudante	3	4550	TUR
+Ana Julia Melo	trabalhador-estudante	3	6264	EC
+Carlos Eduardo Cardoso	trabalhador-estudante	1	7397	CONT
+Eduardo Martins	trabalhador-estudante	2	7173	EM
+Marcela Carvalho	trabalhador-estudante	3	2195	EE
+Leandro Rocha	trabalhador-estudante	3	1316	GI
+Maria Fernanda Fogaca	trabalhador-estudante	3	4254	TDMO
+ Thales Melo	trabalhador-estudante	2	4053	TUR
+Carolina Barbosa	trabalhador-estudante	2	6832	EA
+Francisco Rodrigues	trabalhador-estudante	3	7818	EM
+ Brenda Nunes	trabalhador-estudante	1	4150	EA
+Lucas Lopes	trabalhador-estudante	2	2532	GE
+Antonio Novaes	trabalhador-estudante	3	5746	GI
+Samuel Fogaca	trabalhador-estudante	3	6050	TDM
+Maria da Mota	normal	3	6978	EC
+Pedro Henrique da Mota	normal	3	2486	TDM
+Joao Miguel Lopes	normal	1	2405	GE
+ Matheus Correia	normal	1	2619	CONT
+Stephany Melo	normal	1	5124	TDMO
+Amanda Monteiro	normal	3	6360	EE
+Heloisa da Costa	normal	1	6636	TDM
+Davi Sales	normal	3	6938	TDM
+Joao Miguel Nascimento	normal	3	2689	GE
+Maria Clara Porto	normal	3	4985	EA
+Barbara Almeida	normal	1	2920	EA
+Eduardo Ribeiro	normal	1	3164	EE
+Lais Costa	normal	2	2224	TDMO
+ Rebeca Freitas	normal	2	2067	EE
+Bruna Caldeira	normal	3	3031	GE
+Marcelo Campos	normal	1	6189	CONT
+Mariana da Mata	normal	2	4793	GI
+Anthony Cavalcanti	normal	1	4728	CONT
+ Diego Alves	normal	1	3022	TUR
+Vinicius Nunes	Erasmus	3	5816	CONT
+Alexandre da Cruz	Erasmus	3	3892	TDM
+Gustavo Henrique Porto	Erasmus	1	5674	GE
+Luigi Rezende	normal	3	4498	MKT
+Leticia Cardoso	normal	3	2222	CONT
+Guilherme Correia	normal	1	1343	TUR
+Eduarda Moraes	normal	3	7267	EM
+Evelyn Vieira	normal	2	6480	EC
+Emilly Moreira	normal	1	6631	EM
+ Joao Gabriel da Costa	normal	1	6278	MKT
+Lucca Moura	normal	2	5733	GE
+Joao da Mota	normal	2	2598	EE
+Raquel Santos	normal	3	6659	MKT
+Lavinia Alves	normal	3	5135	CONT
+Cecilia Rodrigues	normal	1	2778	TDM
+Cecilia Ramos	normal	2	1237	EE
+Luiz Otavio Correia	normal	3	7460	EA
+ Luana Azevedo	normal	1	5230	TDMO
+Kevin Aragao	normal	1	5024	CONT
+Valentina Teixeira	normal	2	4708	TUR
+Lorenzo Fogaca	normal	1	6128	EE
+Joao da Luz	normal	3	7000	CONT
+Maria Sophia Pereira	normal	3	5637	GI
+Eloah Lima	normal	2	3696	EI
+Igor da Conceicao	normal	2	5719	EE
+Laura Ramos	normal	3	3964	EA
+ Joao Lucas Lima	normal	3	2479	EM
+Theo Pinto	gewg	2	5303	GE
+Maria Cecilia da Costa	erasmus	2	1756	TDMO
+Rafaela Rodrigues	ATLETA	3	7896	EA
+Vitor Barros	ATLETA	2	7584	EC
+Breno Dias	NORAL	2	3700	GI
+Calebe Jesus	normal	1	5974	EI
+ Fernanda Barros	normal	3	1793	EI
+Maria Alice das Neves	normal	3	6922	EC
+Isadora Melo	normal	1	2058	EA
+ Joao Miguel Peixoto	normal	2	6007	EC
+Stephany Castro	normal	3	6630	EI
+Benjamin da Cruz	normal	2	6362	GE
+Leandro Nunes	normal	2	5739	EM
+Alice Souza	normal	3	4107	EI
+Alicia Silveira	normal	1	6602	MKT
+ Enzo Gabriel Fernandes	normal	1	4620	EE
+Emanuel Melo	normal	2	6708	EA
+Joana Cunha	normal	1	3122	MKT
+Laura Nogueira	normal	3	7262	EA
+Lucca da Cruz	normal	1	2719	MKT
+ Leticia Pires	normal	1	4071	TUR
+Pedro Lucas Gomes	normal	3	7168	CONT
+Melissa da Paz	Erasmus	1	4747	GI
+Alexia Correia	Erasmus	1	2335	GE
+Samuel da Rosa	Erasmus	2	5306	TDM
+Marcos Vinicius Mendes	normal	1	4211	CONT
+Emanuelly Costa	normal	3	6760	TDM
+Isabelly Moura	normal	2	7689	EC
+Evelyn Campos	normal	1	3297	GE
+Luiz Fernando Cardoso	normal	1	1916	TDMO
+ Sophia Freitas	normal	1	4300	TDM
+Kevin Ribeiro	normal	1	5906	TDM
+ Clarice Moreira	normal	3	6321	MKT
+Alice Costela	normal	2	1842	EC
+Nathan Barbosa	normal	1	7512	CONT
+Esther da Rosa	normal	3	1479	EC
+Isaac Nogueira	normal	1	4190	EE
+Elisa Monteiro	normal	3	6485	TUR
+Maria Alice Ferreira	normal	3	3899	EI
+ Caue Costa	normal	2	2579	GI
+Enzo da Costa	normal	3	2876	TDM
+Rafael Martins	normal	3	1465	TDMO
+Natalia Fernandes	normal	1	7413	EC
+Helena Pinto	normal	2	6109	TDMO
+ Juliana da Paz	normal	3	4086	EI
+Juliana Fogaca	normal	2	5174	EI
+Stephany Goncalves	normal	1	6886	GI
+Nicolas Oliveira	normal	1	5647	TDM
+Andre Pinto	normal	2	5541	EE
+Beatriz Peixoto	normal	3	7885	EA
+ Livia Aragao	normal	1	6369	GI
+Emilly da Cruz	normal	1	2467	EA
+Evelyn Aragao	normal	1	5969	EE
+Daniela Vieira	normal	3	2164	CONT
+Emanuelly da Costa	normal	3	6272	MKT
+Alexia Fernandes	normal	2	6144	GI
+Ana Beatriz Silveira	normal	3	6877	CONT
+ Ana Costela	normal	1	5790	EA
+Yasmin Nogueira	normal	3	5262	CONT
+Ana Julia Vieira	normal	1	4853	EM
+Bruna Correia	normal	2	7752	EE
+Murilo Ribeiro	normal	1	4545	EE
+Felipe Barbosa	normal	2	6100	EA
+Daniel Pinto	normal	1	6214	EI
+Thiago Mendes	normal	3	1585	TDMO
+Paulo Fogaca	normal	2	5209	GI
+Ana Julia Gomes	normal	2	1279	EM
+Lara Barbosa	normal	3	3203	EA
+Arthur Martins	normal	2	7205	EM
+Fernanda Pires	normal	2	4472	GI
+ Ana Luiza Moura	normal	2	4668	EC
+Juliana Cavalcanti	normal	3	5525	TDM
+ Melissa Silveira	normal	1	1347	EE
+Maria Vitoria Oliveira	normal	3	4960	EE
+Gustavo Henrique Correia	normal	1	6281	EC
+Evelyn Porto	normal	1	6969	TDM
+Barbara Cardoso	normal	3	2554	CONT
+Enrico Oliveira	normal	3	4567	EE
+ Levi das Neves	normal	2	2760	TDMO
+Marcela Peixoto	normal	1	7188	TDM
+Lucas Gabriel Carvalho	normal	1	5475	TUR
+Sabrina Castro	normal	2	5561	MKT
+Felipe Pinto	normal	3	1415	MKT
+Gustavo Ribeiro	Erasmus	3	2455	GE
+Beatriz da Luz	Erasmus	1	5401	MKT
+ Arthur Souza	Erasmus	2	6477	GI
+Anthony Silveira	normal	2	6017	MKT
+Caua da Cunha	normal	1	2776	TDMO
+Ana da Rocha	normal	2	2087	EC
+Heitor da Mota	normal	3	1590	EC
+Pietro Moreira	normal	3	3619	EE
+ Maria Julia Sales	normal	3	6118	EM
+Eduarda Caldeira	normal	1	7371	TDM
+Maria Vitoria Teixeira	normal	1	3978	TDMO
+Nathan Barros	normal	3	6635	MKT
+Alana Melo	trabalhador-estudante	2	6076	EM
+Vitor Nascimento	trabalhador-estudante	1	2484	CONT
+Juliana Sales	trabalhador-estudante	2	1059	EM
+Ana Vitoria Farias	trabalhador-estudante	1	3889	TDM
+Henrique Duarte	trabalhador-estudante	1	1881	CONT
+ Lara Moraes	trabalhador-estudante	2	7782	EC
+Isabella da Cunha	trabalhador-estudante	1	5623	EE
+ Luana Melo	trabalhador-estudante	2	4528	TDM
+Isabella da Mata	trabalhador-estudante	1	7997	TDM
+ Giovanna Pires	trabalhador-estudante	3	3902	GI
+Amanda Peixoto	trabalhador-estudante	2	6512	EA
+ Lucas Cardoso	trabalhador-estudante	2	2530	EI
+Lorenzo da Cunha	trabalhador-estudante	1	7073	TDMO
+Diogo Alves	trabalhador-estudante	1	1460	EE
+Joao Vitor Cardoso	trabalhador-estudante	1	7634	MKT
+Bryan Nascimento	trabalhador-estudante	2	7975	MKT
+Diego Cardoso	trabalhador-estudante	2	4722	MKT
+Gustavo Souza	trabalhador-estudante	1	5294	TUR
+Ana Livia Teixeira	trabalhador-estudante	2	4427	EE
+Evelyn Pinto	trabalhador-estudante	3	5092	EM
+Alana Azevedo	trabalhador-estudante	2	4542	EI
+ Paulo Caldeira	trabalhador-estudante	3	3554	GI
+Emanuel Vieira	normal	2	7446	TDMO
+Ana Sophia Castro	normal	2	1073	EE
+Davi Lucca Rocha	normal	2	6862	EC
+Levi Barbosa	normal	3	2073	TDM
+Heloisa da Cunha	normal	1	5909	GE
+Laura Farias	normal	1	7961	EE
+Luana Caldeira	normal	2	2499	EA
+Maite Peixoto	normal	3	2882	EE
+Leticia da Mata	normal	1	2246	GE
+Joao Gabriel da Luz	normal	1	5649	GE
+Rafael Teixeira	normal	3	2220	GE
+ Nicole Duarte	normal	2	5513	GE
+Ana Laura Cardoso	normal	1	1719	EE
+Stella Porto	normal	3	2902	MKT
+Thiago Dias	normal	3	3496	MKT
+Enrico Martins	normal	1	3911	CONT
+ Diego Peixoto	normal	2	6525	EI
+Sabrina Ramos	Erasmus	2	3840	EA
+ Vitor Gabriel Pires	Erasmus	1	2334	CONT
+Matheus Correia	Erasmus	2	4179	EI
+Luigi Porto	Erasmus	1	4140	GE
+Raquel Pinto	normal	1	4315	TDMO
+ Davi Luiz Silveira	normal	3	7661	EE
+ Eduardo Moreira	normal	1	4673	EE
+Emanuelly Costa	normal	3	7354	GI
+ Murilo Rodrigues	normal	1	6683	GI
+Lucca Viana	normal	1	6490	TDM
+Luiz Fernando Aragao	normal	3	4169	TUR
+Eloah Peixoto	normal	3	2063	GI
+Eloah Santos	normal	1	2889	TDM
+Maria Julia Lopes	normal	3	7612	CONT
+Lorenzo da Conceicao	normal	2	3625	EC
+Alicia Nascimento	normal	1	3802	EA
+Alexandre Porto	normal	1	6421	TDMO
+ Ana Sophia Campos	normal	1	3156	EE
+Lucas Silveira	normal	3	3598	TDMO
+Anthony Monteiro	normal	1	6427	GE
+ Gustavo Cavalcanti	normal	3	3575	CONT
+Lucas Gabriel Correia	normal	1	2582	TDM
+ Emanuelly Rezende	normal	3	2782	EC
+Eduarda Teixeira	normal	1	4927	EA
+Stella Alves	normal	2	3634	GI
+ Gabriel Barros	dirigente-associativo	3	7359	EE
+Yago Melo	normal	2	2784	CONT
+Maria Luiza da Conceicao	normal	1	3225	EE
+ Marcos Vinicius Castro	normal	2	6280	EI
+Joao Guilherme Porto	Erasmus	2	3577	CONT
+Yago Ferreira	normal	1	5300	MKT
+Julia Nogueira	normal	1	7096	TDMO
+Vitor Gabriel Dias	normal	2	1702	EE
+Pedro Lucas Caldeira	normal	1	2801	EE
+Gustavo Henrique Barros	normal	3	1782	GE
+Lucas Gabriel Cunha	normal	1	1106	EI
+Benjamin Costa	normal	2	6925	TDMO
+Maite Goncalves	normal	3	6378	MKT
+Mariane Martins	normal	3	3569	EA
+Maria Luiza Ramos	normal	1	6719	EM
+Livia Sales	normal	2	1473	TDMO
+Joao Guilherme Barbosa	normal	1	5251	EC
+Rebeca Souza	normal	1	1735	CONT
+Joao Almeida	normal	2	1151	TDMO
+Carlos Eduardo da Luz	normal	3	5714	EE
+Joana Santos	normal	2	6430	CONT
+ Leticia da Cunha	normal	2	5912	EA
+ Stephany Lima	normal	2	6843	TUR
+Sophia Viana	normal	1	3044	EI
+Sophie Jesus	normal	1	7948	EA
+ Maria Fernanda Barros	normal	1	5807	MKT
+Joao Pedro Costela	normal	3	7420	EA
+Julia Moura	normal	3	7565	MKT
+Bianca Fogaca	normal	1	5449	TDM
+ Luiz Gustavo Campos	normal	2	3010	GI
+ Luiz Fernando Oliveira	normal	3	4034	EI
+Sophia Vieira	normal	3	7836	GE
+Helena Jesus	normal	1	3036	TUR
+Raquel Araujo	normal	1	7511	TUR
+ Ana Vitoria Silva	normal	3	6459	EC
+Pietra Nascimento	normal	1	5238	GE
+Davi Lucca Ribeiro	normal	3	2241	EC
+Ana Vitoria Barros	normal	2	2351	EI
+Isabel Santos	normal	2	1461	TUR
+Olivia Alves	normal	2	6718	GI
+Eloah Castro	normal	3	2573	TUR
+Danilo Pinto	normal	3	5462	CONT
+ Nicolas Alves	normal	3	4044	EA
+Bernardo Pinto	normal	3	4799	EA
+Leonardo Monteiro	normal	1	6891	EE
+Joao Felipe Rodrigues	normal	1	1310	EI
+Beatriz Costa	normal	1	2611	EE
+Ana Livia Moraes	normal	2	1653	TUR
+Amanda das Neves	normal	2	5059	CONT
+Joao Gabriel Nunes	normal	3	6540	CONT
+Luiza Cavalcanti	normal	2	6449	TDM
+Luiza Santos	normal	2	4063	MKT
+Natalia Vieira	normal	2	5712	EC
+Bruno Freitas	normal	2	2522	EM
+Francisco Gomes	normal	1	7174	EM
+ Nina Aragao	normal	1	7265	CONT
+Leonardo Goncalves	normal	1	6259	EC
+ Cecilia das Neves	normal	3	3936	TDMO
+Lucas Gabriel da Rosa	normal	2	2661	EM
+Vitoria Cavalcanti	normal	2	2291	EE
+Maite da Rosa	normal	1	3279	MKT
+Diogo Goncalves	normal	1	7596	TDMO
+Caroline Pires	normal	3	5581	TDMO
+Ryan Santos	normal	3	6078	CONT
+Joao Felipe Mendes	normal	1	6140	TUR
+Fernando Caldeira	normal	2	5152	TDMO
+Antonio da Cruz	normal	2	6150	EE
+Caio Correia	normal	3	3295	EI
+Yasmin Castro	normal	1	5991	EE
+Joao Gabriel da Cruz	normal	3	1099	EM
+Nina Carvalho	normal	1	1718	EC
+Caue da Rocha	normal	2	5422	EC
+ Heloisa Ramos	normal	2	4274	EE
+Maria Luiza Rezende	normal	3	6807	EI
+Felipe Melo	normal	3	3310	MKT
+Maysa da Paz	normal	2	7927	EE
+ Luiz Otavio Farias	normal	1	3029	EA
+Sophia das Neves	normal	2	2687	TUR
+ Giovanna Novaes	normal	2	3068	EI
+ Laura Nunes	normal	3	4475	TDM
+Arthur Fogaca	normal	2	5534	CONT
+ Davi Lucca da Luz	normal	1	5278	GI
+Maria Alice Pires	normal	2	1176	TDM
+Leandro Martins	normal	3	6753	TDM
+Valentina Castro	dirigente-associativo	3	1795	EA
+Henrique Oliveira	normal	1	7508	TDMO
+Maysa Porto	dirigente-associativo	1	1378	EE
+Maria Fernanda Araujo	normal	1	6493	EC
+Ana Julia Sales	dirigente-associativo	3	4659	EA
+Clarice Cardoso	normal	2	7628	EC
+Yago Almeida	normal	2	5052	GE
+Raul Nogueira	normal	1	5551	EC
+ Bernardo Martins	normal	2	7617	CONT
+Evelyn Oliveira	normal	3	4154	EE
+Vicente Barros	normal	2	4632	EE
+Brenda Viana	normal	3	4212	MKT
+Thomas Caldeira	normal	1	5267	TUR
+Maria Vitoria Peixoto	normal	1	4829	EI
+Vitor Caldeira	normal	3	5742	EM
+Noah Pinto	normal	2	2350	TDMO
+ Murilo Porto	normal	2	4176	MKT
+Sofia Viana	normal	1	1506	EI
+ Bernardo Pereira	normal	2	5253	EM
+Daniel Duarte	normal	2	6684	CONT
+Caroline Moura	normal	3	6885	EM
+Rafael Farias	normal	1	7914	EE
+ Heitor Moura	normal	2	5407	TDM
+Julia Monteiro	normal	1	6913	TDMO
+Ana das Neves	normal	1	1674	TDM
+Bruno Novaes	normal	1	1714	EM
+Joao Guilherme Alves	normal	1	1399	MKT
+ Isabella da Costa	normal	1	6613	GI
+Melissa Melo	dirigente-associativo	2	2344	EE
+Davi Ribeiro	normal	1	1017	TDM
+ Melissa Rodrigues	normal	2	7521	CONT
+Joao Pedro Rodrigues	normal	3	1539	EA
+Murilo Martins	normal	2	7821	EM
+Emanuella Cunha	normal	1	5386	MKT
+Davi Almeida	normal	3	5600	MKT
+Marcos Vinicius da Mota	normal	1	4122	TUR
+Maria Sophia Ramos	normal	2	7361	TUR
+Antonio da Luz	normal	2	4705	EI
+Luiz Gustavo Cunha	normal	3	6088	TDMO
+Ana Laura Vieira	normal	2	6262	EM
+Daniela Cavalcanti	normal	2	5924	EC
+Rebeca Cardoso	normal	1	3283	CONT
+Heitor Pereira	normal	3	4865	MKT
+ Luiz Miguel Rocha	normal	3	3238	TDM
+Barbara Fernandes	normal	1	5979	CONT
+Kamilly Azevedo	normal	3	3263	EA
+Catarina da Mota	normal	2	7482	MKT
+Samuel Araujo	normal	3	2624	TUR
+Andre da Rosa	normal	2	6141	EA
+Gustavo Henrique Nascimento	normal	2	4072	EE
+Lorena Moraes	normal	3	2979	EI
+Pedro Henrique Oliveira	normal	1	7585	MKT
+Amanda Santos	normal	2	5339	TDM
+Marina Ramos	normal	3	5408	TDMO
+Rafaela Rocha	normal	3	7796	EE
+Gabriel Barros	normal	2	2793	MKT
+Camila Rezende	normal	1	1557	EE
+Lorena da Mata	normal	1	5967	CONT
+Ana Melo	normal	3	1336	TUR
+Eloah Monteiro	normal	2	5996	EM
+Brenda da Luz	normal	3	7380	GI
+Joao Miguel Goncalves	dirigente-associativo	3	1886	TDM
+Maria Sophia Lima	normal	3	3514	CONT
+ Daniel Nunes	normal	3	3677	GI
+Marcelo da Mata	normal	3	6327	EM
+Nicole Porto	normal	2	4138	EI
+Yago Novaes	normal	1	4746	EM
+Thomas Barros	normal	1	6966	CONT
+Livia Ferreira	normal	2	6328	EI
+Alicia Cavalcanti	normal	1	5261	TDM
+Yasmin Rocha	normal	3	7370	EM
+Davi Lucas Castro	trabalhador-estudante	3	7750	GI
+Thales Carvalho	trabalhador-estudante	3	5697	TUR
+Joaquim Cavalcanti	trabalhador-estudante	1	4001	EE
+Pedro Porto	trabalhador-estudante	2	4090	EC
+Joana Ferreira	trabalhador-estudante	2	7772	EM
+ Bryan Dias	trabalhador-estudante	2	6691	TUR
+Valentina da Rocha	trabalhador-estudante	2	7266	TDM
+ Bernardo da Mota	trabalhador-estudante	1	7145	CONT
+Lavinia Fogaca	trabalhador-estudante	2	2623	EM
+Maria Alice da Rocha	trabalhador-estudante	2	5700	EA
+Cecilia Moura	trabalhador-estudante	1	5878	TDMO
+Kaique da Mota	trabalhador-estudante	1	7792	EI
+Luana Moura	trabalhador-estudante	3	5259	TUR
+Juan Azevedo	trabalhador-estudante	3	6393	EI
+Gabriel Barbosa	trabalhador-estudante	1	7761	EC
+Eduardo Cardoso	trabalhador-estudante	2	6461	EI
+Alicia Barros	trabalhador-estudante	1	1938	GE
+Alexia Cavalcanti	trabalhador-estudante	1	3090	TDM
+Carlos Eduardo Teixeira	trabalhador-estudante	3	5186	EM
+Julia Cunha	trabalhador-estudante	1	5345	GE
+ Luiz Henrique Azevedo	trabalhador-estudante	1	5307	CONT
+ Rafael Costa	normal	3	2389	EC
+Catarina da Mata	normal	3	7412	TUR
+Pietro Moreira	normal	1	1927	MKT
+Olivia Carvalho	dirigente-associativo	3	1229	EM
+Carlos Eduardo Pinto	normal	1	3546	TDMO
+Clarice Pinto	normal	1	6064	MKT
+Natalia Lima	normal	3	1220	EM
+Maria Julia Melo	normal	1	6292	EM
+Sabrina Pires	normal	3	4151	MKT
+ Stella Azevedo	normal	2	1300	EM
+Alana Rocha	normal	1	3305	EM
+ Thales Lima	normal	1	7479	TDMO
+Gabriel Fernandes	normal	2	5233	TUR
+Gabrielly da Mota	normal	1	2431	EC
+Mirella da Rocha	normal	2	2813	EE
+Lavinia Lima	normal	3	7256	GE
+Olivia Azevedo	normal	3	1931	TDM
+Manuela Peixoto	dirigente-associativo	3	5324	MKT
+ Valentina Viana	normal	1	4585	EA
+ Renan da Cruz	normal	2	2331	TUR
+Luigi Farias	normal	1	3561	EA
+ Joaquim Castro	normal	3	7670	EE
+Sophie das Neves	normal	1	3241	TUR
+Leonardo Azevedo	normal	2	2339	CONT
+ Larissa Moreira	normal	3	6408	TUR
+Anthony Moreira	normal	3	4654	EC
+Caua Sales	normal	1	6030	EI
+ Camila das Neves	normal	3	5856	EC
+ Matheus da Conceicao	normal	3	3401	TDM
+Evelyn da Mata	normal	2	2572	EM
+Alexandre da Rosa	normal	3	4432	TDMO
+ Ana Carolina Correia	normal	1	1846	MKT
+Emanuella Cunha	normal	2	1133	GI
+Kamilly Viana	normal	3	5282	EA
+Cecilia Lima	normal	3	4765	EA
+Beatriz Martins	normal	2	2844	TDMO
+ Raul Castro	normal	1	1925	EA
+Maria Alice Costa	normal	3	7350	GE
+Bianca Moreira	normal	1	6985	GI
+Davi Lucas Almeida	normal	1	6829	MKT
+Renan Fogaca	normal	3	7315	GE
+Calebe Costela	normal	3	2501	MKT
+Yago Souza	normal	1	2514	EC
+Maria Fernanda Pinto	normal	3	5093	TDMO
+Matheus Lopes	normal	1	5161	EE
+Davi Luiz Pereira	normal	2	2414	MKT
+ Joao Pedro Lopes	normal	3	6794	TDM
+Raul da Conceicao	normal	2	1548	EE
+ Stephany Fernandes	normal	3	4953	EM
+Leonardo Martins	normal	2	1448	TUR
+Kaique da Luz	normal	1	2354	EA
+Bianca da Rocha	normal	3	2401	EE
+Sophia da Cruz	normal	3	4174	MKT
+Bianca Nascimento	normal	2	7928	CONT
+Lorena Moura	normal	1	2767	TUR
+Ana Laura Santos	normal	3	6571	TDMO
+ Brenda Freitas	normal	2	7017	EA
+ Maria Luiza Dias	normal	1	7552	EC
+Alana Campos	normal	2	3670	CONT
+Raul Aragao	normal	3	6695	EE
+Augusto Porto	normal	2	5418	TDM
+ Alana Pires	normal	2	4703	TUR
+Miguel Monteiro	normal	1	2804	MKT
+Maria da Mata	normal	2	3913	GI
+Joao Felipe Porto	normal	2	3959	CONT
+ Vitoria Oliveira	normal	2	6622	GE
+Enzo Moreira	normal	2	5258	EI
+Catarina Pinto	normal	1	2453	EA
+Caue Rocha	normal	1	4173	EA
+Rafael Moraes	normal	1	5296	TUR
+Pedro Henrique da Rosa	normal	1	3224	MKT
+ Livia Porto	normal	2	3199	TDMO
+Lucas Gabriel Jesus	normal	2	5333	TDM
+ Luiz Otavio Moreira	normal	1	4674	GI
+Davi Caldeira	normal	1	5886	EE
+Thomas da Rocha	normal	2	4525	EM
+Vitor Gabriel da Mota	normal	3	4629	CONT
+Brenda Dias	dirigente-associativo	3	4257	EM
+Pedro Henrique Cunha	normal	3	2694	EM
+Milena Moreira	normal	2	1599	GE
+Luigi Cardoso	normal	3	5558	GI
+Igor Barros	normal	3	3664	CONT
+ Caroline Vieira	normal	1	2720	MKT
+Pietro Campos	normal	2	5850	EC
+Maria Sophia Santos	normal	3	7195	GI
+Pedro Lucas da Luz	normal	2	2393	EI
+Pietro Rocha	normal	2	1963	TDM
+Lavinia Silva	normal	1	2061	EC
+ Paulo Carvalho	normal	1	1430	EE
+Isis Goncalves	normal	3	5717	GI
+Pietra Melo	normal	3	2850	CONT
+Eduarda Souza	normal	1	6742	GE
+ Luigi Martins	normal	2	5072	TDMO
+Lorenzo Costela	normal	2	1050	GI
+Rafaela Castro	normal	1	2595	CONT
+ Eloah Ribeiro	normal	3	4420	CONT
+ Isis Moura	normal	2	1474	EM
+Maria Vitoria Correia	normal	3	6225	EM
+Alicia Campos	normal	1	5430	GI
+ Caue Moura	normal	1	5173	TUR
+Marcos Vinicius Pinto	normal	3	1742	EM
+Ian Ferreira	normal	2	5150	EI
+Alicia Cunha	normal	2	3364	EA
+Noah Pires	normal	3	3157	TDMO
+ Erick Carvalho	normal	2	7153	EE
+Rodrigo Pereira	normal	1	3403	EM
+Caroline Oliveira	normal	1	4991	EC
+Mariane Barbosa	normal	3	1246	EC
+Pedro Lucas Moura	normal	1	1635	EE
+Davi Sales	normal	1	2289	TDM
+Luigi Teixeira	normal	2	4276	EM
+Maria Azevedo	normal	1	2939	EC
+Benjamin da Mata	normal	1	4075	EE
+Pedro Lucas Monteiro	normal	1	7632	GE
+Gustavo Henrique Peixoto	normal	2	6438	EM
+ Erick Castro	normal	3	5611	MKT
+Antonio da Mata	normal	1	7332	EM
+ Caroline Gomes	normal	3	7113	GI
+ Alana Monteiro	normal	1	5578	EE
+Melissa Caldeira	normal	1	1110	EI
+Gabriela Cardoso	normal	2	1273	EI
+Enzo Gabriel Pires	normal	3	7805	GI
+Maite Moura	normal	2	5163	GE
+ Yuri Jesus	normal	1	1983	TUR
+Breno da Cruz	normal	1	4157	EM
+Thomas Barbosa	normal	3	6005	EI
+ Maria Julia Pires	normal	1	4407	TDMO
+Matheus da Mota	normal	2	3733	EC
+Levi Oliveira	dirigente-associativo	1	5512	EM
+Sophie Freitas	normal	2	7959	TDM
+Leonardo Souza	normal	3	6418	TDM
+Maria Fernandes	normal	1	4162	GI
+Joana Nunes	normal	1	4700	GE
+Davi Luiz da Conceicao	normal	2	2458	GE
+Gabriel Jesus	normal	3	4731	GI
+Samuel Freitas	normal	3	5388	GI
+Emanuella da Luz	trabalhador-estudante	2	5188	EI
+Barbara Monteiro	trabalhador-estudante	3	5584	TUR
+Raul Barros	trabalhador-estudante	2	2461	GI
+Pedro Miguel Rezende	trabalhador-estudante	2	5972	TDMO
+Gabrielly Moreira	trabalhador-estudante	3	5769	TUR
+Luna Goncalves	trabalhador-estudante	2	6739	GI
+ Sofia Ferreira	trabalhador-estudante	2	4946	EC
+Isaac Porto	trabalhador-estudante	3	1625	EM
+Lucca Farias	trabalhador-estudante	3	4164	GE
+Nina da Paz	trabalhador-estudante	1	5754	GI
+Ana Livia Pereira	trabalhador-estudante	1	7529	GI
+Joao Miguel Nogueira	trabalhador-estudante	3	1555	GE
+Caue Rezende	trabalhador-estudante	2	3615	MKT
+Joao Felipe Teixeira	trabalhador-estudante	1	7649	EM
+Marina Pires	trabalhador-estudante	3	4790	TDMO
+Danilo Nogueira	trabalhador-estudante	2	2120	EI
+ Arthur Oliveira	trabalhador-estudante	1	5045	EE
+Luiz Miguel Monteiro	trabalhador-estudante	3	7102	TUR
+Yuri Silva	trabalhador-estudante	2	1626	EI
+Ana Julia Freitas	normal	3	1423	EI
+Maysa da Cunha	normal	2	5070	EM
+Noah Costa	normal	2	5603	GI
+Ana Santos	normal	3	6231	MKT
+Lavinia Oliveira	normal	3	4856	EI
+Heitor Almeida	normal	1	7040	TDM
+Sophie Pinto	normal	1	6499	GI
+Leandro Vieira	normal	1	4450	GI
+Camila Rocha	normal	2	5118	EI
+ Gabriela da Mota	normal	2	5432	GE
+Pedro Viana	normal	3	5183	EE
+Rebeca Cardoso	normal	1	7516	EE
+Ana Carolina Rodrigues	normal	1	3690	EA
+Noah Costa	normal	3	3954	MKT
+Francisco da Mata	normal	3	1432	GE
+ Joao Gabriel da Rocha	normal	1	6122	EM
+Isabella Melo	normal	3	3869	EE
+Benjamin Monteiro	normal	2	5755	EI
+ Paulo Nascimento	normal	1	7709	GI
+Daniela da Luz	normal	3	4426	EC
+Davi Lucca Silva	normal	1	6176	MKT
+Caua da Conceicao	normal	1	6892	TDMO
+Alana Duarte	normal	1	2772	EC
+Joao Lucas Silveira	normal	1	3107	TDM
+Kamilly da Luz	dirigente-associativo	3	6993	GI
+Raquel Alves	normal	1	3691	CONT
+ Heitor Pereira	normal	3	2540	TDMO
+Isabella Pires	normal	2	4773	MKT
+Carlos Eduardo Peixoto	normal	1	4052	EM
+Juliana Costela	normal	1	2235	GE
+ Emanuelly Alves	normal	2	4757	TUR
+Esther Viana	normal	1	3506	EE
+Pedro Henrique Santos	normal	3	1683	CONT
+Luiz Felipe Silva	normal	1	1137	CONT
+Maria Cecilia Cardoso	normal	3	4386	EE
+Marcela Fernandes	normal	3	7771	CONT
+Diego da Cruz	normal	3	4819	TDMO
+Alana Rocha	normal	3	6055	GE
+Manuela da Cunha	normal	1	2233	GI
+Maria Clara Fernandes	normal	1	4561	CONT
+Bernardo Castro	normal	1	6376	EI
+Maria Luiza da Paz	normal	2	4633	CONT
+ Kamilly Barros	normal	2	4237	TUR
+Ian Ferreira	normal	1	5053	GI
+Benjamin Dias	normal	2	3476	EM
+Ana Laura da Mata	normal	3	5338	TDM
+Brenda Nogueira	normal	3	5483	MKT
+Pedro Lucas Campos	normal	1	3992	GE
+Caroline Rodrigues	normal	3	3207	EM
+Raul Correia	normal	2	2471	EE
+Joao Felipe Castro	normal	2	1155	CONT
+Rafaela Sales	normal	3	4772	EI
+Daniela Silva	normal	3	3064	EC
+Davi Lucca da Conceicao	normal	1	4077	EC
+Marina Freitas	normal	3	5803	EC
+Heloisa Mendes	normal	1	6344	EE
+Ana Viana	normal	2	7593	CONT
+Bernardo da Rocha	normal	2	4275	EA
+Joao Pedro da Costa	normal	2	4358	EM
+Maria Luiza da Mota	normal	1	6790	EE
+Bruna Cunha	normal	2	2936	EE
+Heitor Pereira	normal	3	7678	EI
+ Maite Fogaca	normal	3	1738	EA
+Melissa Nogueira	normal	1	5570	GE
+Ana Luiza Moura	normal	2	2298	TDM
+Igor Pereira	normal	2	1018	GE
+Samuel Carvalho	normal	2	3375	EI
+Juan da Cruz	normal	2	2215	TDMO
+Carolina Costela	normal	3	3058	EA
+Anthony Correia	normal	3	1688	GI
+Ana Beatriz da Paz	normal	3	6099	MKT
+Joao Guilherme Sales	normal	1	7952	EC
+Enzo Gabriel Costa	normal	2	2630	TDM
+Carolina da Cruz	normal	3	1591	GI
+Ana Laura Moura	normal	3	4618	TUR
+Daniel Aragao	normal	1	3358	TDM
+Felipe Nogueira	normal	2	2699	EA
+Barbara Cardoso	normal	2	3246	EE
+Juliana Fogaca	normal	1	3758	CONT
+ Leandro Aragao	normal	3	3807	EC
+Breno Nogueira	normal	1	3320	EA
+Rafael Oliveira	normal	3	6803	CONT
+Luiz Miguel Correia	normal	1	6116	EI
+ Alana Araujo	normal	1	2187	GE
+Murilo Fogaca	normal	3	4866	EI
+Caue Oliveira	normal	2	2749	GI
+Elisa Farias	normal	2	3265	GI
+Marina Freitas	normal	3	7222	EC
+Maite Fernandes	normal	1	1070	CONT
+Lavinia Oliveira	normal	2	3151	EI
+Nicolas Barros	normal	3	1515	GE
+Daniela Moura	normal	2	5237	EM
+Luigi Carvalho	normal	2	4639	EC
+Francisco Pinto	normal	3	3046	TDMO
+Elisa Santos	normal	2	4094	EE
+ Bryan da Mota	normal	1	7249	TUR
+ Ana Vitoria Ferreira	normal	1	3456	EM
+Theo Sales	normal	1	4207	CONT
+ Alice da Conceicao	normal	3	4611	EA
+Joao Correia	normal	2	2232	EM
+ Rodrigo Jesus	normal	3	1414	EI
+Theo Ferreira	normal	3	3829	CONT
+Helena Porto	normal	1	3188	MKT
+Pedro Lucas Pereira	normal	2	7441	EA
+Helena Vieira	normal	2	6315	EI
+Nicolas Cardoso	normal	2	1373	GI
+Alice Araujo	normal	2	6858	TDMO
+Evelyn Fogaca	normal	3	7944	GE
+Lucca da Rosa	normal	1	7003	TDMO
+Felipe Fernandes	normal	2	1953	EE
+Theo Jesus	normal	3	3925	EM
+Camila da Cunha	normal	2	6439	EA
+Luana da Mota	normal	3	2949	TDM
+Vitor Hugo Duarte	normal	3	7850	GI
+Caroline Ribeiro	normal	2	6277	CONT
+Pedro Miguel Cardoso	normal	2	7106	EA
+Matheus Barbosa	normal	1	6756	EE
+Vitor Gabriel Moura	normal	3	3347	TDMO
+ Carolina Pereira	normal	3	3451	EM
+Emanuelly Monteiro	normal	2	4357	TDMO
+Agatha Rodrigues	normal	3	6462	EM
+Catarina Monteiro	dirigente-associativo	1	2647	EA
+ Caue Campos	normal	1	6442	EA
+Ian Monteiro	normal	1	2284	EC
+Andre Pinto	normal	1	4214	TDMO
+ Alexandre da Rocha	normal	3	6594	GI
+ Guilherme Nogueira	normal	1	2644	CONT
+ Lara Lopes	normal	1	6579	TUR
+Valentina Martins	normal	3	5334	EA
+Noah Costela	normal	2	7208	TDM
+Isabella Nascimento	normal	2	4020	TUR
+Daniel Araujo	normal	1	1144	MKT
+Maria Sophia Freitas	normal	2	5091	TDM
+Joao Miguel da Conceicao	normal	1	4901	EE
+Eduarda Rezende	normal	1	6108	EM
+Thiago Teixeira	trabalhador-estudante	1	6504	EA
+Igor das Neves	trabalhador-estudante	3	1781	TUR
+Olivia Alves	trabalhador-estudante	3	2926	EI
+Maria Cecilia Lima	trabalhador-estudante	1	2851	EC
+Nicolas Nogueira	trabalhador-estudante	1	7915	EC
+Otavio Nunes	trabalhador-estudante	1	4083	GE
+Joao Pedro Ribeiro	trabalhador-estudante	2	4149	EI
+Pedro Henrique Cunha	trabalhador-estudante	1	1028	TDMO
+Calebe Souza	trabalhador-estudante	3	3018	GE
+Paulo Alves	trabalhador-estudante	3	4840	EI
+Isadora Carvalho	trabalhador-estudante	1	4541	EA
+Isabella Carvalho	trabalhador-estudante	2	5252	EI
+Elisa da Mata	trabalhador-estudante	1	4502	EI
+Maria Silveira	trabalhador-estudante	3	2904	EM
+Noah Melo	trabalhador-estudante	1	3815	TUR
+ Maria Alice Gomes	trabalhador-estudante	2	7360	EE
+Theo Viana	trabalhador-estudante	2	1462	MKT
+Laura Ribeiro	trabalhador-estudante	1	3923	CONT
+Isis da Mota	trabalhador-estudante	1	5377	EA
+Kamilly Carvalho	trabalhador-estudante	3	2097	EC
+Luiz Felipe Rodrigues	trabalhador-estudante	2	2492	EC
+Stella Nunes	trabalhador-estudante	1	1489	EC
+Ana Julia Barbosa	trabalhador-estudante	3	1853	TDMO
+ Maria Cecilia Alves	normal	2	2338	EM
+ Isabel Nunes	normal	3	1783	EA
+Alice Moreira	normal	2	4822	EE
+Carlos Eduardo Viana	normal	3	4608	EA
+Ana Vitoria Santos	normal	2	6948	GE
+Maria Cecilia Moura	normal	2	1779	TUR
+Sophia Alves	normal	1	5133	EC
+ Sofia Castro	normal	3	6744	CONT
+Diogo Moreira	normal	1	5971	GI
+ Beatriz Rocha	normal	1	7273	TDMO
+Isis Ferreira	normal	3	6349	EC
+Davi Ribeiro	normal	1	7162	EI
+Luiz Miguel Cardoso	normal	1	2257	MKT
+Alicia Ribeiro	normal	1	4688	GI
+Guilherme Novaes	normal	1	2912	EI
+Joao Felipe Melo	normal	3	7790	GI
+Marcos Vinicius da Mata	normal	3	7473	EA
+Laura Campos	normal	2	5234	EI
+Isis Araujo	dirigente-associativo	1	7368	EI
+Joao Gabriel Goncalves	normal	1	1623	CONT
+ Theo Melo	normal	1	3123	EA
+Lucca Dias	normal	2	1769	EM
+Lorena da Mota	normal	2	7872	GI
+ Enrico Carvalho	normal	1	7778	EM
+Pietro Fernandes	normal	1	1801	EC
+Emanuella da Cunha	normal	2	3708	EA
+Diego Oliveira	normal	1	3326	TDMO
+Gustavo Cardoso	normal	2	7394	EC
+Henrique Cardoso	normal	3	5381	MKT
+ Ana Sophia Ramos	normal	1	7090	EM
+Joao Gabriel Nascimento	normal	1	4366	TDM
+Vitoria Carvalho	normal	3	2149	GE
+Mariane Campos	normal	1	7324	TUR
+ Miguel Sales	normal	3	4203	GI
+Alice Pires	normal	1	6532	EE
+Isadora Moraes	normal	1	4455	MKT
+Nicolas Nascimento	normal	2	6916	GI
+Rafael Barros	normal	2	7185	CONT
+ Ana Sophia Jesus	normal	1	7483	EE
+Joao Lucas Cardoso	normal	1	5725	TDMO
+Lucas Gabriel Peixoto	normal	2	7731	TDMO
+Gabriel Castro	normal	1	1392	TUR
+Joao Porto	normal	3	2015	TDM
+Maria Vieira	normal	3	6932	EA
+Yasmin da Conceicao	normal	2	5819	EE
+Sophia Castro	normal	3	1682	EI
+Luiz Fernando da Mota	normal	3	5208	TDM
+Nathan Santos	normal	2	6006	TDM
+Vitoria Moraes	normal	1	4451	EA
+Ana Sophia Fernandes	normal	3	5568	TDMO
+Eloah Rodrigues	dirigente-associativo	1	3215	EM
+Lucca da Paz	normal	1	2372	MKT
+Vinicius Farias	normal	1	1937	TDM
+Otavio Pinto	normal	1	7907	EC
+Gabriel Viana	normal	2	5226	TUR
+Lorena Costela	normal	3	1192	EE
+Joao Miguel Pereira	normal	1	3888	MKT
+Stephany Ramos	normal	1	6244	TDM
+Vinicius Santos	normal	3	5741	EE
+Joao Felipe Viana	normal	2	4046	EC
+Brenda Souza	normal	1	2675	EA
+Maria Julia Goncalves	normal	3	4596	MKT
+Lavinia Caldeira	normal	3	7633	CONT
+Maria Julia Souza	normal	2	2845	EC
+Yasmin Freitas	normal	3	5529	MKT
+Luiz Gustavo Moreira	normal	3	1893	GI
+Helena Sales	normal	1	7344	TUR
+ Clarice Moreira	normal	1	5696	EC
+Yasmin Rezende	normal	1	7406	TDMO
+Alexandre Santos	normal	1	7888	EA
+Kamilly Farias	normal	3	6283	MKT
+ Caua da Cunha	normal	2	3920	CONT
+Diego da Paz	normal	3	3286	EA
+ Leandro Costa	normal	2	6440	EC
+Joao Pedro das Neves	normal	1	3977	TDM
+Maite Ramos	normal	1	2779	EC
+ Yago Nascimento	normal	2	7425	GE
+Eduarda Teixeira	normal	2	1894	EM
+ Clara Nogueira	normal	1	3762	EE
+Luigi da Cruz	normal	2	5448	GI
+Maria Luiza da Mata	normal	2	5814	MKT
+Elisa da Conceicao	normal	1	4272	MKT
+ Davi Fernandes	normal	1	7620	CONT
+Stella Lima	dirigente-associativo	2	1403	EA
+ Pietra Carvalho	normal	2	4318	TUR
+ Joao Miguel da Costa	normal	1	7448	TDM
+Sofia Moreira	normal	2	3866	TUR
+ Clarice da Luz	normal	3	5351	MKT
+Alexandre Fogaca	normal	1	6145	EI
+Vitoria Farias	normal	3	6482	EC
+Fernanda Fogaca	normal	2	4491	EI
+Joao Vitor Nogueira	normal	3	6834	MKT
+Fernando Silveira	normal	3	4411	MKT
+Augusto Nascimento	normal	3	5046	EE
+ Leonardo Porto	normal	1	2209	EC
+Danilo Lima	normal	1	5940	GI
+Theo Rodrigues	normal	1	3794	EM
+Thomas Nunes	normal	1	2388	EC
+Isaac Araujo	normal	3	6986	EE
+Carlos Eduardo Silveira	normal	1	7838	TUR
+Ryan da Conceicao	normal	1	3065	TDM
+ Henrique Castro	normal	1	1603	EM
+Nicole Nunes	normal	1	2586	GE
+Pedro Costela	normal	2	2950	EE
+Yuri Costela	normal	2	7133	GE
+Amanda Viana	normal	1	3352	CONT
+Lorena Melo	normal	2	6124	EC
+Murilo Fernandes	normal	1	3980	TDMO
+Luiz Gustavo Pires	normal	3	7140	EC
+Joao Miguel Monteiro	normal	3	3235	GE
+Leonardo Freitas	normal	3	7322	TUR
+Kaique Rocha	normal	1	1612	GE
+Leticia Moreira	normal	1	3878	CONT
+Thales da Conceicao	normal	2	6022	EM
+ Joao Lucas Ribeiro	normal	2	2448	GI
+Marcela Costela	normal	2	7499	TUR
+Stephany Goncalves	normal	2	2352	CONT
+Eduardo Fogaca	normal	1	1784	EC
+ Renan Rezende	normal	2	7626	TUR
+Vicente Aragao	dirigente-associativo	1	7510	GI
+Andre Rodrigues	normal	3	1818	EC
+Ana Luiza Sales	normal	2	6296	MKT
+Lucas Moreira	normal	3	5361	EM
+Renan da Costa	normal	1	7300	TDM
+Luiz Henrique Nogueira	normal	3	1170	MKT
+Emanuella Peixoto	normal	1	1533	EM
+Davi Lucca Pereira	normal	1	4437	GE
+ Caroline Viana	normal	1	2057	TDM
+Davi Lucas Farias	normal	1	7575	EI
+Raul Goncalves	trabalhador-estudante	2	5655	EC
+Isadora Cavalcanti	trabalhador-estudante	3	7076	EE
+Leticia Porto	trabalhador-estudante	3	3965	EM
+Lorena da Mota	trabalhador-estudante	3	6749	EI
+Sabrina da Costa	trabalhador-estudante	2	1828	TDMO
+Davi Lucca Cardoso	trabalhador-estudante	2	1991	TDM
+Lavinia Fogaca	trabalhador-estudante	1	2734	EA
+Ana Clara Novaes	trabalhador-estudante	1	4664	CONT
+Ryan Campos	trabalhador-estudante	1	4233	TDMO
+Yago Goncalves	trabalhador-estudante	1	7982	CONT
+Maite Gomes	trabalhador-estudante	1	4934	MKT
+ Joao Felipe Barros	trabalhador-estudante	2	3734	TDMO
+Levi Nogueira	trabalhador-estudante	2	7501	EA
+Luiz Miguel Pereira	trabalhador-estudante	1	3311	GI
+Joao Pinto	trabalhador-estudante	3	5526	EE
+Yasmin Souza	trabalhador-estudante	1	2761	GI
+Elisa Mendes	trabalhador-estudante	3	5271	EM
+ Bianca Vieira	trabalhador-estudante	1	2417	MKT
+Thomas Castro	trabalhador-estudante	2	5084	EA
+Thomas Pinto	trabalhador-estudante	2	1147	EE
+Ana Sophia Lopes	trabalhador-estudante	1	5633	EC
+ Clarice da Mata	trabalhador-estudante	2	2299	EC
+Gabrielly da Cunha	trabalhador-estudante	1	7087	TUR
+ Lais Campos	trabalhador-estudante	1	1216	GI
+Vitor Hugo Santos	trabalhador-estudante	2	6358	EA
+Clarice Dias	trabalhador-estudante	1	6246	GI
+ Emilly Fogaca	trabalhador-estudante	2	1851	TDMO
+Francisco da Conceicao	trabalhador-estudante	3	1385	EM
+Yasmin Lopes	trabalhador-estudante	2	2059	MKT
+Vitoria Goncalves	trabalhador-estudante	1	1629	EI
+Pedro Freitas	trabalhador-estudante	3	5185	EM
+Thiago Costela	trabalhador-estudante	3	4763	EA
+Larissa Souza	trabalhador-estudante	2	5414	EE
+Leticia Goncalves	trabalhador-estudante	3	6488	EM
+Gabrielly da Cruz	trabalhador-estudante	2	1441	GI
+Julia Campos	trabalhador-estudante	1	5546	TDMO
+Erick Teixeira	trabalhador-estudante	2	7880	EA
+Nicolas Duarte	trabalhador-estudante	3	1652	MKT
+Calebe Silveira	trabalhador-estudante	1	5060	MKT
+Juliana Cardoso	trabalhador-estudante	1	5903	GI
+Emilly Cardoso	trabalhador-estudante	2	5804	EI
+ Vitor Nunes	normal	2	1838	TDMO
+Benjamin Nascimento	normal	2	7802	GI
+Erick Nunes	normal	3	1830	CONT
+Ana Sophia Peixoto	normal	3	5481	EE
+Eduardo Nogueira	normal	2	2371	MKT
+Valentina Nunes	normal	2	6435	TUR
+Isabella Carvalho	normal	3	1407	EI
+ Joana Araujo	normal	2	1217	MKT
+Fernanda Melo	normal	3	3542	EC
+Kevin Silveira	normal	3	4117	EE
+Julia Cavalcanti	normal	3	3681	CONT
+Alice Freitas	normal	2	3623	TDM
+Valentina Alves	normal	1	2278	GI
+Maria Fernanda da Luz	dirigente-associativo	1	1344	EM
+Agatha Freitas	normal	2	7257	TDMO
+Natalia Ferreira	normal	2	2738	EM
+ Ana Alves	normal	2	6577	EI
+Felipe Ferreira	normal	3	2287	MKT
+Maite Freitas	normal	1	3743	TUR
+ Luiz Otavio da Cruz	normal	1	1126	EI
+Joana da Cunha	normal	3	2269	EI
+Alana Fernandes	normal	2	4056	CONT
+Eduarda Nunes	normal	2	4595	GE
+ Leonardo Dias	normal	2	7307	TDMO
+Yago Duarte	normal	3	6168	EM
+Maria Luiza Azevedo	normal	1	5593	EC
+Felipe Duarte	normal	2	2547	TUR
+Isabelly Silva	normal	1	1663	EI
+Maria Fernanda Nunes	normal	1	7314	EA
+Isadora da Mota	normal	3	6824	EM
+Natalia Gomes	normal	2	4543	EI
+Esther Costa	normal	3	5997	EA
+Heitor Costela	normal	1	2802	EM
+Laura Fogaca	normal	2	2359	TDMO
+Luiza Lima	dirigente-associativo	1	5465	TDM
+Daniel da Cruz	normal	1	1058	TDMO
+Maria Vitoria Cunha	normal	1	7495	CONT
+ Joao Vitor Farias	normal	3	6595	EM
+Ana Julia Peixoto	normal	2	7177	EC
+Maria Clara Silveira	normal	2	1493	GE
+Mariana Rodrigues	normal	2	2199	EA
+Clarice Fernandes	normal	2	5299	EA
+ Vitoria da Cunha	normal	1	3721	TUR
+Felipe Mendes	normal	1	2148	TDMO
+Levi da Mata	normal	1	7248	CONT
+Melissa da Rosa	normal	2	1722	TDM
+Ana Luiza Silva	normal	1	2934	CONT
+Helena Nunes	normal	1	4787	EA
+Vitoria Rezende	normal	3	2079	MKT
+Emanuel Silveira	normal	2	4859	EI
+Maria Fernanda Peixoto	normal	2	2872	GE
+Barbara da Paz	normal	2	1600	EA
+ Maria Cecilia Moura	normal	1	4317	CONT
+ Camila Silva	normal	1	6028	EC
+Emanuel Rocha	normal	1	4008	CONT
+ Lais Azevedo	normal	1	7898	GE
+Isabella Goncalves	normal	3	7130	TDM
+ Catarina Caldeira	normal	3	3116	MKT
+Isadora Lopes	normal	1	7393	MKT
+Isadora Rocha	normal	2	4653	MKT
+Raquel das Neves	normal	1	5326	GI
+Barbara Silva	dirigente-associativo	2	3051	EC
+Caroline Rocha	normal	1	3991	MKT
+Kamilly Ferreira	normal	3	6286	TUR
+Gabrielly Melo	normal	2	4238	EM
+ Leandro da Conceicao	normal	3	5088	EA
+Luna Nascimento	normal	2	6004	EE
+ Olivia Porto	atleta	1	7848	TDM
+Davi Lucca Nogueira	normal	2	4490	EM
+Pedro Silveira	normal	1	3994	TDM
+Daniela Rocha	normal	1	4692	EM
+Luiz Otavio Almeida	normal	2	4672	GI
+Giovanna Ferreira	normal	1	5217	EE
+Anthony Souza	normal	1	4213	TDMO
+Helena Sales	normal	2	3420	EC
+Yago da Cunha	normal	2	6181	GE
+Isis Azevedo	normal	2	7775	EM
+Julia Fernandes	normal	2	3343	TDMO
+Amanda Martins	normal	3	4873	TDMO
+Sofia Oliveira	normal	2	6471	EI
+Pedro Miguel Duarte	normal	2	7374	GE
+Larissa da Cunha	normal	2	5639	CONT
+ Eloah Araujo	normal	1	2860	TDMO
+Joao Felipe Alves	normal	3	6195	TDM
+Ana Laura Rezende	normal	2	4324	TDMO
+ Lucca Duarte	normal	1	2873	EM
+Joaquim Ramos	normal	2	3944	CONT
+Enrico Nascimento	normal	3	6381	GI
+Emanuelly Pinto	atleta	2	3595	TDM
+Leandro da Rocha	atleta	1	4064	CONT
+Marina Goncalves	atleta	1	1251	EA
+Alice Gomes	atleta	1	2943	CONT
+Luigi Costela	atleta	3	1740	EA
+Ana Laura Moreira	normal	1	1276	MKT
+Esther Jesus	normal	3	1694	EM
+Nicole da Costa	normal	3	7276	TDM
+Maysa Teixeira	normal	2	6038	EE
+Cecilia Freitas	normal	1	5266	GI
+ Thales Ramos	normal	2	6196	TUR
+ Alana Campos	normal	3	4835	EI
+Benicio Dias	normal	2	1291	GI
+Erick Ribeiro	normal	1	7326	TDMO
+Clara Pires	normal	2	4940	TUR
+Mariana Pinto	normal	2	5731	EA
+Matheus Costela	normal	1	2320	EA
+ Emilly Moreira	normal	2	6923	EC
+ Joao Gabriel da Luz	normal	1	4305	TDM
+Thiago Ferreira	normal	3	5159	CONT
+Maria Luiza Aragao	normal	2	7773	EE
+Ana Luiza da Cunha	normal	2	2901	TDM
+Barbara Alves	normal	1	7191	TDM
+Ian Castro	normal	2	1898	GI
+Marcela Nogueira	normal	1	2046	EC
+Valentina Novaes	normal	3	4100	TDMO
+Emanuelly Correia	normal	3	1560	GE
+Gustavo Henrique Vieira	normal	1	3830	TDM
+ Ryan Nascimento	dirigente-associativo	1	5468	CONT
+Eduarda Cardoso	dirigente-associativo	3	6805	EE
+Natalia Goncalves	dirigente-associativo	3	3183	CONT
+ Davi Correia	dirigente-associativo	2	2003	MKT
+Anthony Nogueira	dirigente-associativo	3	3717	TDMO
+Ana Barbosa	dirigente-associativo	3	6778	EI
+Andre Oliveira	dirigente-associativo	2	2445	EC
+ Ana Fogaca	dirigente-associativo	1	6443	EA
+Yago Oliveira	dirigente-associativo	3	4969	EM
+ Miguel Moraes	normal	3	6428	EC
+Sophie da Mata	normal	1	3613	MKT
+Camila da Mota	normal	2	5598	EI
+Vitoria Fernandes	normal	2	6198	EM
+Maria Alice Freitas	normal	2	6313	CONT
+Milena Melo	normal	1	4181	MKT
+Isadora Costa	normal	2	2700	CONT
+Enzo Novaes	normal	1	5569	EI
+Luna Nogueira	normal	2	5343	EE
+Lavinia Pereira	normal	3	7707	EE
+Henrique Nogueira	normal	1	6850	GI
+Bruno Ramos	normal	3	3130	GE
+Beatriz Lopes	normal	1	5557	GI
+Valentina Ferreira	normal	1	3149	MKT
+Laura Dias	normal	2	1196	GE
+Juliana Ramos	atleta	2	3603	CONT
+Rebeca Monteiro	atleta	2	6773	CONT
+Andre Cunha	atleta	2	7660	MKT
+ Enrico Peixoto	atleta	1	2976	EE
+Igor Pinto	atleta	2	4803	GE
+ Davi Lucca Cavalcanti	normal	2	1917	TDM
+Sarah Barros	normal	3	1427	CONT
+Danilo Barbosa	normal	1	2171	EM
+Juan Lima	dirigente-associativo	2	2137	EA
+Joao Barros	normal	2	4776	MKT
+Helena Freitas	normal	3	4579	TDM
+Alexandre Pires	normal	1	6612	CONT
+Evelyn Nascimento	normal	1	5622	TDMO
+Paulo Silva	normal	1	5567	EM
+Raul Goncalves	normal	2	4194	EM
+Sarah Costa	normal	3	4022	TDM
+Ana Vitoria Correia	normal	1	5066	CONT
+Barbara Barros	normal	3	5461	EE
+Ana Beatriz Castro	normal	1	7487	TDMO
+Mariana das Neves	normal	2	2643	GI
+Marcos Vinicius Sales	normal	3	2725	EM
+Lara Novaes	normal	3	7942	CONT
+Fernando Oliveira	normal	2	1882	MKT
+Maite Gomes	normal	3	6052	EM
+Noah da Rosa	normal	1	6662	GI
+Larissa da Mota	normal	3	1839	EC
+Emanuella Araujo	normal	2	4042	GE
+Pietra Souza	normal	2	7230	TDM
+Nicolas Pereira	normal	1	4350	TDMO
+Maria Clara Rodrigues	normal	2	1492	MKT
+Joao Pedro Moreira	normal	2	7404	EC
+Luiz Otavio Duarte	normal	1	4158	GI
+Lara Oliveira	normal	1	6799	TDMO
+Maria Vitoria Araujo	normal	1	1108	GE
+Nathan Oliveira	normal	1	6603	GI
+Heloisa Santos	normal	3	4827	GE
+Andre Ferreira	normal	3	1409	MKT
+Bruno Porto	normal	1	1416	EI
+Clara Carvalho	normal	3	4400	CONT
+Bernardo Carvalho	normal	2	1850	EE
+Levi Martins	normal	3	7105	TUR
+Bruna Dias	normal	3	5553	MKT
+Camila Fogaca	normal	2	4902	EC
+Pietro Jesus	normal	2	2695	TDMO
+Kaique Jesus	dirigente-associativo	2	6398	EI
+Luiz Gustavo Cardoso	normal	1	1447	TDM
+ Caua Silva	normal	1	6751	GI
+Nicolas Ribeiro	normal	2	4328	TUR
+Manuela da Conceicao	normal	3	3102	MKT
+Carlos Eduardo Melo	normal	3	2183	TDM
+Amanda Moreira	normal	1	7533	EM
+Thales Rodrigues	normal	1	5480	GE
+Diego Ferreira	normal	1	3952	GI
+Alicia da Cunha	atleta	3	6407	TDMO
+Rafael Araujo	atleta	2	5970	TDM
+Benicio Lima	atleta	1	3140	CONT
+Vinicius Rodrigues	atleta	3	4857	EC
+Isaac Azevedo	atleta	3	4159	CONT
+Ana Sophia Ribeiro	atleta	3	3564	MKT
+Sophia Mendes	normal	3	1225	EE
+Sabrina Alves	normal	2	7234	TDM
+Igor Lima	normal	3	3763	GE
+Murilo Barros	dirigente-associativo	2	1622	GE
+Isadora Moraes	normal	3	6298	MKT
+Joao Vitor Cunha	normal	2	5415	GI
+Raquel Rodrigues	normal	1	7484	TDMO
+Davi Luiz da Rocha	normal	1	2373	EM
+Ana Carolina da Luz	normal	3	6047	TUR
+Bernardo Nogueira	normal	1	1150	EE
+Ana Livia Monteiro	normal	3	3648	CONT
+Maysa Cardoso	normal	2	4862	TUR
+Thiago da Cruz	normal	3	3411	MKT
+Renan Cavalcanti	normal	3	5524	TUR
+Benjamin da Cunha	normal	1	4640	GE
+Emanuella Oliveira	normal	1	7038	TDM
+Isaac Novaes	normal	2	2202	TDM
+Emilly Oliveira	normal	2	6648	TUR
+Sofia Castro	normal	2	1420	CONT
+Sophie das Neves	normal	2	5087	EC
+Joao Barbosa	normal	3	4141	MKT
+Marcos Vinicius Pires	normal	3	1203	MKT
+Elisa Pereira	normal	3	4556	TDMO
+Vitor Gabriel Almeida	normal	2	7692	TUR
+Kevin da Cunha	normal	3	3353	EE
+Caroline Cardoso	normal	2	1134	CONT
+Gabriela Silveira	normal	2	4091	EA
+Bernardo Peixoto	normal	1	6019	TDM
+Nicole da Costa	normal	2	6505	GI
+Erick Duarte	normal	1	3161	GI
+Lucas Gabriel da Cruz	normal	3	5693	EI
+Gabriel Carvalho	normal	3	6759	GE
+Juliana Moreira	normal	3	4321	GI
+Emanuel Farias	normal	3	7580	EI
+Thales Jesus	normal	3	5274	GE
+Andre Silva	normal	1	4412	GE
+Danilo Moreira	normal	3	4500	EA
+Luiz Gustavo da Luz	normal	1	4442	EM
+Caue Cardoso	normal	3	1453	EM
+Ian Teixeira	normal	1	5989	GI
+Igor Mendes	normal	3	6347	CONT
+Amanda Mendes	normal	3	4170	CONT
+Caua Martins	normal	2	7127	EA
+Joao Gabriel Ferreira	normal	2	7305	CONT
+Luiza Ribeiro	normal	2	1042	GI
+Ana Clara Silva	atleta	2	3999	EE
+Ericka Almeida	trabalhador-estudante	1	3192	EM
+Bianca da Costa	atleta	3	2705	CONT
+Lara Oliveira	normal 	2	7117	GI
+Julia Rodrigues	trabalhador-estudante	2	1356	EC
+Mateus Souza	Erasmus	3	4872	TDMO
+Gustavo Ferreira	normal	3	7981	EI
+Isabella da Rocha	normal	1	7422	CONT
+Ericka Barbosa	normal	1	3351	TDMO
+Ana Beatriz Carvalho	normal	1	2016	TDM
+Erick Martins	normal	2	7817	MKT
+Maria Eduarda Dias	normal	3	1228	EC
+Sabrina Pires	normal	1	6066	TUR
+Beatriz Fernandes	normal	2	7877	CONT
+Emanuella da Luz	normal	3	6279	GI
+Ericka Cardoso	normal	1	6067	CONT
+Vitoria Alves	normal	2	2618	GE
+Ana Sophia Rezende	normal	3	4393	CONT
+Lais Teixeira	normal	1	6625	GI
+Helena da Mata	normal	3	1945	GI
+Luiz Gustavo Azevedo	normal	1	5973	EC
+Bianca Farias	normal	3	5687	GI
+Thales da Cunha	normal	2	2272	EE
+Lara Melo	normal	3	6502	TDMO
+Ana Julia Peixoto	normal	3	6146	TDM
+Julia da Rocha	normal	3	6762	TUR
+Sabrina Barbosa	normal	1	2134	MKT
+Ericka Correia	normal	2	4808	EM
+Emanuella da Silva	normal	2	2597	EI
+Mateus da Cunha	trabalhador-estudante	2	3127	GI
+Ana Beatriz Almeida	trabalhador-estudante	2	1241	EI
+Caroline da Rocha	trabalhador-estudante	3	7853	EC
+Melissa da Costa	trabalhador-estudante	3	3272	EA
+Lorenzo da Luz	trabalhador-estudante	1	5788	TDMO
+Ericka da Cunha	trabalhador-estudante	1	6786	EA
+Ericka da Silva	trabalhador-estudante	1	4711	EI
+Ana Sophia Castro	trabalhador-estudante	2	4372	TUR
+Thales da Rosa	trabalhador-estudante	3	7141	EM
+Lara da Rocha	trabalhador-estudante	1	2025	EM
+Joana da Costa	normal	3	7514	EM
+Emanuella da Rocha	normal	1	5292	CONT
+Ericka da Silva	normal	1	4684	EA
+Ericka da Rocha	normal	3	3179	MKT
+Caroline da Luz	normal	3	6890	TDMO
+Ericka da Costa	normal	2	1472	TUR
+Ana Julia da Cunha	dirigente-associativo	1	7351	MKT
+Joao Lucas da Silva	normal	2	7726	GI
+Ericka da Mata	normal	3	7237	EA
+Mateus Vasconcelos	normal	1	5694	GI
+Pedro Figueiredo	normal	2	6093	MKT
+Gonçalo Correia	normal	1	2963	TDM
+Miguel Filipe	normal	1	1589	MKT
+Jorge Sousa	normal	2	5111	EI
+Maria da Silva	normal	3	5802	EE
+José Rodrigues	trabalhador-estudante	1	6529	EC
+Ana Martins	normal	1	3552	EE
+Pedro Alves	trabalhador-estudante	1	1835	EM
+Isabel Santos	normal	1	3533	EC
+Rui Fernandes	aluno-de-erasmus	2	6931	EI
+Sofia Oliveira	atleta	1	7419	CONT
+Mário Pinto	normal	3	1872	EE
+Eduardo Gomes	normal	3	4710	TDMO
+Raquel Costa	aluno-de-erasmus	2	2578	EC
+João Ferreira	atleta	3	3266	TUR
+Rita Soares	normal	1	6601	EC
+Júlia Moreira	aluno-de-erasmus	2	3814	EE
+Carlos Cardoso	normal	1	7795	EI
+Lara Carvalho	trabalhador-estudante	2	2345	MKT
+Gonçalo Neves	normal	1	7277	EM
+Bianca Fernandes	normal	2	2415	EE
+Davi Martins	aluno-de-erasmus	2	1476	GI
+Lívia Costa	normal	2	1469	GE
+Gustavo Lima	atleta	3	5549	EC
+Emanuela Silva	normal	3	5382	TUR
+Felipe Oliveira	normal	2	7543	EC
+Maria Luísa Peixoto	atleta	1	7962	GE
+Diogo Teixeira	normal	1	1977	EE
+Carla Novais	atleta	1	6919	EI
+Tiago Pinto	normal	1	4732	EM
+Rosa Sousa	normal	1	1393	GE
+Pablo Rodrigues	trabalhador-estudante	1	2367	EE
+Luana Santos	atleta	2	7166	GI
+Matias Gomes	aluno-de-erasmus	1	2225	EC
+Ana Paula Ribeiro	normal	2	2545	MKT
+Rafaela Costa	trabalhador-estudante	2	4702	EM
+Júlio César Pereira	normal	1	4592	EE
+Clara Martins	normal	3	2521	TUR
+Miguel Costa	trabalhador-estudante	1	6048	EC
+Vitória Alves	atleta	1	6903	GE
+Gisela Rodrigues	trabalhador-estudante	1	5880	EI
+Roberto Novais	normal	3	2074	EM
+Beatriz Carvalho	trabalhador-estudante	1	1796	EE
+Gustavo Teixeira	normal	2	6041	GI
+Juliana Sousa	aluno-de-erasmus	1	6878	EC
+Matheus Fernandes	atleta	1	6539	TDMO
+Elisa Ferreira	normal	1	5544	EE
+Mariana Gomes	normal	1	1451	EI
+Rui Alves	atleta	1	3505	EM
+Lara Silva	trabalhador-estudante	1	1169	GE
+Sofia Cardoso	atleta	1	2757	EC
+Bruno Pereira	normal	1	1982	EE
+Marta Oliveira	aluno-de-erasmus	2	3111	TUR
+Carlos Novais	normal	3	3630	GI
+Isadora Costa	normal	3	1526	EC
+Mateus Sousa	normal	1	6700	EE
+Amanda Carvalho	normal	2	1553	EI
+Bruna Martins	normal	1	2435	EM
+Lucas Rodrigues	normal	1	7724	GE
+Ana Clara Ferreira	normal	2	3431	TDMO
+Raul Teixeira	trabalhador-estudante	1	1434	EC
+Maria João Oliveira	normal	1	5245	EE
+Eduardo Alves	normal	1	1712	TUR
+Sofia Santos	trabalhador-estudante	2	7566	GI
+Ricardo Pinto	atleta	1	6963	EC
+Júlia Sousa	normal	1	1163	EE
+António Gomes	atleta	2	4680	EI
+Carolina Teixeira	normal	1	2870	EM
+Gonçalo Martins	normal	2	3789	GE
+Luana Alves	normal	1	1188	TDMO
+Gustavo Ferreira	trabalhador-estudante	1	3937	EC
+Beatriz Oliveira	aluno-de-erasmus	3	5638	EE
+Daniela Rodrigues	normal	2	1023	TUR
+Miguel Silva	normal	3	4397	GI
+Emanuele Novais	normal	1	6909	EC
+Mariana Alves	normal	2	1614	EE
+Rafael Cardoso	normal	1	6508	EI
+Larissa Martins	trabalhador-estudante	1	4681	EM
+Gisela Teixeira	trabalhador-estudante	3	1054	GE
+Júlio Ferreira	normal	2	1370	TDMO
+Carla Rodrigues	normal	1	1412	EC
+Matias Gomes	trabalhador-estudante	1	3503	EE
+Ana Luísa Carvalho	normal	2	4570	TUR
+Sofia Costa	normal	2	7845	GI
+Bruno Oliveira	normal	1	5657	EC
+Lara Fernandes	normal	2	4497	EE
+Mateus Cardoso	normal	3	2336	EI
+Elisa Teixeira	aluno-de-erasmus	2	6106	EM
+Carla Sousa	trabalhador-estudante	1	1384	GE
+Gustavo Alves	atleta	1	2011	TDMO
+Maria João Martins	normal	2	7035	EC
+Rui Silva	aluno-de-erasmus	2	1681	EE
+Ana Clara Rodrigues	normal	2	7676	TUR
+Gonçalo Costa	normal	1	5170	GI
+Maria da Silva	normal	1	6865	EC
+João Santos	normal	2	1202	EE
+Ana Rodrigues	trabalhador-estudante	2	6901	EI
+José Ferreira	atleta	1	3686	EM
+Carlos Martins	normal	2	5195	GE
+Manuel Pereira	atleta	2	5080	TDMO
+Isabel Oliveira	normal	2	7863	EC
+Francisco Gomes	normal	1	6712	EE
+Luís Filipe	atleta	1	4622	TUR
+Marta Barbosa	trabalhador-estudante	3	2362	GI
+Paulo Almeida	normal	3	2614	EC
+Teresa Costa	normal	3	4977	EE
+Fernando Pinto	aluno-de-erasmus	1	2794	EI
+Beatriz Moreira	normal	1	4839	EM
+Gustavo Albuquerque	normal	3	4362	GE
+Inês Garcia	normal	1	2464	TDMO
+Ricardo Leite	normal	1	5499	EC
+Sofia Dias	normal	2	2279	EE
+Diogo Ramos	trabalhador-estudante	3	4323	TUR
+Raquel Neves	normal	1	3099	GI
+Bruno Alves	normal	3	6521	EC
+Margarida Melo	atleta	2	3783	EE
+Nuno Oliveira	normal	1	4108	EI
+Catarina Martins	normal	1	5054	EM
+Vitor da Costa	atleta	2	4146	GE
+Elena Costa	normal	2	7808	TDMO
+Pedro Sousa	aluno-de-erasmus	1	1001	EC
+Mariana Pinto	normal	1	4519	EE
+Rafael Correia	trabalhador-estudante	2	3124	TUR
+Daniel Almeida	trabalhador-estudante	2	4384	GI
+Patrícia Cardoso	trabalhador-estudante	1	6907	EC
+Rui Barbosa	trabalhador-estudante	1	3200	EE
+Sílvia Gomes	normal	2	2589	EI
+David Santos	trabalhador-estudante	1	7016	EM
+Carla Rodrigues	atleta	1	5179	GE
+André Almeida	normal	1	5879	TDMO
+Liliana Silva	normal	2	3975	EC
+Marcelo Martins	atleta	3	7200	EE
+Cristina Carvalho	normal	1	4988	TUR
+Filipe Rodrigues	normal	1	5966	GI
+Mónica Alves	normal	2	3938	EC
+Tiago Sousa	normal	3	6848	EE
+Luísa Santos	trabalhador-estudante	1	2639	EI
+Maria Silva	trabalhador-estudante	1	4625	EM
+José Santos	normal	2	3876	GE
+Ana Rodrigues	normal	1	5624	TDMO
+Luís Martins	normal	3	6763	EC
+Ricardo Gonçalves	atleta	1	7369	EE
+Sandra Pinto	trabalhador-estudante	3	7362	TUR
+Fernando Santos	atleta	1	2179	GI
+Márcia Oliveira	normal	1	3155	EC
+Carlos Rodrigues	aluno-de-erasmus	1	3256	EE
+Rita Martins	atleta	3	3125	EI
+António Pereira	normal	1	7503	EM
+Cristina Costa	normal	1	4619	GE
+Pedro Silva	trabalhador-estudante	1	7780	TDMO
+Raquel Fernandes	aluno-de-erasmus	2	6548	EC
+Eduardo Gomes	trabalhador-estudante	1	3749	EE
+Inês Marques	atleta	3	5812	TUR
+Rui Martins	normal	2	1575	GI
+Ana Maria Costa	normal	1	5281	EC
+Manuel Fernandes	trabalhador-estudante	1	5434	EE
+Patrícia Santos	aluno-de-erasmus	2	3041	EI
+Jorge Rodrigues	normal	1	1788	EM
+Rui Silva	normal	1	6910	GE
+Cristina Martins	normal	3	1191	TDMO
+José Maria Oliveira	trabalhador-estudante	1	3488	EC
+Ana Martins	normal	2	5380	EE
+Nuno Fernandes	normal	1	3498	TUR
+Patrícia Gonçalves	normal	1	1438	GI
+Cristina Costa	trabalhador-estudante	3	7803	EC
+Carlos Fernandes	normal	2	1224	EE

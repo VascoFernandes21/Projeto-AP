@@ -1,0 +1,810 @@
+UC	Época	Datas	Hora	Duração	Sala(s)		
+Algoritmos e Programação	normal	07/01/23	09:00	90	S27		
+Álgebra	normal	18/01/23	10:00	100	S65		
+Análise Matemática	normal	05/01/23	14:00	120	S52		
+Sistemas Digitais	normal	11/01/23	16:00	90	S34		
+Tecnologia dos Computadores	normal	23/01/23	09:00	100	S1		
+Estrutura de Dados	normal	02/06/23	10:00	120	S80		
+Matemática Discreta	normal	05/06/23	14:00	90	S47		
+Redes de Comunicação I	normal	08/06/23	16:00	100	S5		
+Arquitetura de Computador	normal	12/06/23	09:00	120	S73		
+Matemática Aplicada	normal	15/06/23	10:00	90	S24		
+Usabilidade	normal	09/01/23	14:00	100	S61		
+Sistemas Operativos	normal	07/01/23	16:00	120	S59		
+Aplicações para a Internet I	normal	09/01/23	09:00	90	S29		
+Programação Orientada aos Objetos	normal	12/01/23	10:00	100	S43		
+Análise de Sistemas	normal	16/01/23	14:00	120	S12		
+Programação para Dispositivos Móveis	normal	31/01/23	16:00	90	S78		
+Redes de Comunicação II	normal	05/06/23	09:00	100	S20		
+Engenharia de Software I	normal	08/06/23	10:00	120	S45		
+Aplicações para a Internet II	normal	12/06/23	14:00	90	S7		
+Bases de Dados I	normal	15/06/23	16:00	100	S28		
+Bases de Dados II	normal	21/01/23	09:00	120	S56		
+Complementos de Sistemas Operativos	normal	05/01/23	10:00	90	S63		
+Sistemas Embebidos	normal	09/01/23	14:00	100	S50		
+Sistemas Distribuídos	normal	12/01/23	16:00	120	S11		
+Redes de Comunicação III	normal	16/01/23	09:00	90	S26		
+Segurança Informática	normal	19/01/23	10:00	100	S44		
+Inteligência Artificial	normal	02/06/23	14:00	120	S15		
+Engenharia de Software II	normal	05/06/23	16:00	90	S8		
+Empreendorismo e Gestão de Empresas	normal	08/06/23	09:00	100	S70		
+Álgebra Linear e Geometria Analítica	normal	02/01/23	10:00	120	S23		
+Análise Matemática I	normal	05/01/23	14:00	90	S31		
+Desenho Eletrotécnico	normal	09/01/23	16:00	100	S39		
+Física Geral	normal	12/01/23	09:00	120	S48		
+Programação de Computadores	normal	16/01/23	10:00	90	S46		
+Análise Matemática II	normal	02/06/23	14:00	100	S21		
+Eletrotecnia e Circuitos	normal	05/06/23	16:00	120	S54		
+Instalações Elétricas I	normal	08/06/23	09:00	90	S69		
+Métodos Numéricos	normal	12/06/23	10:00	100	S16		
+Probabilidades e Estatística	normal	15/06/23	14:00	120	S32		
+Programação Avançada	normal	19/06/23	16:00	90	S3		
+Eletromagnetismo	normal	02/01/23	09:00	100	S71		
+Eletrónica	normal	05/01/23	10:00	120	S9		
+Instalações Elétricas II	normal	09/01/23	14:00	90	S2		
+Sistemas Digitais	normal	12/01/23	16:00	100	S67		
+Sistemas e Controlo	normal	16/01/23	09:00	120	S60		
+Eletrónica de Potência	normal	02/06/23	10:00	90	S17		
+Gestão e Qualidade da Energia Elétrica	normal	05/06/23	14:00	100	S14		
+Instrumentação Industrial	normal	08/06/23	16:00	120	S75		
+Máquinas Elétricas	normal	12/06/23	09:00	90	S33		
+Microssistemas	normal	15/06/23	10:00	100	S22		
+Automação Industrial	normal	02/01/23	14:00	120	S10		
+Gestão Industrial	normal	05/01/23	16:00	90	S49		
+Sistemas de Acionamento Eletromecânicos	normal	09/01/23	09:00	100	S53		
+Sistemas de Eletrónica	normal	12/01/23	10:00	120	S6		
+Gestão da Segurança no Trabalho	normal	02/06/23	14:00	90	S57		
+Processamento de Sinal	normal	05/06/23	16:00	100	S36		
+Redes Industriais	normal	08/06/23	09:00	120	S42		
+Robótica Industrial	normal	12/06/23	10:00	90	S41		
+Álgebra Linear e Geometria Analítica	normal	02/01/23	14:00	100	S77		
+Análise Matemática I	normal	05/01/23	16:00	120	S40		
+Ciência e Engenharia de Materiais I	normal	09/01/23	09:00	90	S64		
+Desenho Técnico I	normal	12/01/23	10:00	100	S35		
+Mecânica I	normal	16/01/23	14:00	120	S79		
+Análise Matemática II	normal	02/06/23	16:00	90	S72		
+Ciência e Engenharia de Materiais II	normal	05/06/23	09:00	100	S13		
+Desenho Técnico II	normal	08/06/23	10:00	120	S66		
+Eletricidade	normal	12/06/23	14:00	90	S30		
+Mecânica II	normal	15/06/23	16:00	100	S74		
+Desenho de Máquinas	normal	02/01/23	09:00	120	S51		
+Eletrónica e Instrumentação	normal	05/01/23	10:00	90	S18		
+Gestão da Produção e dos Materiais	normal	09/01/23	14:00	100	S62		
+Resistência dos Materiais	normal	12/01/23	16:00	120	S4		
+Termodinâmica Aplicada	normal	16/01/23	09:00	90	S37		
+Gestão da Manutenção Industrial e Controlo de Qualidade	normal	02/06/23	10:00	100	S76		
+Instalações e Máquinas Elétricas	normal	05/06/23	14:00	120	S19		
+Mecânica dos Fluidos	normal	08/06/23	16:00	90	S55		
+Órgãos de Máquinas I	normal	12/06/23	09:00	100	S58		
+Transferência de Calor e Massa	normal	15/06/23	10:00	120	S68		
+Automação e Controlo	normal	02/01/23	14:00	90	S25		
+Energias Renováveis	normal	05/01/23	16:00	100	S38		
+Órgãos de Máquinas II	normal	09/01/23	09:00	120	S81		
+Tecnologia Mecânica I	normal	12/01/23	10:00	90	S27		
+Combustão e Bioenergia	normal	02/06/23	14:00	100	S65		
+Elementos de Mecânica Estrutural	normal	05/06/23	16:00	120	S52		
+Máquinas Térmicas	normal	08/06/23	09:00	90	S34		
+Tecnologia Mecânica II	normal	12/06/23	10:00	100	S1		
+Desenvolvimento de Competências Pessoais	normal	02/01/23	14:00	120	S80		
+Fundamentos de Direito	normal	05/01/23	16:00	90	S47		
+Gestão das Organizações	normal	09/01/23	09:00	100	S5		
+Introdução à Contabilidade	normal	12/01/23	10:00	120	S73		
+Matemática	normal	16/01/23	14:00	90	S24		
+Microeconomia	normal	19/01/23	16:00	100	S61		
+Cálculo Financeiro	normal	02/06/23	09:00	120	S59		
+Contabilidade Financeira I	normal	05/06/23	10:00	90	S29		
+Direito Empresarial	normal	08/06/23	14:00	100	S43		
+Estatística Aplicada à Gestão	normal	12/06/23	16:00	120	S12		
+Macroeconomia	normal	15/06/23	09:00	90	S78		
+Contabilidade de Gestão I	normal	02/01/23	10:00	100	S20		
+Contabilidade Financeira II	normal	05/01/23	14:00	120	S45		
+Direito Laboral	normal	09/01/23	16:00	90	S7		
+Fiscalidade de Empresa I	normal	12/01/23	09:00	100	S28		
+Marketing	normal	16/01/23	10:00	120	S56		
+Análise Financeira	normal	02/06/23	14:00	90	S63		
+Contabilidade das Sociedades	normal	05/06/23	16:00	100	S50		
+Contabilidade de Gestão II	normal	08/06/23	09:00	120	S11		
+Fiscalidade de Empresa II	normal	12/06/23	10:00	90	S26		
+Complementos de Fiscalidade	normal	02/01/23	14:00	100	S44		
+Controlo de Gestão	normal	05/01/23	16:00	120	S15		
+Gestão Financeira	normal	09/01/23	09:00	90	S8		
+Inglês Técnico	normal	12/01/23	10:00	100	S70		
+Sistemas de Informação Contabilísticos	normal	16/01/23	14:00	120	S23		
+Auditoria	normal	02/06/23	16:00	90	S31		
+Ética e Deontologia	normal	05/06/23	09:00	100	S39		
+Simulação Empresarial	normal	08/06/23	10:00	120	S48		
+Álgebra Linear e Geometria Analítica	normal	02/01/23	14:00	90	S46		
+Cálculo I	normal	05/01/23	16:00	100	S21		
+Ciências dos Materiais	normal	09/01/23	09:00	120	S54		
+Comunicação Empresarial	normal	12/01/23	14:00	90	S69		
+Física	normal	16/01/23	16:00	100	S16		
+Análise Estatística e Probabilidades	normal	02/06/23	09:00	120	S32		
+Cálculo II	normal	05/06/23	10:00	90	S3		
+Comportamento Organizacional	normal	08/06/23	14:00	100	S71		
+Economia	normal	12/06/23	16:00	120	S9		
+Noções de Eletricidade	normal	15/06/23	09:00	90	S2		
+Automação e Controlo	normal	02/01/23	10:00	100	S67		
+Contabilidade de Gestão	normal	05/01/23	14:00	120	S60		
+Gestão da Produção e Operações	normal	09/01/23	16:00	90	S17		
+Instalações Elétricas Industriais	normal	12/01/23	09:00	100	S14		
+Métodos de Otimização	normal	16/01/23	10:00	120	S75		
+Gestão da Manutenção	normal	02/06/23	14:00	90	S33		
+Gestão de Energia	normal	05/06/23	16:00	100	S22		
+Gestão Logística	normal	08/06/23	09:00	120	S10		
+Marketing Industrial	normal	12/06/23	10:00	90	S49		
+Processos de Fabrico	normal	15/06/23	14:00	100	S53		
+Controlo de Gestão	normal	02/01/23	16:00	120	S6		
+Design de Produto	normal	05/01/23	09:00	90	S57		
+Gestão de Recursos Humanos	normal	09/01/23	10:00	100	S36		
+Legislação Industrial e Normalização	normal	12/01/23	14:00	120	S42		
+Análise de Investimentos	normal	02/06/23	16:00	90	S41		
+Estratégia Empresarial	normal	05/06/23	09:00	100	S77		
+Gestão da Qualidade	normal	08/06/23	10:00	120	S40		
+Inovação e Empreendedorismo	normal	12/06/23	14:00	90	S64		
+Álgebra Linear e Geometria Analítica	normal	02/01/23	16:00	100	S35		
+Análise Matemática I	normal	05/01/23	09:00	120	S79		
+Desenho Técnico	normal	09/01/23	10:00	90	S72		
+Física Aplicada à Engenharia Civil	normal	12/01/23	14:00	100	S13		
+Introdução à Engenharia Civil	normal	16/01/23	16:00	120	S66		
+Programação	normal	19/01/23	09:00	90	S30		
+Análise Matemática II	normal	02/06/23	10:00	100	S74		
+Desenho Assistido por Computador	normal	05/06/23	14:00	120	S51		
+Geologia da Engenharia	normal	08/06/23	16:00	90	S18		
+Materiais de Construção	normal	12/06/23	09:00	100	S62		
+Mecânica Aplicada	normal	15/06/23	10:00	120	S4		
+Probabilidades e Estatística	normal	19/06/23	14:00	90	S37		
+Hidráulica I	normal	02/01/23	16:00	100	S76		
+Metodologia BIM	normal	05/01/23	09:00	120	S19		
+Métodos Numéricos e Investigação Operacional	normal	09/01/23	10:00	90	S55		
+Planeamento Territorial e Gestão Urbanística	normal	12/01/23	14:00	100	S58		
+Qualidade e Sustentabilidade na Construção	normal	16/01/23	16:00	120	S68		
+Resistência de Materiais I	normal	19/01/23	09:00	90	S25		
+Estruturas	normal	02/06/23	10:00	100	S38		
+Hidráulica II	normal	05/06/23	14:00	120	S81		
+Mecânica dos Solos I	normal	08/06/23	16:00	90	S27		
+Resistência de Materiais II	normal	12/06/23	09:00	100	S65		
+Tecnologia das Construções	normal	15/06/23	10:00	120	S52		
+Topografia e Sistemas de Informação Geográfica	normal	19/06/23	14:00	90	S34		
+Betão Estrutural I	normal	02/01/23	16:00	100	S1		
+Física das Construções	normal	05/01/23	09:00	120	S80		
+Hidráulica Aplicada	normal	09/01/23	10:00	90	S47		
+Mecânica dos Solos II	normal	12/01/23	14:00	100	S5		
+Planeamento e Gestão de Projetos e Obras	normal	16/01/23	16:00	120	S73		
+Vias de Comunicação I	normal	19/01/23	09:00	90	S24		
+Betão Estrutural II	normal	02/06/23	10:00	100	S61		
+Gestão, Coordenação e Fiscalização de Empreendimentos	normal	05/06/23	14:00	120	S59		
+Vias de Comunicação II	normal	08/06/23	16:00	90	S29		
+Ciência dos Materiais I	normal	02/01/23	09:00	100	S43		
+Desenho Técnico	normal	05/01/23	10:00	120	S12		
+Métodos Matemáticos	normal	09/01/23	14:00	90	S78		
+Tecnologias de Informação	normal	12/01/23	16:00	100	S20		
+Teoria do Design	normal	16/01/23	09:00	120	S45		
+Ciência dos Materiais II	normal	02/06/23	10:00	90	S7		
+Desenho I	normal	05/06/23	14:00	100	S28		
+História do Mobiliário	normal	08/06/23	16:00	120	S56		
+Mecânica dos Materiais	normal	12/06/23	09:00	90	S63		
+Tecnologia dos Materiais Lenhocelulósicos	normal	15/06/23	10:00	100	S50		
+Desenho II	normal	02/01/23	14:00	120	S11		
+Equipamentos, Operações e Processos I	normal	05/01/23	16:00	90	S26		
+Laboratórios de Tecnologia do Mobiliário I	normal	09/01/23	09:00	100	S44		
+Metodologias de Design	normal	12/01/23	10:00	120	S15		
+Tecnologia dos Materiais Compósitos	normal	16/01/23	14:00	90	S8		
+Design de Produto	normal	02/06/23	16:00	100	S70		
+Equipamentos, Operações e Processos II	normal	05/06/23	09:00	120	S23		
+Estruturas e Componentes	normal	08/06/23	10:00	90	S31		
+Laboratórios de Tecnologia do Mobiliário II	normal	12/06/23	14:00	100	S39		
+Engenharia de Produto	normal	02/01/23	16:00	120	S48		
+Marketing	normal	05/01/23	09:00	90	S46		
+Materiais Auxiliares	normal	09/01/23	10:00	100	S21		
+Tecnologia dos Acabamentos	normal	12/01/23	14:00	120	S54		
+Ecodesign	normal	02/06/23	16:00	90	S69		
+Inovação, Empreendedorismo e Projetos	normal	05/06/23	09:00	100	S16		
+Logística e Operações	normal	08/06/23	10:00	120	S32		
+Espanhol I	normal	02/01/23	14:00	90	S3		
+Inglês I	normal	05/01/23	16:00	100	S71		
+Introdução à Empresa	normal	09/01/23	09:00	120	S9		
+Língua e Cultura Portuguesa	normal	12/01/23	10:00	90	S2		
+Métodos Quantitativos Aplicados ao Turismo	normal	16/01/23	14:00	100	S67		
+Princípios Gerais de Turismo	normal	19/01/23	16:00	120	S60		
+Direito do Turismo	normal	02/06/23	09:00	90	S17		
+Economia do Turismo	normal	05/06/23	10:00	100	S14		
+Espanhol II	normal	08/06/23	14:00	120	S75		
+Gestão Contabilística e Financeira	normal	12/06/23	16:00	90	S33		
+História da Arte e da Cultura	normal	15/06/23	09:00	100	S22		
+Inglês II	normal	19/06/23	10:00	120	S10		
+Francês I	normal	02/01/23	14:00	90	S49		
+Inglês III	normal	05/01/23	16:00	100	S53		
+Introdução ao Marketing	normal	09/01/23	09:00	120	S6		
+Operações Turísticas	normal	12/01/23	10:00	90	S57		
+Sociologia do Turismo	normal	16/01/23	14:00	100	S36		
+Turismo e Património	normal	19/01/23	16:00	120	S42		
+Aplicações Informáticas em Turismo	normal	02/06/23	09:00	90	S41		
+Francês II	normal	05/06/23	10:00	100	S77		
+Geografia e Itinerários Turísticos	normal	08/06/23	14:00	120	S40		
+Inglês IV	normal	12/06/23	16:00	90	S64		
+Marketing Turístico	normal	15/06/23	09:00	100	S35		
+Produtos Turísticos	normal	19/06/23	10:00	120	S79		
+Animação Turística	normal	02/01/23	14:00	90	S72		
+Francês III	normal	05/01/23	16:00	100	S13		
+Gestão de Recursos Humanos	normal	09/01/23	09:00	120	S66		
+Inglês V	normal	12/01/23	10:00	90	S30		
+Organização e Gestão de Eventos	normal	16/01/23	14:00	100	S74		
+Gestão Hoteleira e Restauração	normal	02/06/23	16:00	120	S51		
+Planeamento e Ordenamento em Turismo	normal	05/06/23	09:00	90	S18		
+Turismo de Saúde e Bem-Estar	normal	08/06/23	10:00	100	S62		
+Economia e Sociedade	normal	02/01/23	14:00	120	S4		
+Inglês de Negócios I	normal	05/01/23	16:00	90	S37		
+Introdução à Empresa	normal	09/01/23	09:00	100	S76		
+Introdução ao Marketing	normal	12/01/23	10:00	120	S19		
+Matemática Aplicada ao Marketing	normal	16/01/23	14:00	90	S55		
+Sistemas de Informação para Gestão	normal	19/01/23	16:00	100	S58		
+Comportamento do Consumidor	normal	02/06/23	09:00	120	S68		
+Direito Aplicado ao Marketing	normal	05/06/23	10:00	90	S25		
+Estatística Aplicada ao Marketing	normal	08/06/23	14:00	100	S38		
+Força de Vendas e Negociação Comercial	normal	12/06/23	16:00	120	S81		
+Inglês de Negócios II	normal	15/06/23	09:00	90	S27		
+Noções Básicas de Contabilidade	normal	19/06/23	10:00	100	S65		
+Advances in Marketing	normal	02/01/23	14:00	120	S52		
+Comunicação	normal	05/01/23	16:00	90	S34		
+Criatividade e Inovação	normal	09/01/23	09:00	100	S1		
+Desenho e Modelação	normal	12/01/23	10:00	120	S80		
+Marketing de Serviços	normal	16/01/23	14:00	90	S47		
+Produção Multimédia I	normal	19/01/23	16:00	100	S5		
+Branding	normal	02/06/23	09:00	120	S73		
+Distribuição e Merchandising	normal	05/06/23	10:00	90	S24		
+Gestão da Produção e Materiais	normal	08/06/23	14:00	100	S61		
+Gestão Logística e Operacional	normal	12/06/23	16:00	120	S59		
+Produção Multimédia II	normal	15/06/23	09:00	90	S29		
+Publicidade	normal	19/06/23	10:00	100	S43		
+Empreendedorismo	normal	02/01/23	14:00	120	S12		
+Estudos de Mercado	normal	05/01/23	16:00	90	S78		
+Marketing Digital	normal	09/01/23	09:00	100	S20		
+Marketing Sensorial	normal	12/01/23	10:00	120	S45		
+Negócios Internacionais	normal	16/01/23	14:00	90	S7		
+Decisões de Investimento e Financiamento	normal	02/06/23	16:00	100	S28		
+Recursos Humanos	normal	05/06/23	09:00	120	S56		
+Contabilidade Financeira I	normal	02/01/23	10:00	90	S63		
+Introdução à Gestão	normal	05/01/23	14:00	100	S50		
+Matemática I	normal	09/01/23	16:00	120	S11		
+Microeconomia	normal	12/01/23	09:00	90	S26		
+Noções Fundamentais de Direito	normal	16/01/23	10:00	100	S44		
+Tecnologias de Informação e Gestão	normal	19/01/23	14:00	120	S15		
+Contabilidade Financeira II	normal	02/06/23	16:00	90	S8		
+Direito de Empresa	normal	05/06/23	09:00	100	S70		
+Economia de Empresa	normal	08/06/23	10:00	120	S23		
+Empreendedorismo	normal	12/06/23	14:00	90	S31		
+Macroeconomia	normal	15/06/23	16:00	100	S39		
+Matemática II	normal	19/06/23	09:00	120	S48		
+Cálculo Financeiro	normal	02/01/23	10:00	90	S46		
+Contabilidade de Gestão I	normal	05/01/23	14:00	100	S21		
+Estatística	normal	09/01/23	16:00	120	S54		
+Estratégia Empresarial	normal	12/01/23	09:00	90	S69		
+Marketing	normal	16/01/23	10:00	100	S16		
+Gestão das Operações	normal	19/01/23	14:00	120	S32		
+Complementos de Contabilidade Financeira	normal	23/01/23	16:00	90	S3		
+Análise Financeira	normal	02/06/23	09:00	100	S71		
+Contabilidade de Gestão II	normal	05/06/23	10:00	120	S9		
+Gestão de Recursos Humanos	normal	08/06/23	14:00	90	S2		
+Comportamento do Consumidor	normal	12/06/23	16:00	100	S67		
+Fiscalidade I (Ramo Organização e Gestão)	normal	15/06/23	09:00	120	S60		
+Investigação Operacional	normal	19/06/23	10:00	90	S17		
+Contabilidade Pública	normal	22/06/23	14:00	100	S14		
+Fiscalidade I (Ramo Contabilidade e Fiscalidade)	normal	26/06/23	16:00	120	S75		
+Relato Financeiro	normal	29/06/23	09:00	90	S33		
+Direito do Trabalho	normal	02/01/23	10:00	100	S22		
+Gestão Financeira	normal	05/01/23	14:00	120	S10		
+Sistemas de Controlo de Gestão	normal	09/01/23	16:00	90	S49		
+e-Business	normal	12/01/23	09:00	100	S53		
+Estudos de Mercado	normal	16/01/23	10:00	120	S6		
+Negócios Internacionais	normal	19/01/23	14:00	90	S57		
+Ética e Deontologia	normal	23/01/23	16:00	100	S36		
+Fiscalidade II	normal	26/01/23	09:00	120	S42		
+Sistemas de Informação Contabilísticos	normal	30/01/23	10:00	90	S41		
+Liderança	normal	02/06/23	14:00	100	S77		
+Pensamentos Contemporâneos da Gestão	normal	05/06/23	16:00	120	S40		
+Auditoria Financeira	normal	08/06/23	09:00	90	S64		
+Complementos de Fiscalidade	normal	12/06/23	10:00	100	S35		
+Álgebra Linear e Geometria Analítica	normal	02/01/23	14:00	120	S79		
+Análise Matemática I	normal	05/01/23	16:00	90	S72		
+Dinâmica dos Sistemas Terrestres	normal	09/01/23	09:00	100	S13		
+Ecologia e Conservação da Natureza	normal	12/01/23	10:00	120	S66		
+Introdução à Engenharia e ao Ambiente	normal	16/01/23	14:00	90	S30		
+Química Geral	normal	19/01/23	16:00	100	S74		
+Análise Matemática II	normal	02/06/23	09:00	120	S51		
+Aplicações para Engenharia do Ambiente	normal	05/06/23	10:00	90	S18		
+Física Geral	normal	08/06/23	14:00	100	S62		
+Microbiologia	normal	12/06/23	16:00	120	S4		
+Química Orgânica	normal	15/06/23	09:00	90	S37		
+Tratamento Estatístico de Dados	normal	19/06/23	10:00	100	S76		
+Fenómenos de Transferência	normal	02/01/23	14:00	120	S19		
+Mecânica dos Fluidos	normal	05/01/23	16:00	90	S55		
+Métodos de Análise Química	normal	09/01/23	09:00	100	S58		
+Métodos Numéricos	normal	12/01/23	10:00	120	S68		
+Operações Unitárias e Reatores	normal	16/01/23	14:00	90	S25		
+Termodinâmica	normal	19/01/23	16:00	100	S38		
+Cartografia e Sistemas de Informação Geográfica	normal	02/06/23	09:00	120	S81		
+Combustão e Controlo de Emissões Gasosas	normal	05/06/23	10:00	90	S27		
+Hidrologia e Recursos Hídricos	normal	08/06/23	14:00	100	S65		
+Laboratórios de Aplicação	normal	12/06/23	16:00	120	S52		
+Poluição e Qualidade da Água	normal	15/06/23	09:00	90	S34		
+Acústica e Poluição Sonora	normal	02/01/23	10:00	100	S1		
+Gestão e Tratamento de Resíduos	normal	05/01/23	14:00	120	S80		
+Laboratórios de Engenharia do Ambiente	normal	09/01/23	16:00	90	S47		
+Poluição e Reabilitação dos Solos	normal	12/01/23	09:00	100	S5		
+Tratamento de Água	normal	16/01/23	10:00	120	S73		
+Energia Sustentável	normal	02/06/23	14:00	90	S24		
+Instrumentos de Apoio à Decisão	normal	05/06/23	16:00	100	S61		
+Poluição e Qualidade do Ar	normal	08/06/23	16:00	120	S59		
+Algoritmos e Programação	recurso	09/02/23	09:00	90	S27		
+Álgebra	recurso	13/02/23	10:00	100	S65		
+Análise Matemática	recurso	16/02/23	14:00	120	S52		
+Sistemas Digitais	recurso	20/02/23	16:00	90	S34		
+Tecnologia dos Computadores	recurso	23/02/23	09:00	100	S1		
+Estrutura de Dados	recurso	10/07/23	10:00	120	S80		
+Matemática Discreta	recurso	13/07/23	14:00	90	S47		
+Redes de Comunicação I	recurso	17/07/23	16:00	100	S5		
+Arquitetura de Computador	recurso	20/07/23	09:00	120	S73		
+Matemática Aplicada	recurso	24/07/23	10:00	90	S24		
+Usabilidade	recurso	09/02/23	14:00	100	S61		
+Sistemas Operativos	recurso	13/02/23	16:00	120	S59		
+Aplicações para a Internet I	recurso	16/02/23	09:00	90	S29		
+Programação Orientada aos Objetos	recurso	20/02/23	10:00	100	S43		
+Análise de Sistemas	recurso	23/02/23	14:00	120	S12		
+Programação para Dispositivos Móveis	recurso	10/07/23	16:00	90	S78		
+Redes de Comunicação II	recurso	13/07/23	09:00	100	S20		
+Engenharia de Software I	recurso	17/07/23	10:00	120	S45		
+Aplicações para a Internet II	recurso	20/07/23	14:00	90	S7		
+Bases de Dados I	recurso	24/07/23	16:00	100	S28		
+Bases de Dados II	recurso	09/02/23	09:00	120	S56		
+Complementos de Sistemas Operativos	recurso	13/02/23	10:00	90	S63		
+Sistemas Embebidos	recurso	16/02/23	14:00	100	S50		
+Sistemas Distribuídos	recurso	20/02/23	16:00	120	S11		
+Redes de Comunicação III	recurso	23/02/23	09:00	90	S26		
+Inteligência Artificial	recurso	10/07/23	14:00	120	S15		
+Engenharia de Software II	recurso	13/07/23	16:00	90	S8		
+Empreendorismo e Gestão de Empresas	recurso	17/07/23	09:00	100	S70		
+Álgebra Linear e Geometria Analítica	recurso	09/02/23	10:00	120	S23		
+Análise Matemática I	recurso	13/02/23	14:00	90	S31		
+Desenho Eletrotécnico	recurso	16/02/23	16:00	100	S39		
+Física Geral	recurso	20/02/23	09:00	120	S48		
+Programação de Computadores	recurso	23/02/23	10:00	90	S46		
+Análise Matemática II	recurso	10/07/23	14:00	100	S21		
+Eletrotecnia e Circuitos	recurso	13/07/23	16:00	120	S54		
+Instalações Elétricas I	recurso	17/07/23	09:00	90	S69		
+Métodos Numéricos	recurso	20/07/23	10:00	100	S16		
+Probabilidades e Estatística	recurso	24/07/23	14:00	120	S32		
+Eletromagnetismo	recurso	09/02/23	09:00	100	S71		
+Eletrónica	recurso	13/02/23	10:00	120	S9		
+Instalações Elétricas II	recurso	16/02/23	14:00	90	S2		
+Sistemas Digitais	recurso	20/02/23	16:00	100	S67		
+Sistemas e Controlo	recurso	23/02/23	09:00	120	S60		
+Eletrónica de Potência	recurso	10/07/23	10:00	90	S17		
+Gestão e Qualidade da Energia Elétrica	recurso	13/07/23	14:00	100	S14		
+Instrumentação Industrial	recurso	17/07/23	16:00	120	S75		
+Máquinas Elétricas	recurso	20/07/23	09:00	90	S33		
+Microssistemas	recurso	24/07/23	10:00	100	S22		
+Automação Industrial	recurso	09/02/23	14:00	120	S10		
+Gestão Industrial	recurso	13/02/23	16:00	90	S49		
+Sistemas de Acionamento Eletromecânicos	recurso	16/02/23	09:00	100	S53		
+Sistemas de Eletrónica	recurso	20/02/23	10:00	120	S6		
+Gestão da Segurança no Trabalho	recurso	10/07/23	14:00	90	S57		
+Processamento de Sinal	recurso	13/07/23	16:00	100	S36		
+Redes Industriais	recurso	17/07/23	09:00	120	S42		
+Robótica Industrial	recurso	20/07/23	10:00	90	S41		
+Álgebra Linear e Geometria Analítica	recurso	09/02/23	14:00	100	S77		
+Análise Matemática I	recurso	13/02/23	16:00	120	S40		
+Ciência e Engenharia de Materiais I	recurso	16/02/23	09:00	90	S64		
+Desenho Técnico I	recurso	20/02/23	10:00	100	S35		
+Mecânica I	recurso	23/02/23	14:00	120	S79		
+Análise Matemática II	recurso	10/07/23	16:00	90	S72		
+Ciência e Engenharia de Materiais II	recurso	13/07/23	09:00	100	S13		
+Desenho Técnico II	recurso	17/07/23	10:00	120	S66		
+Eletricidade	recurso	20/07/23	14:00	90	S30		
+Mecânica II	recurso	24/07/23	16:00	100	S74		
+Desenho de Máquinas	recurso	09/02/23	09:00	120	S51		
+Eletrónica e Instrumentação	recurso	13/02/23	10:00	90	S18		
+Gestão da Produção e dos Materiais	recurso	16/02/23	14:00	100	S62		
+Resistência dos Materiais	recurso	20/02/23	16:00	120	S4		
+Termodinâmica Aplicada	recurso	23/02/23	09:00	90	S37		
+Gestão da Manutenção Industrial e Controlo de Qualidade	recurso	10/07/23	10:00	100	S76		
+Instalações e Máquinas Elétricas	recurso	13/07/23	14:00	120	S19		
+Mecânica dos Fluidos	recurso	17/07/23	16:00	90	S55		
+Órgãos de Máquinas I	recurso	20/07/23	09:00	100	S58		
+Transferência de Calor e Massa	recurso	24/07/23	10:00	120	S68		
+Automação e Controlo	recurso	09/02/23	14:00	90	S25		
+Energias Renováveis	recurso	13/02/23	16:00	100	S38		
+Órgãos de Máquinas II	recurso	16/02/23	09:00	120	S81		
+Tecnologia Mecânica I	recurso	20/02/23	10:00	90	S27		
+Combustão e Bioenergia	recurso	10/07/23	14:00	100	S65		
+Elementos de Mecânica Estrutural	recurso	13/07/23	16:00	120	S52		
+Máquinas Térmicas	recurso	17/07/23	09:00	90	S34		
+Tecnologia Mecânica II	recurso	20/07/23	10:00	100	S1		
+Desenvolvimento de Competências Pessoais	recurso	09/02/23	14:00	120	S80		
+Fundamentos de Direito	recurso	13/02/23	16:00	90	S47		
+Gestão das Organizações	recurso	16/02/23	09:00	100	S5		
+Introdução à Contabilidade	recurso	20/02/23	10:00	120	S73		
+Matemática	recurso	23/02/23	14:00	90	S24		
+Cálculo Financeiro	recurso	10/07/23	09:00	120	S59		
+Contabilidade Financeira I	recurso	13/07/23	10:00	90	S29		
+Direito Empresarial	recurso	17/07/23	14:00	100	S43		
+Estatística Aplicada à Gestão	recurso	20/07/23	16:00	120	S12		
+Macroeconomia	recurso	24/07/23	09:00	90	S78		
+Contabilidade de Gestão I	recurso	09/02/23	10:00	100	S20		
+Contabilidade Financeira II	recurso	13/02/23	14:00	120	S45		
+Direito Laboral	recurso	16/02/23	16:00	90	S7		
+Fiscalidade de Empresa I	recurso	20/02/23	09:00	100	S28		
+Marketing	recurso	23/02/23	10:00	120	S56		
+Análise Financeira	recurso	10/07/23	14:00	90	S63		
+Contabilidade das Sociedades	recurso	13/07/23	16:00	100	S50		
+Contabilidade de Gestão II	recurso	17/07/23	09:00	120	S11		
+Fiscalidade de Empresa II	recurso	20/07/23	10:00	90	S26		
+Complementos de Fiscalidade	recurso	09/02/23	14:00	100	S44		
+Controlo de Gestão	recurso	13/02/23	16:00	120	S15		
+Gestão Financeira	recurso	16/02/23	09:00	90	S8		
+Inglês Técnico	recurso	20/02/23	10:00	100	S70		
+Sistemas de Informação Contabilísticos	recurso	23/02/23	14:00	120	S23		
+Auditoria	recurso	10/07/23	16:00	90	S31		
+Ética e Deontologia	recurso	13/07/23	09:00	100	S39		
+Simulação Empresarial	recurso	17/07/23	10:00	120	S48		
+Álgebra Linear e Geometria Analítica	recurso	09/02/23	14:00	90	S46		
+Cálculo I	recurso	13/02/23	16:00	100	S21		
+Ciências dos Materiais	recurso	16/02/23	09:00	120	S54		
+Comunicação Empresarial	recurso	20/02/23	14:00	90	S69		
+Física	recurso	23/02/23	16:00	100	S16		
+Análise Estatística e Probabilidades	recurso	10/07/23	09:00	120	S32		
+Cálculo II	recurso	13/07/23	10:00	90	S3		
+Comportamento Organizacional	recurso	17/07/23	14:00	100	S71		
+Economia	recurso	20/07/23	16:00	120	S9		
+Noções de Eletricidade	recurso	24/07/23	09:00	90	S2		
+Automação e Controlo	recurso	09/02/23	10:00	100	S67		
+Contabilidade de Gestão	recurso	13/02/23	14:00	120	S60		
+Gestão da Produção e Operações	recurso	16/02/23	16:00	90	S17		
+Instalações Elétricas Industriais	recurso	20/02/23	09:00	100	S14		
+Métodos de Otimização	recurso	23/02/23	10:00	120	S75		
+Gestão da Manutenção	recurso	10/07/23	14:00	90	S33		
+Gestão de Energia	recurso	13/07/23	16:00	100	S22		
+Gestão Logística	recurso	17/07/23	09:00	120	S10		
+Marketing Industrial	recurso	20/07/23	10:00	90	S49		
+Processos de Fabrico	recurso	24/07/23	14:00	100	S53		
+Controlo de Gestão	recurso	09/02/23	16:00	120	S6		
+Design de Produto	recurso	13/02/23	09:00	90	S57		
+Gestão de Recursos Humanos	recurso	16/02/23	10:00	100	S36		
+Legislação Industrial e Normalização	recurso	20/02/23	14:00	120	S42		
+Análise de Investimentos	recurso	10/07/23	16:00	90	S41		
+Estratégia Empresarial	recurso	13/07/23	09:00	100	S77		
+Gestão da Qualidade	recurso	17/07/23	10:00	120	S40		
+Inovação e Empreendedorismo	recurso	20/07/23	14:00	90	S64		
+Álgebra Linear e Geometria Analítica	recurso	09/02/23	16:00	100	S35		
+Análise Matemática I	recurso	13/02/23	09:00	120	S79		
+Desenho Técnico	recurso	16/02/23	10:00	90	S72		
+Física Aplicada à Engenharia Civil	recurso	20/02/23	14:00	100	S13		
+Introdução à Engenharia Civil	recurso	23/02/23	16:00	120	S66		
+Análise Matemática II	recurso	10/07/23	10:00	100	S74		
+Desenho Assistido por Computador	recurso	13/07/23	14:00	120	S51		
+Geologia da Engenharia	recurso	17/07/23	16:00	90	S18		
+Materiais de Construção	recurso	20/07/23	09:00	100	S62		
+Mecânica Aplicada	recurso	24/07/23	10:00	120	S4		
+Hidráulica I	recurso	09/02/23	16:00	100	S76		
+Metodologia BIM	recurso	13/02/23	09:00	120	S19		
+Métodos Numéricos e Investigação Operacional	recurso	16/02/23	10:00	90	S55		
+Planeamento Territorial e Gestão Urbanística	recurso	20/02/23	14:00	100	S58		
+Qualidade e Sustentabilidade na Construção	recurso	23/02/23	16:00	120	S68		
+Estruturas	recurso	10/07/23	10:00	100	S38		
+Hidráulica II	recurso	13/07/23	14:00	120	S81		
+Mecânica dos Solos I	recurso	17/07/23	16:00	90	S27		
+Resistência de Materiais II	recurso	20/07/23	09:00	100	S65		
+Tecnologia das Construções	recurso	24/07/23	10:00	120	S52		
+Betão Estrutural I	recurso	09/02/23	16:00	100	S1		
+Física das Construções	recurso	13/02/23	09:00	120	S80		
+Hidráulica Aplicada	recurso	16/02/23	10:00	90	S47		
+Mecânica dos Solos II	recurso	20/02/23	14:00	100	S5		
+Planeamento e Gestão de Projetos e Obras	recurso	23/02/23	16:00	120	S73		
+Betão Estrutural II	recurso	10/07/23	10:00	100	S61		
+Gestão, Coordenação e Fiscalização de Empreendimentos	recurso	13/07/23	14:00	120	S59		
+Vias de Comunicação II	recurso	17/07/23	16:00	90	S29		
+Ciência dos Materiais I	recurso	09/02/23	09:00	100	S43		
+Desenho Técnico	recurso	13/02/23	10:00	120	S12		
+Métodos Matemáticos	recurso	16/02/23	14:00	90	S78		
+Tecnologias de Informação	recurso	20/02/23	16:00	100	S20		
+Teoria do Design	recurso	23/02/23	09:00	120	S45		
+Ciência dos Materiais II	recurso	10/07/23	10:00	90	S7		
+Desenho I	recurso	13/07/23	14:00	100	S28		
+História do Mobiliário	recurso	17/07/23	16:00	120	S56		
+Mecânica dos Materiais	recurso	20/07/23	09:00	90	S63		
+Tecnologia dos Materiais Lenhocelulósicos	recurso	24/07/23	10:00	100	S50		
+Desenho II	recurso	09/02/23	14:00	120	S11		
+Equipamentos, Operações e Processos I	recurso	13/02/23	16:00	90	S26		
+Laboratórios de Tecnologia do Mobiliário I	recurso	16/02/23	09:00	100	S44		
+Metodologias de Design	recurso	20/02/23	10:00	120	S15		
+Tecnologia dos Materiais Compósitos	recurso	23/02/23	14:00	90	S8		
+Design de Produto	recurso	10/07/23	16:00	100	S70		
+Equipamentos, Operações e Processos II	recurso	13/07/23	09:00	120	S23		
+Estruturas e Componentes	recurso	17/07/23	10:00	90	S31		
+Laboratórios de Tecnologia do Mobiliário II	recurso	20/07/23	14:00	100	S39		
+Engenharia de Produto	recurso	09/02/23	16:00	120	S48		
+Marketing	recurso	13/02/23	09:00	90	S46		
+Materiais Auxiliares	recurso	16/02/23	10:00	100	S21		
+Tecnologia dos Acabamentos	recurso	20/02/23	14:00	120	S54		
+Ecodesign	recurso	10/07/23	16:00	90	S69		
+Inovação, Empreendedorismo e Projetos	recurso	13/07/23	09:00	100	S16		
+Logística e Operações	recurso	17/07/23	10:00	120	S32		
+Espanhol I	recurso	09/02/23	14:00	90	S3		
+Inglês I	recurso	13/02/23	16:00	100	S71		
+Introdução à Empresa	recurso	16/02/23	09:00	120	S9		
+Língua e Cultura Portuguesa	recurso	20/02/23	10:00	90	S2		
+Métodos Quantitativos Aplicados ao Turismo	recurso	23/02/23	14:00	100	S67		
+Direito do Turismo	recurso	10/07/23	09:00	90	S17		
+Economia do Turismo	recurso	13/07/23	10:00	100	S14		
+Espanhol II	recurso	17/07/23	14:00	120	S75		
+Gestão Contabilística e Financeira	recurso	20/07/23	16:00	90	S33		
+História da Arte e da Cultura	recurso	24/07/23	09:00	100	S22		
+Francês I	recurso	09/02/23	14:00	90	S49		
+Inglês III	recurso	13/02/23	16:00	100	S53		
+Introdução ao Marketing	recurso	16/02/23	09:00	120	S6		
+Operações Turísticas	recurso	20/02/23	10:00	90	S57		
+Sociologia do Turismo	recurso	23/02/23	14:00	100	S36		
+Aplicações Informáticas em Turismo	recurso	10/07/23	09:00	90	S41		
+Francês II	recurso	13/07/23	10:00	100	S77		
+Geografia e Itinerários Turísticos	recurso	17/07/23	14:00	120	S40		
+Inglês IV	recurso	20/07/23	16:00	90	S64		
+Marketing Turístico	recurso	24/07/23	09:00	100	S35		
+Animação Turística	recurso	09/02/23	14:00	90	S72		
+Francês III	recurso	13/02/23	16:00	100	S13		
+Gestão de Recursos Humanos	recurso	16/02/23	09:00	120	S66		
+Inglês V	recurso	20/02/23	10:00	90	S30		
+Organização e Gestão de Eventos	recurso	23/02/23	14:00	100	S74		
+Gestão Hoteleira e Restauração	recurso	10/07/23	16:00	120	S51		
+Planeamento e Ordenamento em Turismo	recurso	13/07/23	09:00	90	S18		
+Turismo de Saúde e Bem-Estar	recurso	17/07/23	10:00	100	S62		
+Economia e Sociedade	recurso	09/02/23	14:00	120	S4		
+Inglês de Negócios I	recurso	13/02/23	16:00	90	S37		
+Introdução à Empresa	recurso	16/02/23	09:00	100	S76		
+Introdução ao Marketing	recurso	20/02/23	10:00	120	S19		
+Matemática Aplicada ao Marketing	recurso	23/02/23	14:00	90	S55		
+Comportamento do Consumidor	recurso	10/07/23	09:00	120	S68		
+Direito Aplicado ao Marketing	recurso	13/07/23	10:00	90	S25		
+Estatística Aplicada ao Marketing	recurso	17/07/23	14:00	100	S38		
+Força de Vendas e Negociação Comercial	recurso	20/07/23	16:00	120	S81		
+Inglês de Negócios II	recurso	24/07/23	09:00	90	S27		
+Advances in Marketing	recurso	09/02/23	14:00	120	S52		
+Comunicação	recurso	13/02/23	16:00	90	S34		
+Criatividade e Inovação	recurso	16/02/23	09:00	100	S1		
+Desenho e Modelação	recurso	20/02/23	10:00	120	S80		
+Marketing de Serviços	recurso	23/02/23	14:00	90	S47		
+Branding	recurso	10/07/23	09:00	120	S73		
+Distribuição e Merchandising	recurso	13/07/23	10:00	90	S24		
+Gestão da Produção e Materiais	recurso	17/07/23	14:00	100	S61		
+Gestão Logística e Operacional	recurso	20/07/23	16:00	120	S59		
+Produção Multimédia II	recurso	24/07/23	09:00	90	S29		
+Empreendedorismo	recurso	09/02/23	14:00	120	S12		
+Estudos de Mercado	recurso	13/02/23	16:00	90	S78		
+Marketing Digital	recurso	16/02/23	09:00	100	S20		
+Marketing Sensorial	recurso	20/02/23	10:00	120	S45		
+Negócios Internacionais	recurso	23/02/23	14:00	90	S7		
+Decisões de Investimento e Financiamento	recurso	10/07/23	16:00	100	S28		
+Recursos Humanos	recurso	13/07/23	09:00	120	S56		
+Contabilidade Financeira I	recurso	09/02/23	10:00	90	S63		
+Introdução à Gestão	recurso	13/02/23	14:00	100	S50		
+Matemática I	recurso	16/02/23	16:00	120	S11		
+Microeconomia	recurso	20/02/23	09:00	90	S26		
+Noções Fundamentais de Direito	recurso	23/02/23	10:00	100	S44		
+Contabilidade Financeira II	recurso	10/07/23	16:00	90	S8		
+Direito de Empresa	recurso	13/07/23	09:00	100	S70		
+Economia de Empresa	recurso	17/07/23	10:00	120	S23		
+Empreendedorismo	recurso	20/07/23	14:00	90	S31		
+Macroeconomia	recurso	24/07/23	16:00	100	S39		
+Cálculo Financeiro	recurso	09/02/23	10:00	90	S46		
+Contabilidade de Gestão I	recurso	13/02/23	14:00	100	S21		
+Estatística	recurso	16/02/23	16:00	120	S54		
+Estratégia Empresarial	recurso	20/02/23	09:00	90	S69		
+Marketing	recurso	23/02/23	10:00	100	S16		
+Análise Financeira	recurso	10/07/23	09:00	100	S71		
+Contabilidade de Gestão II	recurso	13/07/23	10:00	120	S9		
+Gestão de Recursos Humanos	recurso	17/07/23	14:00	90	S2		
+Comportamento do Consumidor	recurso	20/07/23	16:00	100	S67		
+Fiscalidade I (Ramo Organização e Gestão)	recurso	24/07/23	09:00	120	S60		
+Direito do Trabalho	recurso	09/02/23	10:00	100	S22		
+Gestão Financeira	recurso	13/02/23	14:00	120	S10		
+Sistemas de Controlo de Gestão	recurso	16/02/23	16:00	90	S49		
+e-Business	recurso	20/02/23	09:00	100	S53		
+Estudos de Mercado	recurso	23/02/23	10:00	120	S6		
+Liderança	recurso	10/07/23	14:00	100	S77		
+Pensamentos Contemporâneos da Gestão	recurso	13/07/23	16:00	120	S40		
+Auditoria Financeira	recurso	17/07/23	09:00	90	S64		
+Complementos de Fiscalidade	recurso	20/07/23	10:00	100	S35		
+Álgebra Linear e Geometria Analítica	recurso	10/07/23	14:00	120	S79		
+Análise Matemática I	recurso	13/07/23	16:00	90	S72		
+Dinâmica dos Sistemas Terrestres	recurso	17/07/23	09:00	100	S13		
+Ecologia e Conservação da Natureza	recurso	20/07/23	10:00	120	S66		
+Introdução à Engenharia e ao Ambiente	recurso	24/07/23	14:00	90	S30		
+Análise Matemática II	recurso	10/07/23	09:00	120	S51		
+Aplicações para Engenharia do Ambiente	recurso	13/07/23	10:00	90	S18		
+Física Geral	recurso	17/07/23	14:00	100	S62		
+Microbiologia	recurso	20/07/23	16:00	120	S4		
+Química Orgânica	recurso	24/07/23	09:00	90	S37		
+Fenómenos de Transferência	recurso	09/02/23	14:00	120	S19		
+Mecânica dos Fluidos	recurso	13/02/23	16:00	90	S55		
+Métodos de Análise Química	recurso	16/02/23	09:00	100	S58		
+Métodos Numéricos	recurso	20/02/23	10:00	120	S68		
+Operações Unitárias e Reatores	recurso	23/02/23	14:00	90	S25		
+Cartografia e Sistemas de Informação Geográfica	recurso	10/07/23	09:00	120	S81		
+Combustão e Controlo de Emissões Gasosas	recurso	13/07/23	10:00	90	S27		
+Hidrologia e Recursos Hídricos	recurso	17/07/23	14:00	100	S65		
+Laboratórios de Aplicação	recurso	20/07/23	16:00	120	S52		
+Poluição e Qualidade da Água	recurso	24/07/23	09:00	90	S34		
+Acústica e Poluição Sonora	recurso	09/02/23	10:00	100	S1		
+Gestão e Tratamento de Resíduos	recurso	13/02/23	14:00	120	S80		
+Laboratórios de Engenharia do Ambiente	recurso	16/02/23	16:00	90	S47		
+Poluição e Reabilitação dos Solos	recurso	20/02/23	09:00	100	S5		
+Tratamento de Água	recurso	23/02/23	10:00	120	S73		
+Energia Sustentável	recurso	10/07/23	14:00	90	S24		
+Instrumentos de Apoio à Decisão	recurso	13/07/23	16:00	100	S61		
+Poluição e Qualidade do Ar	recurso	17/07/23	16:00	120	S59		
+Algoritmos e Programação	especial	01/09/23	09:00	90	S27		
+Álgebra	especial	04/09/23	10:00	100	S65		
+Análise Matemática	especial	07/09/23	14:00	120	S52		
+Sistemas Digitais	especial	11/09/23	16:00	90	S34		
+Tecnologia dos Computadores	especial	14/09/23	09:00	100	S1		
+Usabilidade	especial	01/09/23	14:00	100	S61		
+Sistemas Operativos	especial	04/09/23	16:00	120	S59		
+Aplicações para a Internet I	especial	07/09/23	09:00	90	S29		
+Programação Orientada aos Objetos	especial	11/09/23	10:00	100	S43		
+Análise de Sistemas	especial	14/09/23	14:00	120	S12		
+Bases de Dados II	especial	01/09/23	09:00	120	S56		
+Complementos de Sistemas Operativos	especial	04/09/23	10:00	90	S63		
+Sistemas Embebidos	especial	07/09/23	14:00	100	S50		
+Sistemas Distribuídos	especial	11/09/23	16:00	120	S11		
+Redes de Comunicação III	especial	14/09/23	09:00	90	S26		
+Álgebra Linear e Geometria Analítica	especial	01/09/23	10:00	120	S23		
+Análise Matemática I	especial	04/09/23	14:00	90	S31		
+Desenho Eletrotécnico	especial	07/09/23	16:00	100	S39		
+Física Geral	especial	11/09/23	09:00	120	S48		
+Programação de Computadores	especial	14/09/23	10:00	90	S46		
+Eletromagnetismo	especial	01/09/23	09:00	100	S71		
+Eletrónica	especial	04/09/23	10:00	120	S9		
+Instalações Elétricas II	especial	07/09/23	14:00	90	S2		
+Sistemas Digitais	especial	11/09/23	16:00	100	S67		
+Sistemas e Controlo	especial	14/09/23	09:00	120	S60		
+Automação Industrial	especial	01/09/23	14:00	120	S10		
+Gestão Industrial	especial	04/09/23	16:00	90	S49		
+Sistemas de Acionamento Eletromecânicos	especial	07/09/23	09:00	100	S53		
+Sistemas de Eletrónica	especial	11/09/23	10:00	120	S6		
+Gestão da Segurança no Trabalho	especial	14/09/23	14:00	90	S57		
+Álgebra Linear e Geometria Analítica	especial	01/09/23	14:00	100	S77		
+Análise Matemática I	especial	04/09/23	16:00	120	S40		
+Ciência e Engenharia de Materiais I	especial	07/09/23	09:00	90	S64		
+Desenho Técnico I	especial	11/09/23	10:00	100	S35		
+Mecânica I	especial	14/09/23	14:00	120	S79		
+Desenho de Máquinas	especial	01/09/23	09:00	120	S51		
+Eletrónica e Instrumentação	especial	04/09/23	10:00	90	S18		
+Gestão da Produção e dos Materiais	especial	07/09/23	14:00	100	S62		
+Resistência dos Materiais	especial	11/09/23	16:00	120	S4		
+Termodinâmica Aplicada	especial	14/09/23	09:00	90	S37		
+Automação e Controlo	especial	01/09/23	14:00	90	S25		
+Energias Renováveis	especial	04/09/23	16:00	100	S38		
+Órgãos de Máquinas II	especial	07/09/23	09:00	120	S81		
+Tecnologia Mecânica I	especial	11/09/23	10:00	90	S27		
+Combustão e Bioenergia	especial	14/09/23	14:00	100	S65		
+Desenvolvimento de Competências Pessoais	especial	01/09/23	14:00	120	S80		
+Fundamentos de Direito	especial	04/09/23	16:00	90	S47		
+Gestão das Organizações	especial	07/09/23	09:00	100	S5		
+Introdução à Contabilidade	especial	11/09/23	10:00	120	S73		
+Matemática	especial	14/09/23	14:00	90	S24		
+Contabilidade de Gestão I	especial	01/09/23	10:00	100	S20		
+Contabilidade Financeira II	especial	04/09/23	14:00	120	S45		
+Direito Laboral	especial	07/09/23	16:00	90	S7		
+Fiscalidade de Empresa I	especial	11/09/23	09:00	100	S28		
+Marketing	especial	14/09/23	10:00	120	S56		
+Complementos de Fiscalidade	especial	01/09/23	14:00	100	S44		
+Controlo de Gestão	especial	04/09/23	16:00	120	S15		
+Gestão Financeira	especial	07/09/23	09:00	90	S8		
+Inglês Técnico	especial	11/09/23	10:00	100	S70		
+Sistemas de Informação Contabilísticos	especial	14/09/23	14:00	120	S23		
+Álgebra Linear e Geometria Analítica	especial	01/09/23	14:00	90	S46		
+Cálculo I	especial	04/09/23	16:00	100	S21		
+Ciências dos Materiais	especial	07/09/23	09:00	120	S54		
+Comunicação Empresarial	especial	11/09/23	14:00	90	S69		
+Física	especial	14/09/23	16:00	100	S16		
+Automação e Controlo	especial	01/09/23	10:00	100	S67		
+Contabilidade de Gestão	especial	04/09/23	14:00	120	S60		
+Gestão da Produção e Operações	especial	07/09/23	16:00	90	S17		
+Instalações Elétricas Industriais	especial	11/09/23	09:00	100	S14		
+Métodos de Otimização	especial	14/09/23	10:00	120	S75		
+Controlo de Gestão	especial	01/09/23	16:00	120	S6		
+Design de Produto	especial	04/09/23	09:00	90	S57		
+Gestão de Recursos Humanos	especial	07/09/23	10:00	100	S36		
+Legislação Industrial e Normalização	especial	11/09/23	14:00	120	S42		
+Análise de Investimentos	especial	14/09/23	16:00	90	S41		
+Álgebra Linear e Geometria Analítica	especial	01/09/23	16:00	100	S35		
+Análise Matemática I	especial	04/09/23	09:00	120	S79		
+Desenho Técnico	especial	07/09/23	10:00	90	S72		
+Física Aplicada à Engenharia Civil	especial	11/09/23	14:00	100	S13		
+Introdução à Engenharia Civil	especial	14/09/23	16:00	120	S66		
+Hidráulica I	especial	01/09/23	16:00	100	S76		
+Metodologia BIM	especial	04/09/23	09:00	120	S19		
+Métodos Numéricos e Investigação Operacional	especial	07/09/23	10:00	90	S55		
+Planeamento Territorial e Gestão Urbanística	especial	11/09/23	14:00	100	S58		
+Qualidade e Sustentabilidade na Construção	especial	14/09/23	16:00	120	S68		
+Betão Estrutural I	especial	01/09/23	16:00	100	S1		
+Física das Construções	especial	04/09/23	09:00	120	S80		
+Hidráulica Aplicada	especial	07/09/23	10:00	90	S47		
+Mecânica dos Solos II	especial	11/09/23	14:00	100	S5		
+Planeamento e Gestão de Projetos e Obras	especial	14/09/23	16:00	120	S73		
+Ciência dos Materiais I	especial	01/09/23	09:00	100	S43		
+Desenho Técnico	especial	04/09/23	10:00	120	S12		
+Métodos Matemáticos	especial	07/09/23	14:00	90	S78		
+Tecnologias de Informação	especial	11/09/23	16:00	100	S20		
+Teoria do Design	especial	14/09/23	09:00	120	S45		
+Desenho II	especial	01/09/23	14:00	120	S11		
+Equipamentos, Operações e Processos I	especial	04/09/23	16:00	90	S26		
+Laboratórios de Tecnologia do Mobiliário I	especial	07/09/23	09:00	100	S44		
+Metodologias de Design	especial	11/09/23	10:00	120	S15		
+Tecnologia dos Materiais Compósitos	especial	14/09/23	14:00	90	S8		
+Engenharia de Produto	especial	01/09/23	16:00	120	S48		
+Marketing	especial	04/09/23	09:00	90	S46		
+Materiais Auxiliares	especial	07/09/23	10:00	100	S21		
+Tecnologia dos Acabamentos	especial	11/09/23	14:00	120	S54		
+Ecodesign	especial	14/09/23	16:00	90	S69		
+Espanhol I	especial	01/09/23	14:00	90	S3		
+Inglês I	especial	04/09/23	16:00	100	S71		
+Introdução à Empresa	especial	07/09/23	09:00	120	S9		
+Língua e Cultura Portuguesa	especial	11/09/23	10:00	90	S2		
+Métodos Quantitativos Aplicados ao Turismo	especial	14/09/23	14:00	100	S67		
+Francês I	especial	01/09/23	14:00	90	S49		
+Inglês III	especial	04/09/23	16:00	100	S53		
+Introdução ao Marketing	especial	07/09/23	09:00	120	S6		
+Operações Turísticas	especial	11/09/23	10:00	90	S57		
+Sociologia do Turismo	especial	14/09/23	14:00	100	S36		
+Animação Turística	especial	01/09/23	14:00	90	S72		
+Francês III	especial	04/09/23	16:00	100	S13		
+Gestão de Recursos Humanos	especial	07/09/23	09:00	120	S66		
+Inglês V	especial	11/09/23	10:00	90	S30		
+Organização e Gestão de Eventos	especial	14/09/23	14:00	100	S74		
+Economia e Sociedade	especial	01/09/23	14:00	120	S4		
+Inglês de Negócios I	especial	04/09/23	16:00	90	S37		
+Introdução à Empresa	especial	07/09/23	09:00	100	S76		
+Introdução ao Marketing	especial	11/09/23	10:00	120	S19		
+Matemática Aplicada ao Marketing	especial	14/09/23	14:00	90	S55		
+Advances in Marketing	especial	01/09/23	14:00	120	S52		
+Comunicação	especial	04/09/23	16:00	90	S34		
+Criatividade e Inovação	especial	07/09/23	09:00	100	S1		
+Desenho e Modelação	especial	11/09/23	10:00	120	S80		
+Marketing de Serviços	especial	14/09/23	14:00	90	S47		
+Empreendedorismo	especial	01/09/23	14:00	120	S12		
+Estudos de Mercado	especial	04/09/23	16:00	90	S78		
+Marketing Digital	especial	07/09/23	09:00	100	S20		
+Marketing Sensorial	especial	11/09/23	10:00	120	S45		
+Negócios Internacionais	especial	14/09/23	14:00	90	S7		
+Contabilidade Financeira I	especial	01/09/23	10:00	90	S63		
+Introdução à Gestão	especial	04/09/23	14:00	100	S50		
+Matemática I	especial	07/09/23	16:00	120	S11		
+Microeconomia	especial	11/09/23	09:00	90	S26		
+Noções Fundamentais de Direito	especial	14/09/23	10:00	100	S44		
+Cálculo Financeiro	especial	01/09/23	10:00	90	S46		
+Contabilidade de Gestão I	especial	04/09/23	14:00	100	S21		
+Estatística	especial	07/09/23	16:00	120	S54		
+Estratégia Empresarial	especial	11/09/23	09:00	90	S69		
+Marketing	especial	14/09/23	10:00	100	S16		
+Direito do Trabalho	especial	01/09/23	10:00	100	S22		
+Gestão Financeira	especial	04/09/23	14:00	120	S10		
+Sistemas de Controlo de Gestão	especial	07/09/23	16:00	90	S49		
+e-Business	especial	11/09/23	09:00	100	S53		
+Estudos de Mercado	especial	14/09/23	10:00	120	S6		
+Álgebra Linear e Geometria Analítica	especial	01/09/23	14:00	120	S79		
+Análise Matemática I	especial	04/09/23	16:00	90	S72		
+Dinâmica dos Sistemas Terrestres	especial	07/09/23	09:00	100	S13		
+Ecologia e Conservação da Natureza	especial	11/09/23	10:00	120	S66		
+Introdução à Engenharia e ao Ambiente	especial	14/09/23	14:00	90	S30		
+Fenómenos de Transferência	especial	01/09/23	14:00	120	S19		
+Mecânica dos Fluidos	especial	04/09/23	16:00	90	S55		
+Métodos de Análise Química	especial	07/09/23	09:00	100	S58		
+Métodos Numéricos	especial	11/09/23	10:00	120	S68		
+Operações Unitárias e Reatores	especial	14/09/23	14:00	90	S25		
+Acústica e Poluição Sonora	especial	01/09/23	10:00	100	S1		
+Gestão e Tratamento de Resíduos	especial	04/09/23	14:00	120	S80		
+Laboratórios de Engenharia do Ambiente	especial	07/09/23	16:00	90	S47		
+Poluição e Reabilitação dos Solos	especial	11/09/23	09:00	100	S5		
+Tratamento de Água	especial	14/09/23	10:00	120	S73		
+							
+							
+							

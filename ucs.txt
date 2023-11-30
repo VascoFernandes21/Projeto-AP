@@ -1,0 +1,337 @@
+NOME	DOCENTE	ANO	SEMESTRE
+Algoritmos e Programação	Prof. João Silva	1	1
+Álgebra	Prof. Maria Silva	1	1
+Análise Matemática	Prof. João Santos	1	1
+Sistemas Digitais	Prof. Ana Martins	1	1
+Tecnologia dos Computadores	Prof. José Oliveira	1	1
+Estrutura de Dados	Prof. Beatriz Rodrigues	1	2
+Matemática Discreta	Prof. Manuela Gomes	1	2
+Redes de Comunicação I	Prof. Luís Ferreira	1	2
+Arquitetura de Computador	Prof. Inês Almeida	1	2
+Matemática Aplicada	Prof. Pedro Pinto	1	2
+Usabilidade	Prof. Isabel Carvalho	2	1
+Sistemas Operativos	Prof. Ricardo Reis	2	1
+Aplicações para a Internet I	Prof. Sofia Costa	2	1
+Programação Orientada aos Objetos	Prof. Bruno Fernandes	2	1
+Análise de Sistemas	Prof. Marta Neves	2	1
+Programação para Dispositivos Móveis	Prof. Tiago Albuquerque	2	2
+Redes de Comunicação II	Prof. Carla Dias	2	2
+Engenharia de Software I	Prof. Filipe Novais	2	2
+Aplicações para a Internet II	Prof. Natália Monteiro	2	2
+Bases de Dados I	Prof. Carlos Guedes	2	2
+Bases de Dados II	Prof. Beatriz Marques	3	1
+Complementos de Sistemas Operativos	Prof. Marcelo Albuquerque	3	1
+Sistemas Embebidos	Prof. Joana Monteiro	3	1
+Sistemas Distribuídos	Prof. André Rocha	3	1
+Redes de Comunicação III	Prof. Rafaela Moreira	3	1
+Segurança Informática	Prof. David Gomes	3	1
+Inteligência Artificial	Prof. Catarina Alves	3	2
+Engenharia de Software II	Prof. Rui Santos	3	2
+Empreendorismo e Gestão de Empresas	Prof. Elisa Fernandes	3	2
+Álgebra Linear e Geometria Analítica	Prof. Francisco Silva	1	1
+Análise Matemática I	Prof. Raquel Costa	1	1
+Desenho Eletrotécnico	Prof. Luísa Martins	1	1
+Física Geral	Prof. Gonçalo Oliveira	1	1
+Programação de Computadores	Prof. Maria Ramos	1	1
+Análise Matemática II	Prof. Sérgio Pereira	1	2
+Eletrotecnia e Circuitos	Prof. Catarina Pinto	1	2
+Instalações Elétricas I	Prof. Diogo Almeida	1	2
+Métodos Numéricos	Prof. Maria Vasconcelos	1	2
+Probabilidades e Estatística	Prof. António Reis	1	2
+Programação Avançada	Prof. Margarida Gomes	1	2
+Eletromagnetismo	Prof. Jorge Costa	2	1
+Eletrónica	Prof. Raquel Marques	2	1
+Instalações Elétricas II	Prof. Bruno Rodrigues	2	1
+Sistemas Digitais	Prof. Carla Ferreira	2	1
+Sistemas e Controlo	Prof. Pedro Novais	2	1
+Eletrónica de Potência	Prof. Ana Oliveira	2	2
+Gestão e Qualidade da Energia Elétrica	Prof. Madalena Guedes	2	2
+Instrumentação Industrial	Prof. David Dias	2	2
+Máquinas Elétricas	Prof. Sofia Alves	2	2
+Microssistemas	Prof. Tiago Fernandes	2	2
+Automação Industrial	Prof. Maria Moreira	3	1
+Gestão Industrial	Prof. Rafael Rodrigues	3	1
+Sistemas de Acionamento Eletromecânicos	Prof. Ana Neves	3	1
+Sistemas de Eletrónica	Prof. João Martins	3	1
+Gestão da Segurança no Trabalho	Prof. Carla Pinto	3	2
+Processamento de Sinal	Prof. Luísa Gomes	3	2
+Redes Industriais	Prof. Sérgio Almeida	3	2
+Robótica Industrial	Prof. Beatriz Vasconcelos	3	2
+Álgebra Linear e Geometria Analítica	Prof. Manuela Reis	1	1
+Análise Matemática I	Prof. Bruno Alves	1	1
+Ciência e Engenharia de Materiais I	Prof. Maria Monteiro	1	1
+Desenho Técnico I	Prof. Pedro Costa	1	1
+Mecânica I	Prof. Ana Fernandes	1	1
+Análise Matemática II	Prof. Rafaela Oliveira	1	2
+Ciência e Engenharia de Materiais II	Prof. Luís Marques	1	2
+Desenho Técnico II	Prof. Madalena Dias	1	2
+Eletricidade	Prof. Tiago Guedes	1	2
+Mecânica II	Prof. Sónia Almeida	1	2
+Desenho de Máquinas	Prof. Francisco Pinto	2	1
+Eletrónica e Instrumentação	Prof. Margarida Neves	2	1
+Gestão da Produção e dos Materiais	Prof. João Reis	2	1
+Resistência dos Materiais	Prof. Carla Ferreira	2	1
+Termodinâmica Aplicada	Prof. Ana Silva	2	1
+Gestão da Manutenção Industrial e Controlo de Qualidade	Prof. Marcelo Gomes	2	2
+Instalações e Máquinas Elétricas	Prof. Sofia Rodrigues	2	2
+Mecânica dos Fluidos	Prof. Maria Alves	2	2
+Órgãos de Máquinas I	Prof. David Martins	2	2
+Transferência de Calor e Massa	Prof. Bruno Oliveira	2	2
+Automação e Controlo	Prof. Natália Monteiro	3	1
+Energias Renováveis	Prof. Tiago Almeida	3	1
+Órgãos de Máquinas II	Prof. Rafaela Guedes	3	1
+Tecnologia Mecânica I	Prof. Carla Pinto	3	1
+Combustão e Bioenergia	Prof. Luísa Vasconcelos	3	2
+Elementos de Mecânica Estrutural	Prof. Pedro Fernandes	3	2
+Máquinas Térmicas	Prof. Ana Moreira	3	2
+Tecnologia Mecânica II	Prof. Madalena Costa	3	2
+Desenvolvimento de Competências Pessoais	Prof. João Marques	1	1
+Fundamentos de Direito	Prof. Sónia Reis	1	1
+Gestão das Organizações	Prof. Francisco Alves	1	1
+Introdução à Contabilidade	Prof. Beatriz Neves	1	1
+Matemática	Prof. Maria Dias	1	1
+Microeconomia	Prof. Tiago Oliveira	1	1
+Cálculo Financeiro	Prof. Ana Guedes	1	2
+Contabilidade Financeira I	Prof. Bruno Pinto	1	2
+Direito Empresarial	Prof. Margarida Martins	1	2
+Estatística Aplicada à Gestão	Prof. Carla Almeida	1	2
+Macroeconomia	Prof. David Silva	1	2
+Contabilidade de Gestão I	Prof. Natália Fernandes	2	1
+Contabilidade Financeira II	Prof. Rafael Rodrigues	2	1
+Direito Laboral	Prof. Sofia Gomes	2	1
+Fiscalidade de Empresa I	Prof. Maria Monteiro	2	1
+Marketing	Prof. João Alves	2	1
+Análise Financeira	Prof. Pedro Reis	2	2
+Contabilidade das Sociedades	Prof. Ana Vasconcelos	2	2
+Contabilidade de Gestão II	Prof. Luís Costa	2	2
+Fiscalidade de Empresa II	Prof. Bruno Ferreira	2	2
+Complementos de Fiscalidade	Prof. Tiago Guedes	3	1
+Controlo de Gestão	Prof. Margarida Oliveira	3	1
+Gestão Financeira	Prof. Maria Pinto	3	1
+Inglês Técnico	Prof. Diogo Almeida	3	1
+Sistemas de Informação Contabilísticos	Prof. Manuela Gomes	3	1
+Auditoria	Prof. Sofia Martins	3	2
+Ética e Deontologia	Prof. Bruno Fernandes	3	2
+Simulação Empresarial	Prof. Maria Almeida	3	2
+Álgebra Linear e Geometria Analítica	Prof. Ana Reis	1	1
+Cálculo I	Prof. Rafael Costa	1	1
+Ciências dos Materiais	Prof. Sérgio Oliveira	1	1
+Comunicação Empresarial	Prof. Luísa Vasconcelos	1	1
+Física	Prof. Maria Rodrigues	1	1
+Análise Estatística e Probabilidades	Prof. Tiago Guedes	1	2
+Cálculo II	Prof. Madalena Alves	1	2
+Comportamento Organizacional	Prof. João Fernandes	1	2
+Economia	Prof. Ana Dias	1	2
+Noções de Eletricidade	Prof. Carla Monteiro	1	2
+Automação e Controlo	Prof. Pedro Marques	2	1
+Contabilidade de Gestão	Prof. Rafaela Pinto	2	1
+Gestão da Produção e Operações	Prof. Maria Silva	2	1
+Instalações Elétricas Industriais	Prof. Luís Reis	2	1
+Métodos de Otimização	Prof. Bruno Neves	2	1
+Gestão da Manutenção	Prof. Tiago Martins	2	2
+Gestão de Energia	Prof. Ana Gomes	2	2
+Gestão Logística	Prof. Maria Almeida	2	2
+Marketing Industrial	Prof. Sofia Oliveira	2	2
+Processos de Fabrico	Prof. Rafael Costa	2	2
+Controlo de Gestão	Prof. David Alves	3	1
+Design de Produto	Prof. Carla Fernandes	3	1
+Gestão de Recursos Humanos	Prof. João Vasconcelos	3	1
+Legislação Industrial e Normalização	Prof. Ana Reis	3	1
+Análise de Investimentos	Prof. Maria Dias	3	2
+Estratégia Empresarial	Prof. Bruno Pinto	3	2
+Gestão da Qualidade	Prof. Tiago Guedes	3	2
+Inovação e Empreendedorismo	Prof. Madalena Martins	3	2
+Álgebra Linear e Geometria Analítica	Prof. João Oliveira	1	1
+Análise Matemática I	Prof. Ana Almeida	1	1
+Desenho Técnico	Prof. Maria Rodrigues	1	1
+Física Aplicada à Engenharia Civil	Prof. Sofia Fernandes	1	1
+Introdução à Engenharia Civil	Prof. Rafael Costa	1	1
+Programação	Prof. David Alves	1	1
+Análise Matemática II	Prof. Carla Monteiro	1	2
+Desenho Assistido por Computador	Prof. Pedro Marques	1	2
+Geologia da Engenharia	Prof. Rafaela Pinto	1	2
+Materiais de Construção	Prof. Maria Silva	1	2
+Mecânica Aplicada	Prof. Luís Reis	1	2
+Probabilidades e Estatística	Prof. Bruno Neves	1	2
+Hidráulica I	Prof. Tiago Martins	2	1
+Metodologia BIM	Prof. Ana Gomes	2	1
+Métodos Numéricos e Investigação Operacional	Prof. Maria Almeida	2	1
+Planeamento Territorial e Gestão Urbanística	Prof. Sofia Oliveira	2	1
+Qualidade e Sustentabilidade na Construção	Prof. Rafael Costa	2	1
+Resistência de Materiais I	Prof. David Alves	2	1
+Estruturas	Prof. Carla Fernandes	2	2
+Hidráulica II	Prof. João Vasconcelos	2	2
+Mecânica dos Solos I	Prof. Ana Reis	2	2
+Resistência de Materiais II	Prof. Maria Dias	2	2
+Tecnologia das Construções	Prof. Bruno Pinto	2	2
+Topografia e Sistemas de Informação Geográfica	Prof. Tiago Guedes	2	2
+Betão Estrutural I	Prof. Madalena Martins	3	1
+Física das Construções	Prof. João Oliveira	3	1
+Hidráulica Aplicada	Prof. Ana Alme	3	1
+Mecânica dos Solos II	Prof. Diogo Almeida	3	1
+Planeamento e Gestão de Projetos e Obras	Prof. Manuela Gomes	3	1
+Vias de Comunicação I	Prof. Sofia Martins	3	1
+Betão Estrutural II	Prof. Bruno Fernandes	3	2
+Gestão, Coordenação e Fiscalização de Empreendimentos	Prof. Maria Almeida	3	2
+Vias de Comunicação II	Prof. Ana Reis	3	2
+Ciência dos Materiais I	Prof. Rafael Costa	1	1
+Desenho Técnico	Prof. Sérgio Oliveira	1	1
+Métodos Matemáticos	Prof. Luísa Vasconcelos	1	1
+Tecnologias de Informação	Prof. Maria Rodrigues	1	1
+Teoria do Design	Prof. Tiago Guedes	1	1
+Ciência dos Materiais II	Prof. Madalena Alves	1	2
+Desenho I	Prof. João Fernandes	1	2
+História do Mobiliário	Prof. Ana Dias	1	2
+Mecânica dos Materiais	Prof. Carla Monteiro	1	2
+Tecnologia dos Materiais Lenhocelulósicos	Prof. Pedro Marques	1	2
+Desenho II	Prof. Rafaela Pinto	2	1
+Equipamentos, Operações e Processos I	Prof. Maria Silva	2	1
+Laboratórios de Tecnologia do Mobiliário I	Prof. Luís Reis	2	1
+Metodologias de Design	Prof. Bruno Neves	2	1
+Tecnologia dos Materiais Compósitos	Prof. Tiago Martins	2	1
+Design de Produto	Prof. Ana Gomes	2	2
+Equipamentos, Operações e Processos II	Prof. Maria Almeida	2	2
+Estruturas e Componentes	Prof. Sofia Oliveira	2	2
+Laboratórios de Tecnologia do Mobiliário II	Prof. Rafael Costa	2	2
+Engenharia de Produto	Prof. David Alves	3	1
+Marketing	Prof. Carla Fernandes	3	1
+Materiais Auxiliares	Prof. João Vasconcelos	3	1
+Tecnologia dos Acabamentos	Prof. Ana Reis	3	1
+Ecodesign	Prof. Maria Dias	3	2
+Inovação, Empreendedorismo e Projetos	Prof. Bruno Pinto	3	2
+Logística e Operações	Prof. Tiago Guedes	3	2
+Espanhol I	Prof. Madalena Martins	1	1
+Inglês I	Prof. João Oliveira	1	1
+Introdução à Empresa	Prof. Ana Almeida	1	1
+Língua e Cultura Portuguesa	Prof. Maria Rodrigues	1	1
+Métodos Quantitativos Aplicados ao Turismo	Prof. Sofia Fernandes	1	1
+Princípios Gerais de Turismo	Prof. Rafael Costa	1	1
+Direito do Turismo	Prof. David Alves	1	2
+Economia do Turismo	Prof. Carla Monteiro	1	2
+Espanhol II	Prof. Pedro Marques	1	2
+Gestão Contabilística e Financeira	Prof. Rafaela Pinto	1	2
+História da Arte e da Cultura	Prof. Maria Silva	1	2
+Inglês II	Prof. Luís Reis	1	2
+Francês I	Prof. Bruno Neves	2	1
+Inglês III	Prof. Tiago Martins	2	1
+Introdução ao Marketing	Prof. Ana Gomes	2	1
+Operações Turísticas	Prof. Maria Almeida	2	1
+Sociologia do Turismo	Prof. Maria da Silva	2	1
+Turismo e Património	Prof. José Rodrigues	2	1
+Aplicações Informáticas em Turismo	Prof. Ana Martins	2	2
+Francês II	Prof. António Fernandes	2	2
+Geografia e Itinerários Turísticos	Prof. Sofia Santos	2	2
+Inglês IV	Prof. Luís Ferreira	2	2
+Marketing Turístico	Prof. Beatriz Costa	2	2
+Produtos Turísticos	Prof. Ricardo Neves	2	2
+Animação Turística	Prof. Inês Pinto	3	1
+Francês III	Prof. Manuel Martins	3	1
+Gestão de Recursos Humanos	Prof. Catarina Oliveira	3	1
+Inglês V	Prof. Bruno Almeida	3	1
+Organização e Gestão de Eventos	Prof. Raquel Ribeiro	3	1
+Gestão Hoteleira e Restauração	Prof. Tiago Gonçalves	3	2
+Planeamento e Ordenamento em Turismo	Prof. Isabel Ferreira	3	2
+Turismo de Saúde e Bem-Estar	Prof. Pedro Alves	3	2
+Economia e Sociedade	Prof. Carla Machado	1	1
+Inglês de Negócios I	Prof. Carlos Martins	1	1
+Introdução à Empresa	Prof. Margarida Gomes	1	1
+Introdução ao Marketing	Prof. Diogo Rodrigues	1	1
+Matemática Aplicada ao Marketing	Prof. Marcelo Sousa	1	1
+Sistemas de Informação para Gestão	Prof. Marta Costa	1	1
+Comportamento do Consumidor	Prof. Nuno Fonseca	1	2
+Direito Aplicado ao Marketing	Prof. Teresa Santos	1	2
+Estatística Aplicada ao Marketing	Prof. Luís Pinto	1	2
+Força de Vendas e Negociação Comercial	Prof. Marta Rodrigues	1	2
+Inglês de Negócios II	Prof. Daniela Costa	1	2
+Noções Básicas de Contabilidade	Prof. Filipe Neves	1	2
+Advances in Marketing	Prof. André Fernandes	2	1
+Comunicação	Prof. Maria Martins	2	1
+Criatividade e Inovação	Prof. João Sousa	2	1
+Desenho e Modelação	Prof. Raquel Silva	2	1
+Marketing de Serviços	Prof. Bruno Oliveira	2	1
+Produção Multimédia I	Prof. Sofia Gomes	2	1
+Branding	Prof. Carlos Pinto	2	2
+Distribuição e Merchandising	Prof. Ana Almeida	2	2
+Gestão da Produção e Materiais	Prof. Ricardo Ferreira	2	2
+Gestão Logística e Operacional	Prof. Inês Gonçalves	2	2
+Produção Multimédia II	Prof. Manuel Ribeiro	2	2
+Publicidade	Prof. Catarina Alves	2	2
+Empreendedorismo	Prof. Pedro Costa	3	1
+Estudos de Mercado	Prof. Carla Santos	3	1
+Marketing Digital	Prof. Marta Machado	3	1
+Marketing Sensorial	Prof. Margarida Martins	3	1
+Negócios Internacionais	Prof. Diogo Fonseca	3	1
+Decisões de Investimento e Financiamento	Prof. Marcelo Rodrigues	3	2
+Recursos Humanos	Prof. Nuno Oliveira	3	2
+Contabilidade Financeira I	Prof. Teresa Pinto	1	1
+Introdução à Gestão	Prof. Luís Almeida	1	1
+Matemática I	Prof. Marta Gomes	1	1
+Microeconomia	Prof. Daniela Fernandes	1	1
+Noções Fundamentais de Direito	Prof. Filipe Sousa	1	1
+Tecnologias de Informação e Gestão	Prof. André Silva	1	1
+Contabilidade Financeira II	Prof. Maria Neves	1	2
+Direito de Empresa	Prof. João Costa	1	2
+Economia de Empresa	Prof. Raquel Alves	1	2
+Empreendedorismo	Prof. Bruno Martins	1	2
+Macroeconomia	Prof. Sofia Rodrigues	1	2
+Matemática II	Prof. Carlos Gonçalves	1	2
+Cálculo Financeiro	Prof. Ana Ribeiro	2	1
+Contabilidade de Gestão I	Prof. Ricardo Oliveira	2	1
+Estatística	Prof. Inês Machado	2	1
+Estratégia Empresarial	Prof. Manuel Pinto	2	1
+Marketing	Prof. Catarina Fernandes	2	1
+Gestão das Operações	Prof. Pedro Gomes	2	1
+Complementos de Contabilidade Financeira	Prof. Carla Almeida	2	1
+Análise Financeira	Prof. Marta Santos	2	2
+Contabilidade de Gestão II	Prof. Margarida Neves	2	2
+Gestão de Recursos Humanos	Prof. Diogo Alves	2	2
+Comportamento do Consumidor	Prof. Marcelo Costa	2	2
+Fiscalidade I (Ramo Organização e Gestão)	Prof. Nuno Martins	2	2
+Investigação Operacional	Prof. Teresa Fernandes	2	2
+Contabilidade Pública	Prof. Luís Sousa	2	2
+Fiscalidade I (Ramo Contabilidade e Fiscalidade)	Prof. Marta Oliveira	2	2
+Relato Financeiro	Prof. Daniela Pinto	2	2
+Direito do Trabalho	Prof. Filipe Rodrigues	3	1
+Gestão Financeira	Prof. André Gomes	3	1
+Sistemas de Controlo de Gestão	Prof. Maria Almeida	3	1
+e-Business	Prof. João Fernandes	3	1
+Estudos de Mercado	Prof. Raquel Santos	3	1
+Negócios Internacionais	Prof. Bruno Neves	3	1
+Ética e Deontologia	Prof. Sofia Alves	3	1
+Fiscalidade II	Prof. Carlos Mart	3	1
+Sistemas de Informação Contabilísticos	Prof. Ana Oliveira	3	1
+Liderança	Prof. Ricardo Pinto	3	2
+Pensamentos Contemporâneos da Gestão	Prof. Inês Fernandes	3	2
+Auditoria Financeira	Prof. Manuel Gonçalves	3	2
+Complementos de Fiscalidade	Prof. Catarina Martins	3	2
+Álgebra Linear e Geometria Analítica	Prof. Pedro Santos	1	1
+Análise Matemática I	Prof. Carla Alves	1	1
+Dinâmica dos Sistemas Terrestres	Prof. Marta Neves	1	1
+Ecologia e Conservação da Natureza	Prof. Margarida Rodrigues	1	1
+Introdução à Engenharia e ao Ambiente	Prof. Diogo Gomes	1	1
+Química Geral	Prof. Marcelo Fernandes	1	1
+Análise Matemática II	Prof. Nuno Pinto	1	2
+Aplicações para Engenharia do Ambiente	Prof. Teresa Oliveira	1	2
+Física Geral	Prof. Luís Almeida	1	2
+Microbiologia	Prof. Marta Martins	1	2
+Química Orgânica	Prof. Daniela Gonçalves	1	2
+Tratamento Estatístico de Dados	Prof. Filipe Sousa	1	2
+Fenómenos de Transferência	Prof. André Silva	2	1
+Mecânica dos Fluidos	Prof. Maria Almeida	2	1
+Métodos de Análise Química	Prof. João Fernandes	2	1
+Métodos Numéricos	Prof. Raquel Santos	2	1
+Operações Unitárias e Reatores	Prof. Bruno Neves	2	1
+Termodinâmica	Prof. Sofia Alves	2	1
+Cartografia e Sistemas de Informação Geográfica	Prof. Carlos Martins	2	2
+Combustão e Controlo de Emissões Gasosas	Prof. Ana Oliveira	2	2
+Hidrologia e Recursos Hídricos	Prof. Ricardo Pinto	2	2
+Laboratórios de Aplicação	Prof. Inês Fernandes	2	2
+Poluição e Qualidade da Água	Prof. Manuel Gonçalves	2	2
+Acústica e Poluição Sonora	Prof. Catarina Martins	3	1
+Gestão e Tratamento de Resíduos	Prof. Pedro Santos	3	1
+Laboratórios de Engenharia do Ambiente	Prof. Carla Alves	3	1
+Poluição e Reabilitação dos Solos	Prof. Marta Neves	3	1
+Tratamento de Água	Prof. Margarida Rodrigues	3	1
+Energia Sustentável	Prof. Diogo Gomes	3	2
+Instrumentos de Apoio à Decisão	Prof. Francisco Dias	3	2
+Poluição e Qualidade do Ar	Prof. Duarte Lima	3	2
